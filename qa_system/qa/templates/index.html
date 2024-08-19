@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Q&A</title>
+    <script>
+        async function askQuestion() {
+            const question = document.getElementById('question').value;
+            const response = await fetch('/ask-question/', {  // URL'yi doğru girin
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'X-Requested-With': 'XMLHttpRequest'
+                },
+                body: new URLSearchParams({ 'question': question })
+            });
+            const result = await response.json();
+            document.getElementById('answer').innerText = result.answer || result.error;
+        }
+    </script>
+</head>
+<body>
+    <h1>Ask a Question</h1>
+    <input type="text" id="question" placeholder="Enter your question" />
+    <button onclick="askQuestion()">Ask</button>
+    <p id="answer"></p>
+</body>
+</html>
