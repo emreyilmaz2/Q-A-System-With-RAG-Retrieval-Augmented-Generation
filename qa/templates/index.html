@@ -96,7 +96,6 @@
                 document.getElementById('answer').innerText = result.answer || result.error;
                 document.getElementById('message').innerText = 'Your question has been submitted!';
                 document.getElementById('retry-container').style.display = 'block'; // Show retry container
-                document.getElementById('question').value = ''; // Clear input
             } else {
                 document.getElementById('answer').innerText = '';
                 document.getElementById('message').innerText = 'An error occurred. Please try again.';

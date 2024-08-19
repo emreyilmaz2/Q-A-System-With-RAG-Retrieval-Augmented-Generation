@@ -61,12 +61,12 @@ def process_query(query_text):
     # FAISS indeksi oluşturma ve vektörleri yükleme
     index = load_vectors_to_faiss(path_vectors)
 
-    def search_similar_paths(index, query_vector, k=25):
+    def search_similar_paths(index, query_vector, k=50):
         distances, indices = index.search(query_vector, k)
         return distances, indices
 
     query_vector = encode_text(query_text, vectorizer)
-    distances, indices = search_similar_paths(index, query_vector, k=25)
+    distances, indices = search_similar_paths(index, query_vector, k=50)
 
     def generate_response(logs):
         combined_text = "\n".join([f"Log path: {log['path']}, Timestamp: {log['timestamp']}" for log in logs])
