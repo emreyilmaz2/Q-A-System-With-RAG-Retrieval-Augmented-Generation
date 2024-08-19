@@ -1,0 +1,9 @@
+datasets==2.10.0
+transformers[torch]
+faiss-cpu
+scikit-learn
+sentence-transformers
+numpy
+transformers
+torch
+django

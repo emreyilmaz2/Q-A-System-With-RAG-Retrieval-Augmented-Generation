@@ -1,0 +1,2000 @@
+207.218.154.67 - - [25/Jul/2024:02:49:26 +0000] "POST /cart/add/bread HTTP/1.1" 201 880
+61.198.63.87 - - [29/Jul/2024:20:52:22 +0000] "POST /products?category=bakery HTTP/1.1" 200 693
+91.45.185.143 - - [19/Aug/2024:21:01:03 +0000] "GET /checkout HTTP/1.1" 200 1285
+202.185.48.168 - - [23/Jul/2024:19:09:45 +0000] "GET /products?category=bakery HTTP/1.1" 200 336
+251.193.46.24 - - [15/Aug/2024:17:03:05 +0000] "GET /cart/add/sugar HTTP/1.1" 201 1097
+219.28.217.135 - - [19/Aug/2024:06:40:30 +0000] "GET /checkout HTTP/1.1" 200 1064
+209.22.60.51 - - [31/Jul/2024:17:08:57 +0000] "GET /products/canned tuna.html HTTP/1.1" 200 1677
+82.205.105.237 - - [14/Aug/2024:09:11:52 +0000] "GET /cart/add/soy sauce HTTP/1.1" 201 582
+250.31.74.248 - - [03/Aug/2024:03:47:00 +0000] "POST /cart/add/cereal HTTP/1.1" 201 569
+119.171.55.191 - - [03/Aug/2024:15:30:43 +0000] "POST /products?category=snack HTTP/1.1" 200 434
+101.166.180.155 - - [18/Aug/2024:22:52:33 +0000] "POST /products?category=snack HTTP/1.1" 200 1253
+83.55.12.37 - - [06/Aug/2024:01:44:21 +0000] "GET /products?category=fruit HTTP/1.1" 200 445
+26.40.102.195 - - [15/Aug/2024:01:07:24 +0000] "GET /products?category=beverage HTTP/1.1" 200 1050
+51.121.86.248 - - [04/Aug/2024:07:02:07 +0000] "GET /products/bagels.html HTTP/1.1" 200 1260
+8.18.117.16 - - [19/Aug/2024:06:27:32 +0000] "POST /cart/add/canned soup HTTP/1.1" 201 1279
+135.173.27.11 - - [23/Jul/2024:00:50:46 +0000] "GET /cart/add/soy sauce HTTP/1.1" 201 1015
+217.171.77.84 - - [11/Aug/2024:19:52:39 +0000] "POST /search?q=trail mix HTTP/1.1" 200 425
+104.103.106.32 - - [25/Jul/2024:02:50:37 +0000] "GET /cart/add/olive oil HTTP/1.1" 201 1321
+5.85.43.138 - - [04/Aug/2024:15:46:52 +0000] "GET /cart/add/beans HTTP/1.1" 201 445
+191.64.118.108 - - [10/Aug/2024:23:25:43 +0000] "GET /checkout HTTP/1.1" 200 1649
+174.25.66.90 - - [19/Aug/2024:13:08:14 +0000] "GET /products/cookies.html HTTP/1.1" 200 1877
+39.127.249.84 - - [22/Jul/2024:22:57:58 +0000] "POST /cart/add/egg HTTP/1.1" 201 1933
+58.47.56.26 - - [03/Aug/2024:20:11:03 +0000] "GET /search?q=honey HTTP/1.1" 200 1016
+171.54.13.226 - - [24/Jul/2024:07:56:59 +0000] "GET /checkout HTTP/1.1" 200 1838
+230.131.159.167 - - [18/Aug/2024:12:33:57 +0000] "GET /cart/add/sriracha HTTP/1.1" 201 247
+115.76.81.191 - - [16/Aug/2024:17:01:29 +0000] "GET /checkout HTTP/1.1" 200 1223
+132.99.96.87 - - [30/Jul/2024:02:49:16 +0000] "GET /products?category=beverage HTTP/1.1" 200 1349
+232.102.205.29 - - [23/Jul/2024:07:32:13 +0000] "POST /search?q=energy bars HTTP/1.1" 200 1141
+79.184.219.232 - - [21/Jul/2024:23:34:14 +0000] "GET /products/beef.html HTTP/1.1" 200 1102
+103.16.220.36 - - [10/Aug/2024:02:13:30 +0000] "POST /checkout HTTP/1.1" 200 475
+190.249.108.80 - - [28/Jul/2024:03:43:36 +0000] "POST /search?q=yogurt HTTP/1.1" 200 937
+154.145.171.27 - - [04/Aug/2024:07:48:32 +0000] "POST /products?category=beverage HTTP/1.1" 200 854
+75.251.217.36 - - [24/Jul/2024:04:59:00 +0000] "POST /products?category=beverage HTTP/1.1" 200 714
+85.4.175.76 - - [16/Aug/2024:09:30:17 +0000] "GET /search?q=chips HTTP/1.1" 200 1991
+199.200.16.241 - - [03/Aug/2024:23:21:37 +0000] "POST /products/honey.html HTTP/1.1" 200 963
+219.76.124.188 - - [25/Jul/2024:20:21:57 +0000] "GET /products/banana.html HTTP/1.1" 200 1491
+66.74.194.81 - - [22/Jul/2024:10:34:02 +0000] "POST /products?category=snack HTTP/1.1" 200 799
+107.130.115.194 - - [15/Aug/2024:10:00:06 +0000] "POST /checkout HTTP/1.1" 200 1172
+101.140.197.202 - - [28/Jul/2024:12:49:19 +0000] "GET /products?category=dairy HTTP/1.1" 200 1001
+251.159.81.231 - - [21/Jul/2024:19:35:09 +0000] "GET /products/sesame oil.html HTTP/1.1" 200 436
+49.254.247.92 - - [21/Jul/2024:01:16:36 +0000] "GET /cart/add/nuts HTTP/1.1" 201 206
+230.143.96.223 - - [26/Jul/2024:16:25:35 +0000] "POST /search?q=coffee HTTP/1.1" 200 1992
+244.188.95.165 - - [13/Aug/2024:15:43:38 +0000] "POST /products?category=fruit HTTP/1.1" 200 639
+78.36.109.239 - - [19/Aug/2024:14:46:12 +0000] "POST /products/beans.html HTTP/1.1" 200 1290
+201.47.143.111 - - [27/Jul/2024:17:47:04 +0000] "GET /products/apple.html HTTP/1.1" 200 1186
+212.124.229.8 - - [12/Aug/2024:01:09:19 +0000] "POST /products?category=snack HTTP/1.1" 200 1559
+152.122.32.96 - - [25/Jul/2024:21:00:50 +0000] "GET /products/sugar.html HTTP/1.1" 200 730
+169.78.93.61 - - [20/Jul/2024:06:15:52 +0000] "GET /products/canned tomatoes.html HTTP/1.1" 200 1990
+234.91.237.212 - - [06/Aug/2024:13:40:13 +0000] "GET /search?q=butter HTTP/1.1" 200 382
+25.226.140.147 - - [01/Aug/2024:14:33:44 +0000] "GET /products/ketchup.html HTTP/1.1" 200 1082
+167.45.27.94 - - [24/Jul/2024:03:11:08 +0000] "GET /checkout HTTP/1.1" 200 884
+110.104.131.181 - - [28/Jul/2024:13:31:57 +0000] "POST /products?category=beverage HTTP/1.1" 200 1121
+53.40.103.136 - - [29/Jul/2024:11:27:41 +0000] "POST /checkout HTTP/1.1" 200 402
+21.231.224.156 - - [30/Jul/2024:15:52:27 +0000] "GET /products?category=snack HTTP/1.1" 200 1432
+208.66.229.152 - - [01/Aug/2024:01:17:43 +0000] "POST /search?q=beef HTTP/1.1" 200 1281
+124.235.226.113 - - [04/Aug/2024:03:47:09 +0000] "GET /search?q=spinach HTTP/1.1" 200 1229
+61.249.250.92 - - [14/Aug/2024:04:01:08 +0000] "GET /cart/add/balsamic vinegar HTTP/1.1" 201 1849
+254.220.120.157 - - [07/Aug/2024:17:39:45 +0000] "GET /cart/add/pita bread HTTP/1.1" 201 1073
+86.208.227.45 - - [01/Aug/2024:05:39:22 +0000] "POST /products?category=dairy HTTP/1.1" 200 1368
+19.66.39.119 - - [11/Aug/2024:01:06:00 +0000] "GET /search?q=frozen vegetables HTTP/1.1" 200 895
+166.118.173.232 - - [01/Aug/2024:12:09:57 +0000] "POST /cart/add/pepper HTTP/1.1" 201 1107
+22.131.138.185 - - [22/Jul/2024:16:48:21 +0000] "GET /products/rice.html HTTP/1.1" 200 923
+103.199.115.1 - - [15/Aug/2024:21:22:06 +0000] "POST /products?category=bakery HTTP/1.1" 200 729
+248.92.168.100 - - [13/Aug/2024:02:29:25 +0000] "GET /cart/add/tea HTTP/1.1" 201 250
+57.1.21.61 - - [28/Jul/2024:21:15:54 +0000] "GET /search?q=peanut butter HTTP/1.1" 200 1024
+254.116.75.210 - - [25/Jul/2024:13:55:04 +0000] "GET /products?category=fruit HTTP/1.1" 200 1939
+29.204.208.31 - - [22/Jul/2024:21:47:42 +0000] "POST /products/cheese.html HTTP/1.1" 200 733
+237.251.74.114 - - [14/Aug/2024:18:36:57 +0000] "POST /cart/add/chicken HTTP/1.1" 201 1371
+238.14.229.169 - - [11/Aug/2024:16:16:35 +0000] "GET /products/ketchup.html HTTP/1.1" 200 381
+36.28.222.29 - - [20/Jul/2024:22:44:32 +0000] "POST /search?q=milk HTTP/1.1" 200 1151
+239.80.54.194 - - [14/Aug/2024:18:36:07 +0000] "GET /search?q=muffins HTTP/1.1" 200 1615
+17.218.65.140 - - [15/Aug/2024:06:11:25 +0000] "POST /search?q=milk HTTP/1.1" 200 991
+159.212.39.230 - - [03/Aug/2024:19:33:24 +0000] "POST /search?q=potato HTTP/1.1" 200 1786
+119.43.200.136 - - [04/Aug/2024:06:07:22 +0000] "POST /products?category=bakery HTTP/1.1" 200 1689
+112.117.150.87 - - [26/Jul/2024:21:59:52 +0000] "POST /search?q=garlic HTTP/1.1" 200 1630
+199.136.171.54 - - [07/Aug/2024:22:16:27 +0000] "POST /products/tomato.html HTTP/1.1" 200 1467
+171.147.7.116 - - [04/Aug/2024:03:04:56 +0000] "POST /products?category=fruit HTTP/1.1" 200 1526
+68.81.65.150 - - [09/Aug/2024:23:22:36 +0000] "POST /checkout HTTP/1.1" 200 1283
+131.83.29.132 - - [06/Aug/2024:09:02:15 +0000] "POST /products?category=snack HTTP/1.1" 200 801
+149.15.183.185 - - [14/Aug/2024:15:20:24 +0000] "POST /checkout HTTP/1.1" 200 403
+18.149.99.43 - - [07/Aug/2024:04:12:02 +0000] "GET /cart/add/cheese HTTP/1.1" 201 1157
+59.241.115.148 - - [23/Jul/2024:20:53:42 +0000] "POST /checkout HTTP/1.1" 200 884
+99.251.194.200 - - [23/Jul/2024:02:25:17 +0000] "POST /cart/add/peanut butter HTTP/1.1" 201 1002
+120.174.39.170 - - [14/Aug/2024:20:29:21 +0000] "GET /cart/add/sriracha HTTP/1.1" 201 1403
+119.132.200.11 - - [08/Aug/2024:16:12:01 +0000] "POST /products/frozen vegetables.html HTTP/1.1" 200 1916
+106.210.199.80 - - [24/Jul/2024:17:31:54 +0000] "GET /products/soy sauce.html HTTP/1.1" 200 1513
+129.243.175.187 - - [16/Aug/2024:02:04:10 +0000] "GET /checkout HTTP/1.1" 200 478
+103.45.189.35 - - [08/Aug/2024:21:59:54 +0000] "GET /checkout HTTP/1.1" 200 1734
+191.79.68.9 - - [12/Aug/2024:14:00:08 +0000] "POST /products/peanut butter.html HTTP/1.1" 200 1797
+47.130.227.74 - - [19/Aug/2024:01:24:31 +0000] "POST /cart/add/frozen fruit HTTP/1.1" 201 433
+191.182.170.235 - - [23/Jul/2024:11:27:54 +0000] "GET /search?q=oil HTTP/1.1" 200 1595
+20.106.0.47 - - [23/Jul/2024:09:19:16 +0000] "POST /products/potato.html HTTP/1.1" 200 1526
+93.158.67.191 - - [27/Jul/2024:01:38:49 +0000] "POST /checkout HTTP/1.1" 200 863
+101.23.90.86 - - [19/Aug/2024:20:48:51 +0000] "GET /checkout HTTP/1.1" 200 200
+50.126.130.106 - - [30/Jul/2024:02:14:49 +0000] "GET /products?category=beverage HTTP/1.1" 200 1624
+194.128.153.240 - - [22/Jul/2024:08:17:48 +0000] "GET /products?category=dairy HTTP/1.1" 200 689
+227.164.50.17 - - [09/Aug/2024:16:37:05 +0000] "POST /checkout HTTP/1.1" 200 1352
+82.9.39.249 - - [24/Jul/2024:03:51:43 +0000] "POST /products?category=bakery HTTP/1.1" 200 1049
+245.197.100.145 - - [23/Jul/2024:21:41:42 +0000] "GET /cart/add/orange HTTP/1.1" 201 883
+24.33.235.174 - - [07/Aug/2024:10:55:19 +0000] "POST /search?q=orange HTTP/1.1" 200 561
+175.70.120.71 - - [17/Aug/2024:07:44:21 +0000] "POST /search?q=tea HTTP/1.1" 200 228
+1.212.217.110 - - [12/Aug/2024:21:54:58 +0000] "POST /cart/add/soy sauce HTTP/1.1" 201 1472
+203.70.147.215 - - [20/Jul/2024:03:05:39 +0000] "POST /search?q=tortillas HTTP/1.1" 200 1833
+153.218.58.35 - - [01/Aug/2024:06:02:43 +0000] "GET /checkout HTTP/1.1" 200 784
+33.200.31.13 - - [27/Jul/2024:00:09:14 +0000] "GET /products?category=beverage HTTP/1.1" 200 436
+242.12.164.190 - - [16/Aug/2024:08:02:50 +0000] "GET /cart/add/crackers HTTP/1.1" 201 794
+51.252.63.13 - - [20/Jul/2024:01:23:17 +0000] "GET /checkout HTTP/1.1" 200 959
+12.222.22.91 - - [19/Aug/2024:14:33:03 +0000] "POST /products?category=beverage HTTP/1.1" 200 1596
+49.42.219.26 - - [28/Jul/2024:04:00:45 +0000] "GET /products?category=bakery HTTP/1.1" 200 1892
+168.67.213.208 - - [10/Aug/2024:17:19:02 +0000] "GET /cart/add/flour HTTP/1.1" 201 1500
+46.148.213.218 - - [04/Aug/2024:07:52:27 +0000] "POST /search?q=mayonnaise HTTP/1.1" 200 323
+86.106.200.239 - - [30/Jul/2024:03:23:28 +0000] "GET /products?category=snack HTTP/1.1" 200 1085
+202.62.194.175 - - [10/Aug/2024:03:27:35 +0000] "POST /search?q=cucumber HTTP/1.1" 200 1531
+111.37.19.47 - - [23/Jul/2024:16:46:31 +0000] "POST /cart/add/muffins HTTP/1.1" 201 1222
+225.36.10.27 - - [11/Aug/2024:23:19:22 +0000] "POST /search?q=canned beans HTTP/1.1" 200 1341
+157.16.86.191 - - [06/Aug/2024:09:42:28 +0000] "GET /cart/add/beans HTTP/1.1" 201 1379
+106.159.195.225 - - [21/Jul/2024:05:11:40 +0000] "GET /products?category=dairy HTTP/1.1" 200 1801
+177.36.229.47 - - [29/Jul/2024:04:12:51 +0000] "GET /checkout HTTP/1.1" 200 840
+134.249.32.7 - - [02/Aug/2024:18:48:11 +0000] "GET /search?q=oatmeal HTTP/1.1" 200 1348
+214.44.36.210 - - [16/Aug/2024:23:18:55 +0000] "POST /search?q=pizza HTTP/1.1" 200 729
+171.226.113.110 - - [28/Jul/2024:12:41:49 +0000] "POST /search?q=cheese HTTP/1.1" 200 1161
+129.219.113.165 - - [18/Aug/2024:04:40:50 +0000] "GET /checkout HTTP/1.1" 200 1644
+113.10.11.254 - - [07/Aug/2024:01:29:05 +0000] "GET /checkout HTTP/1.1" 200 1179
+98.204.251.124 - - [16/Aug/2024:09:05:28 +0000] "GET /search?q=cheese HTTP/1.1" 200 907
+167.195.9.175 - - [02/Aug/2024:08:55:02 +0000] "POST /products/lentils.html HTTP/1.1" 200 1171
+128.46.113.161 - - [19/Aug/2024:21:28:34 +0000] "GET /products/crackers.html HTTP/1.1" 200 528
+222.44.106.44 - - [23/Jul/2024:18:23:51 +0000] "POST /search?q=trail mix HTTP/1.1" 200 651
+108.13.128.66 - - [29/Jul/2024:02:22:10 +0000] "POST /products?category=fruit HTTP/1.1" 200 1823
+49.19.249.231 - - [02/Aug/2024:04:44:34 +0000] "GET /checkout HTTP/1.1" 200 1269
+56.231.40.105 - - [09/Aug/2024:13:39:20 +0000] "GET /products?category=dairy HTTP/1.1" 200 1031
+132.65.34.110 - - [18/Aug/2024:23:29:49 +0000] "POST /search?q=ketchup HTTP/1.1" 200 1663
+114.34.0.153 - - [10/Aug/2024:16:03:51 +0000] "POST /search?q=flour HTTP/1.1" 200 1773
+222.251.219.174 - - [30/Jul/2024:09:05:38 +0000] "GET /products/lettuce.html HTTP/1.1" 200 1442
+20.20.7.167 - - [11/Aug/2024:00:16:37 +0000] "POST /products/frozen fruit.html HTTP/1.1" 200 268
+241.44.178.232 - - [24/Jul/2024:04:10:46 +0000] "POST /cart/add/mushrooms HTTP/1.1" 201 559
+33.187.253.222 - - [01/Aug/2024:04:32:50 +0000] "POST /cart/add/dried fruit HTTP/1.1" 201 282
+89.84.210.226 - - [14/Aug/2024:18:01:51 +0000] "POST /products?category=snack HTTP/1.1" 200 1636
+208.159.238.29 - - [22/Jul/2024:12:45:19 +0000] "GET /cart/add/cake HTTP/1.1" 201 1753
+172.22.78.166 - - [24/Jul/2024:02:23:05 +0000] "GET /cart/add/dried fruit HTTP/1.1" 201 1355
+33.141.6.55 - - [27/Jul/2024:16:59:26 +0000] "POST /products/sour cream.html HTTP/1.1" 200 1293
+73.199.90.219 - - [28/Jul/2024:21:30:28 +0000] "POST /checkout HTTP/1.1" 200 1774
+114.8.40.135 - - [03/Aug/2024:21:46:28 +0000] "POST /products?category=beverage HTTP/1.1" 200 1731
+177.180.108.194 - - [13/Aug/2024:11:38:05 +0000] "POST /checkout HTTP/1.1" 200 736
+94.200.153.130 - - [01/Aug/2024:17:52:14 +0000] "POST /products?category=snack HTTP/1.1" 200 951
+127.139.141.52 - - [08/Aug/2024:14:30:33 +0000] "POST /products/tea.html HTTP/1.1" 200 637
+164.34.221.64 - - [27/Jul/2024:22:22:59 +0000] "GET /checkout HTTP/1.1" 200 1933
+218.98.141.6 - - [15/Aug/2024:03:36:38 +0000] "POST /checkout HTTP/1.1" 200 503
+136.55.139.243 - - [03/Aug/2024:20:09:27 +0000] "POST /search?q=chips HTTP/1.1" 200 1419
+155.194.89.8 - - [07/Aug/2024:10:59:26 +0000] "GET /checkout HTTP/1.1" 200 209
+35.92.141.107 - - [17/Aug/2024:02:51:05 +0000] "POST /search?q=beans HTTP/1.1" 200 1657
+89.176.191.210 - - [15/Aug/2024:05:30:13 +0000] "GET /cart/add/cheese HTTP/1.1" 201 379
+253.166.128.40 - - [09/Aug/2024:05:15:02 +0000] "POST /search?q=pita bread HTTP/1.1" 200 333
+195.212.144.230 - - [20/Jul/2024:15:44:00 +0000] "POST /search?q=cream cheese HTTP/1.1" 200 1990
+244.230.142.210 - - [29/Jul/2024:14:37:59 +0000] "POST /search?q=canned beans HTTP/1.1" 200 353
+128.100.0.87 - - [12/Aug/2024:09:46:20 +0000] "POST /cart/add/egg HTTP/1.1" 201 314
+230.66.217.53 - - [27/Jul/2024:21:56:00 +0000] "GET /checkout HTTP/1.1" 200 363
+38.195.49.0 - - [06/Aug/2024:02:28:23 +0000] "GET /cart/add/tortillas HTTP/1.1" 201 453
+215.59.60.208 - - [08/Aug/2024:10:25:22 +0000] "POST /cart/add/spaghetti sauce HTTP/1.1" 201 712
+109.182.196.23 - - [07/Aug/2024:08:40:06 +0000] "POST /products/rice.html HTTP/1.1" 200 1469
+110.200.153.188 - - [21/Jul/2024:16:43:36 +0000] "GET /search?q=potato HTTP/1.1" 200 1821
+43.87.200.19 - - [29/Jul/2024:20:02:32 +0000] "POST /checkout HTTP/1.1" 200 1393
+232.85.70.99 - - [25/Jul/2024:12:41:12 +0000] "POST /checkout HTTP/1.1" 200 958
+151.237.117.13 - - [25/Jul/2024:09:00:53 +0000] "POST /products?category=dairy HTTP/1.1" 200 655
+24.62.96.204 - - [11/Aug/2024:20:57:59 +0000] "GET /cart/add/tortillas HTTP/1.1" 201 1973
+140.73.79.25 - - [26/Jul/2024:19:44:25 +0000] "POST /products?category=beverage HTTP/1.1" 200 1739
+192.180.178.44 - - [21/Jul/2024:19:42:44 +0000] "POST /search?q=salt HTTP/1.1" 200 352
+59.75.83.65 - - [03/Aug/2024:04:18:48 +0000] "GET /checkout HTTP/1.1" 200 1507
+169.25.151.146 - - [05/Aug/2024:15:12:29 +0000] "POST /search?q=banana HTTP/1.1" 200 1668
+100.26.48.33 - - [16/Aug/2024:05:14:10 +0000] "GET /checkout HTTP/1.1" 200 707
+135.169.92.129 - - [19/Aug/2024:17:12:01 +0000] "GET /products/canned tomatoes.html HTTP/1.1" 200 1348
+82.173.196.148 - - [17/Aug/2024:18:21:57 +0000] "POST /checkout HTTP/1.1" 200 1101
+24.132.88.204 - - [27/Jul/2024:20:20:19 +0000] "GET /cart/add/vinegar HTTP/1.1" 201 1325
+197.164.193.54 - - [18/Aug/2024:04:22:18 +0000] "POST /cart/add/garlic HTTP/1.1" 201 1097
+237.123.186.129 - - [23/Jul/2024:08:30:58 +0000] "GET /cart/add/egg HTTP/1.1" 201 565
+181.50.75.223 - - [24/Jul/2024:14:40:45 +0000] "GET /products?category=dairy HTTP/1.1" 200 653
+233.118.129.161 - - [17/Aug/2024:18:58:07 +0000] "GET /cart/add/soup HTTP/1.1" 201 969
+244.144.89.124 - - [24/Jul/2024:23:54:55 +0000] "POST /products?category=fruit HTTP/1.1" 200 1274
+254.167.95.118 - - [06/Aug/2024:07:23:36 +0000] "GET /checkout HTTP/1.1" 200 1544
+232.67.89.51 - - [13/Aug/2024:10:16:17 +0000] "GET /search?q=croutons HTTP/1.1" 200 1572
+148.204.211.188 - - [19/Aug/2024:07:27:38 +0000] "POST /products/lentils.html HTTP/1.1" 200 838
+251.103.117.152 - - [29/Jul/2024:08:35:55 +0000] "GET /products?category=beverage HTTP/1.1" 200 1057
+148.12.100.123 - - [18/Aug/2024:00:34:56 +0000] "POST /products/chicken.html HTTP/1.1" 200 1642
+41.222.31.151 - - [28/Jul/2024:07:17:25 +0000] "POST /products?category=beverage HTTP/1.1" 200 1672
+253.208.79.113 - - [30/Jul/2024:00:45:48 +0000] "POST /products/canned tomatoes.html HTTP/1.1" 200 333
+175.114.49.113 - - [03/Aug/2024:16:13:59 +0000] "GET /checkout HTTP/1.1" 200 887
+98.255.134.4 - - [16/Aug/2024:19:24:48 +0000] "POST /products?category=bakery HTTP/1.1" 200 311
+190.177.186.133 - - [05/Aug/2024:16:05:50 +0000] "GET /search?q=sour cream HTTP/1.1" 200 944
+70.45.241.101 - - [19/Aug/2024:04:25:26 +0000] "GET /checkout HTTP/1.1" 200 378
+254.205.194.41 - - [13/Aug/2024:09:49:15 +0000] "GET /products/beans.html HTTP/1.1" 200 1704
+22.29.197.200 - - [09/Aug/2024:06:01:27 +0000] "GET /checkout HTTP/1.1" 200 1145
+0.28.248.236 - - [03/Aug/2024:15:49:03 +0000] "POST /checkout HTTP/1.1" 200 219
+178.163.76.30 - - [28/Jul/2024:17:37:47 +0000] "POST /products?category=fruit HTTP/1.1" 200 907
+212.0.8.42 - - [13/Aug/2024:19:02:37 +0000] "GET /products/garlic.html HTTP/1.1" 200 1515
+69.254.229.153 - - [24/Jul/2024:21:21:19 +0000] "GET /products?category=dairy HTTP/1.1" 200 1315
+177.102.165.181 - - [08/Aug/2024:17:26:23 +0000] "POST /checkout HTTP/1.1" 200 1864
+101.117.139.42 - - [31/Jul/2024:21:09:05 +0000] "POST /checkout HTTP/1.1" 200 587
+218.144.24.169 - - [21/Jul/2024:23:45:47 +0000] "GET /products?category=snack HTTP/1.1" 200 1666
+221.241.157.106 - - [25/Jul/2024:17:22:15 +0000] "GET /checkout HTTP/1.1" 200 217
+121.131.147.104 - - [14/Aug/2024:02:35:56 +0000] "POST /products/canned tomatoes.html HTTP/1.1" 200 714
+77.121.8.169 - - [02/Aug/2024:09:24:46 +0000] "GET /products/sesame oil.html HTTP/1.1" 200 776
+207.141.201.239 - - [07/Aug/2024:23:30:33 +0000] "GET /checkout HTTP/1.1" 200 1274
+132.11.253.227 - - [15/Aug/2024:04:28:07 +0000] "GET /checkout HTTP/1.1" 200 1953
+207.95.194.91 - - [08/Aug/2024:05:11:49 +0000] "POST /cart/add/chicken HTTP/1.1" 201 1640
+59.124.231.90 - - [09/Aug/2024:15:01:20 +0000] "GET /products?category=dairy HTTP/1.1" 200 1733
+58.95.203.6 - - [01/Aug/2024:02:25:06 +0000] "POST /products?category=snack HTTP/1.1" 200 1010
+7.164.48.223 - - [20/Jul/2024:06:15:01 +0000] "GET /checkout HTTP/1.1" 200 284
+244.150.255.160 - - [21/Jul/2024:20:30:32 +0000] "GET /products?category=beverage HTTP/1.1" 200 1392
+161.142.79.189 - - [08/Aug/2024:08:54:48 +0000] "GET /products?category=fruit HTTP/1.1" 200 1300
+157.24.142.246 - - [07/Aug/2024:18:01:04 +0000] "GET /products?category=snack HTTP/1.1" 200 2000
+48.69.2.252 - - [21/Jul/2024:12:29:23 +0000] "POST /cart/add/sriracha HTTP/1.1" 201 701
+229.99.191.215 - - [15/Aug/2024:12:09:57 +0000] "POST /search?q=bagels HTTP/1.1" 200 768
+200.135.11.184 - - [03/Aug/2024:18:56:10 +0000] "GET /cart/add/pizza HTTP/1.1" 201 1479
+192.248.27.15 - - [16/Aug/2024:23:24:51 +0000] "POST /cart/add/carrot HTTP/1.1" 201 1373
+205.27.211.58 - - [02/Aug/2024:01:32:53 +0000] "POST /checkout HTTP/1.1" 200 799
+181.1.12.158 - - [31/Jul/2024:08:13:45 +0000] "POST /products?category=dairy HTTP/1.1" 200 1177
+20.106.61.38 - - [28/Jul/2024:06:44:36 +0000] "POST /products?category=dairy HTTP/1.1" 200 1154
+164.210.69.101 - - [25/Jul/2024:20:22:39 +0000] "POST /checkout HTTP/1.1" 200 1083
+192.133.23.220 - - [22/Jul/2024:13:29:35 +0000] "POST /search?q=vinegar HTTP/1.1" 200 1422
+54.180.12.151 - - [26/Jul/2024:06:57:21 +0000] "POST /checkout HTTP/1.1" 200 249
+61.90.15.234 - - [20/Jul/2024:09:45:13 +0000] "POST /products/pita bread.html HTTP/1.1" 200 607
+110.76.99.0 - - [31/Jul/2024:15:04:33 +0000] "GET /checkout HTTP/1.1" 200 555
+13.101.20.95 - - [18/Aug/2024:08:17:58 +0000] "POST /cart/add/frozen vegetables HTTP/1.1" 201 523
+120.120.113.73 - - [31/Jul/2024:01:20:15 +0000] "POST /search?q=lettuce HTTP/1.1" 200 831
+143.22.128.254 - - [01/Aug/2024:04:07:19 +0000] "GET /products/beef.html HTTP/1.1" 200 1068
+200.165.184.238 - - [11/Aug/2024:02:36:35 +0000] "GET /search?q=soup HTTP/1.1" 200 1484
+71.212.38.164 - - [31/Jul/2024:15:52:43 +0000] "POST /cart/add/flour HTTP/1.1" 201 1507
+51.52.235.148 - - [11/Aug/2024:08:46:42 +0000] "GET /checkout HTTP/1.1" 200 1097
+22.138.174.119 - - [29/Jul/2024:22:07:36 +0000] "GET /products?category=dairy HTTP/1.1" 200 243
+77.102.169.39 - - [29/Jul/2024:07:37:01 +0000] "GET /products?category=beverage HTTP/1.1" 200 1367
+161.122.48.30 - - [02/Aug/2024:00:27:02 +0000] "POST /products?category=dairy HTTP/1.1" 200 1044
+80.86.69.55 - - [28/Jul/2024:04:03:52 +0000] "GET /products/energy bars.html HTTP/1.1" 200 520
+87.65.135.116 - - [30/Jul/2024:09:16:49 +0000] "GET /checkout HTTP/1.1" 200 1737
+91.200.56.171 - - [02/Aug/2024:12:41:58 +0000] "POST /cart/add/tea HTTP/1.1" 201 440
+45.151.106.146 - - [17/Aug/2024:08:51:52 +0000] "POST /checkout HTTP/1.1" 200 1053
+240.220.22.250 - - [20/Jul/2024:18:27:50 +0000] "GET /products?category=snack HTTP/1.1" 200 711
+100.80.38.73 - - [12/Aug/2024:05:30:48 +0000] "GET /search?q=onion HTTP/1.1" 200 1345
+107.221.241.8 - - [16/Aug/2024:12:59:23 +0000] "GET /cart/add/fish HTTP/1.1" 201 1522
+120.87.209.58 - - [17/Aug/2024:05:35:52 +0000] "GET /cart/add/cereal HTTP/1.1" 201 913
+107.48.190.165 - - [07/Aug/2024:00:48:17 +0000] "POST /cart/add/beans HTTP/1.1" 201 852
+68.8.132.14 - - [24/Jul/2024:23:56:14 +0000] "GET /checkout HTTP/1.1" 200 1649
+179.139.221.238 - - [21/Jul/2024:17:26:33 +0000] "POST /checkout HTTP/1.1" 200 1708
+245.223.17.217 - - [16/Aug/2024:11:36:10 +0000] "GET /cart/add/ketchup HTTP/1.1" 201 340
+22.113.108.17 - - [01/Aug/2024:06:26:02 +0000] "GET /products/jam.html HTTP/1.1" 200 964
+181.104.87.86 - - [05/Aug/2024:12:09:12 +0000] "POST /search?q=potato HTTP/1.1" 200 1098
+86.212.127.90 - - [15/Aug/2024:04:45:00 +0000] "GET /search?q=ketchup HTTP/1.1" 200 1647
+132.129.198.210 - - [01/Aug/2024:02:53:48 +0000] "POST /checkout HTTP/1.1" 200 401
+31.41.146.252 - - [17/Aug/2024:23:13:44 +0000] "POST /cart/add/ice cream HTTP/1.1" 201 1214
+220.228.66.171 - - [22/Jul/2024:00:58:31 +0000] "POST /checkout HTTP/1.1" 200 568
+215.217.197.190 - - [21/Jul/2024:03:33:31 +0000] "POST /products/butter.html HTTP/1.1" 200 1767
+44.83.231.221 - - [30/Jul/2024:12:55:09 +0000] "GET /products?category=bakery HTTP/1.1" 200 1178
+65.207.218.53 - - [16/Aug/2024:09:15:34 +0000] "GET /products/cookies.html HTTP/1.1" 200 230
+42.37.53.136 - - [13/Aug/2024:16:54:30 +0000] "GET /products/orange.html HTTP/1.1" 200 1660
+212.38.48.155 - - [04/Aug/2024:11:42:14 +0000] "POST /checkout HTTP/1.1" 200 705
+29.174.127.58 - - [04/Aug/2024:03:13:54 +0000] "GET /products/pepper.html HTTP/1.1" 200 1369
+32.89.47.138 - - [05/Aug/2024:03:35:28 +0000] "POST /products/croissants.html HTTP/1.1" 200 827
+209.94.123.199 - - [20/Jul/2024:20:32:56 +0000] "POST /products/crackers.html HTTP/1.1" 200 228
+21.55.174.57 - - [23/Jul/2024:21:54:16 +0000] "GET /checkout HTTP/1.1" 200 1928
+77.148.129.167 - - [27/Jul/2024:04:24:23 +0000] "POST /checkout HTTP/1.1" 200 1491
+99.198.20.99 - - [06/Aug/2024:18:34:02 +0000] "GET /checkout HTTP/1.1" 200 1067
+209.165.63.89 - - [29/Jul/2024:08:04:29 +0000] "POST /checkout HTTP/1.1" 200 1536
+178.94.237.191 - - [14/Aug/2024:23:00:04 +0000] "POST /products/vinegar.html HTTP/1.1" 200 896
+137.30.232.238 - - [13/Aug/2024:09:06:41 +0000] "GET /search?q=cake HTTP/1.1" 200 1618
+194.253.12.158 - - [21/Jul/2024:07:55:03 +0000] "POST /products?category=bakery HTTP/1.1" 200 645
+215.9.180.37 - - [18/Aug/2024:20:16:26 +0000] "POST /products?category=beverage HTTP/1.1" 200 1947
+239.239.96.33 - - [31/Jul/2024:03:06:06 +0000] "GET /checkout HTTP/1.1" 200 1574
+110.0.119.244 - - [06/Aug/2024:03:52:00 +0000] "GET /cart/add/canned tomatoes HTTP/1.1" 201 957
+47.144.137.29 - - [21/Jul/2024:02:39:34 +0000] "GET /cart/add/trail mix HTTP/1.1" 201 610
+8.143.86.105 - - [06/Aug/2024:07:15:34 +0000] "POST /products/garlic.html HTTP/1.1" 200 961
+175.146.96.168 - - [26/Jul/2024:01:18:40 +0000] "POST /search?q=lettuce HTTP/1.1" 200 1473
+67.81.11.108 - - [17/Aug/2024:19:43:52 +0000] "GET /products/mayonnaise.html HTTP/1.1" 200 992
+218.172.237.97 - - [11/Aug/2024:00:01:37 +0000] "GET /cart/add/canned tomatoes HTTP/1.1" 201 1054
+52.248.42.149 - - [12/Aug/2024:19:12:13 +0000] "POST /checkout HTTP/1.1" 200 948
+140.145.5.29 - - [04/Aug/2024:08:20:59 +0000] "GET /products/muffins.html HTTP/1.1" 200 1153
+239.244.17.177 - - [28/Jul/2024:11:15:12 +0000] "GET /products?category=beverage HTTP/1.1" 200 310
+227.68.113.47 - - [23/Jul/2024:03:27:11 +0000] "POST /search?q=sesame oil HTTP/1.1" 200 1525
+98.167.173.170 - - [21/Jul/2024:05:52:49 +0000] "GET /products?category=snack HTTP/1.1" 200 1206
+61.196.62.243 - - [11/Aug/2024:08:24:19 +0000] "GET /products/cookies.html HTTP/1.1" 200 1605
+166.152.248.106 - - [14/Aug/2024:21:46:42 +0000] "POST /checkout HTTP/1.1" 200 513
+47.66.124.201 - - [30/Jul/2024:19:35:34 +0000] "GET /checkout HTTP/1.1" 200 1008
+197.32.101.107 - - [14/Aug/2024:16:11:53 +0000] "POST /products?category=beverage HTTP/1.1" 200 1955
+171.110.144.79 - - [07/Aug/2024:07:31:32 +0000] "POST /search?q=nuts HTTP/1.1" 200 534
+205.42.132.121 - - [29/Jul/2024:19:03:43 +0000] "POST /products?category=beverage HTTP/1.1" 200 1707
+158.48.131.168 - - [24/Jul/2024:23:35:03 +0000] "GET /cart/add/baking soda HTTP/1.1" 201 1968
+203.8.17.228 - - [24/Jul/2024:09:30:15 +0000] "POST /products?category=fruit HTTP/1.1" 200 1147
+214.68.232.105 - - [17/Aug/2024:01:34:33 +0000] "GET /products?category=bakery HTTP/1.1" 200 1196
+20.131.104.191 - - [31/Jul/2024:04:37:20 +0000] "GET /search?q=baking soda HTTP/1.1" 200 1700
+24.40.234.10 - - [01/Aug/2024:01:40:12 +0000] "GET /search?q=frozen vegetables HTTP/1.1" 200 1825
+128.65.173.82 - - [02/Aug/2024:13:12:21 +0000] "GET /checkout HTTP/1.1" 200 202
+33.54.221.232 - - [31/Jul/2024:09:06:30 +0000] "GET /cart/add/pepper HTTP/1.1" 201 860
+191.130.72.253 - - [22/Jul/2024:19:34:14 +0000] "GET /checkout HTTP/1.1" 200 1819
+24.185.236.116 - - [03/Aug/2024:20:31:13 +0000] "GET /products/buttermilk.html HTTP/1.1" 200 1128
+107.57.23.106 - - [25/Jul/2024:06:45:29 +0000] "POST /search?q=canned soup HTTP/1.1" 200 241
+161.33.4.10 - - [30/Jul/2024:21:48:29 +0000] "GET /search?q=sugar HTTP/1.1" 200 1253
+250.159.85.60 - - [22/Jul/2024:16:15:25 +0000] "GET /search?q=balsamic vinegar HTTP/1.1" 200 1142
+100.160.218.29 - - [23/Jul/2024:18:31:04 +0000] "POST /checkout HTTP/1.1" 200 240
+220.137.107.178 - - [29/Jul/2024:21:42:06 +0000] "GET /cart/add/peppers HTTP/1.1" 201 1083
+103.102.10.180 - - [28/Jul/2024:11:08:41 +0000] "GET /products?category=snack HTTP/1.1" 200 1568
+188.200.95.64 - - [22/Jul/2024:22:46:24 +0000] "POST /cart/add/banana HTTP/1.1" 201 210
+135.166.154.62 - - [13/Aug/2024:20:19:39 +0000] "POST /products/chocolate.html HTTP/1.1" 200 376
+196.86.76.21 - - [05/Aug/2024:21:41:29 +0000] "POST /products/chips.html HTTP/1.1" 200 537
+213.248.107.92 - - [21/Jul/2024:22:21:36 +0000] "GET /products?category=fruit HTTP/1.1" 200 425
+242.216.13.249 - - [02/Aug/2024:21:34:41 +0000] "GET /products/canned tomatoes.html HTTP/1.1" 200 1210
+87.73.32.245 - - [24/Jul/2024:17:12:14 +0000] "GET /checkout HTTP/1.1" 200 1640
+227.230.106.116 - - [04/Aug/2024:14:12:25 +0000] "POST /checkout HTTP/1.1" 200 362
+67.165.174.255 - - [02/Aug/2024:23:20:09 +0000] "POST /checkout HTTP/1.1" 200 548
+175.2.14.100 - - [18/Aug/2024:14:59:58 +0000] "GET /checkout HTTP/1.1" 200 726
+96.84.94.88 - - [30/Jul/2024:23:45:26 +0000] "GET /checkout HTTP/1.1" 200 754
+73.49.40.165 - - [25/Jul/2024:04:48:05 +0000] "POST /cart/add/trail mix HTTP/1.1" 201 1238
+141.35.181.214 - - [06/Aug/2024:14:11:35 +0000] "GET /products/trail mix.html HTTP/1.1" 200 1742
+125.99.98.195 - - [05/Aug/2024:22:33:34 +0000] "GET /cart/add/baking soda HTTP/1.1" 201 1539
+205.133.143.183 - - [22/Jul/2024:03:25:54 +0000] "GET /products?category=bakery HTTP/1.1" 200 736
+119.9.86.103 - - [31/Jul/2024:00:36:32 +0000] "GET /products?category=dairy HTTP/1.1" 200 1339
+105.59.95.190 - - [12/Aug/2024:18:09:58 +0000] "GET /products?category=snack HTTP/1.1" 200 1529
+204.36.150.1 - - [21/Jul/2024:06:50:30 +0000] "GET /search?q=honey HTTP/1.1" 200 1060
+172.155.117.136 - - [20/Jul/2024:22:39:46 +0000] "GET /cart/add/beans HTTP/1.1" 201 1410
+182.23.29.165 - - [05/Aug/2024:10:03:07 +0000] "GET /checkout HTTP/1.1" 200 659
+185.191.229.171 - - [04/Aug/2024:12:00:47 +0000] "POST /products/cheese.html HTTP/1.1" 200 1134
+70.235.117.9 - - [21/Jul/2024:03:34:50 +0000] "POST /products?category=beverage HTTP/1.1" 200 1213
+84.25.137.14 - - [17/Aug/2024:13:56:16 +0000] "POST /checkout HTTP/1.1" 200 986
+65.165.116.199 - - [09/Aug/2024:06:55:54 +0000] "GET /checkout HTTP/1.1" 200 1622
+39.206.156.30 - - [14/Aug/2024:18:51:25 +0000] "GET /checkout HTTP/1.1" 200 914
+74.135.158.22 - - [30/Jul/2024:04:16:30 +0000] "GET /products/beef.html HTTP/1.1" 200 522
+75.223.11.67 - - [09/Aug/2024:10:13:41 +0000] "POST /products?category=bakery HTTP/1.1" 200 252
+110.88.211.31 - - [17/Aug/2024:02:45:15 +0000] "GET /products?category=bakery HTTP/1.1" 200 620
+117.239.102.67 - - [30/Jul/2024:05:28:18 +0000] "GET /search?q=canned soup HTTP/1.1" 200 1740
+3.249.176.167 - - [25/Jul/2024:18:30:22 +0000] "GET /cart/add/spaghetti sauce HTTP/1.1" 201 1193
+73.146.111.136 - - [19/Aug/2024:15:52:13 +0000] "GET /checkout HTTP/1.1" 200 659
+185.77.12.253 - - [26/Jul/2024:03:38:56 +0000] "POST /search?q=baking powder HTTP/1.1" 200 742
+125.228.159.64 - - [01/Aug/2024:01:38:36 +0000] "POST /products/sesame oil.html HTTP/1.1" 200 1409
+239.74.76.65 - - [30/Jul/2024:18:00:36 +0000] "POST /cart/add/beef HTTP/1.1" 201 399
+50.126.98.116 - - [21/Jul/2024:00:04:25 +0000] "GET /products/canned tuna.html HTTP/1.1" 200 886
+114.197.50.62 - - [15/Aug/2024:03:26:42 +0000] "GET /checkout HTTP/1.1" 200 306
+181.253.76.7 - - [14/Aug/2024:16:56:12 +0000] "GET /products?category=bakery HTTP/1.1" 200 1830
+39.92.16.136 - - [17/Aug/2024:04:37:13 +0000] "POST /products?category=dairy HTTP/1.1" 200 1559
+101.140.9.3 - - [19/Aug/2024:15:16:32 +0000] "POST /products?category=beverage HTTP/1.1" 200 1209
+159.17.233.172 - - [31/Jul/2024:19:02:27 +0000] "GET /cart/add/egg HTTP/1.1" 201 635
+211.67.144.43 - - [02/Aug/2024:14:03:28 +0000] "GET /checkout HTTP/1.1" 200 1344
+12.63.55.89 - - [16/Aug/2024:22:42:03 +0000] "GET /cart/add/pasta HTTP/1.1" 201 1517
+59.97.186.162 - - [29/Jul/2024:21:16:26 +0000] "GET /products/baking soda.html HTTP/1.1" 200 370
+46.53.115.254 - - [01/Aug/2024:07:44:09 +0000] "POST /products?category=bakery HTTP/1.1" 200 514
+229.60.131.186 - - [09/Aug/2024:04:29:36 +0000] "GET /products/ice cream.html HTTP/1.1" 200 1252
+72.93.129.96 - - [05/Aug/2024:12:22:28 +0000] "POST /products?category=beverage HTTP/1.1" 200 1083
+238.17.5.150 - - [25/Jul/2024:21:07:47 +0000] "GET /checkout HTTP/1.1" 200 1822
+81.106.11.53 - - [29/Jul/2024:03:59:59 +0000] "GET /checkout HTTP/1.1" 200 549
+115.95.80.84 - - [02/Aug/2024:23:03:51 +0000] "GET /checkout HTTP/1.1" 200 1224
+174.32.209.118 - - [09/Aug/2024:06:32:58 +0000] "POST /search?q=pepper HTTP/1.1" 200 1660
+19.85.5.201 - - [12/Aug/2024:12:13:59 +0000] "GET /products/salt.html HTTP/1.1" 200 345
+185.38.194.126 - - [24/Jul/2024:17:57:07 +0000] "GET /products?category=beverage HTTP/1.1" 200 300
+58.20.105.221 - - [11/Aug/2024:09:03:57 +0000] "GET /search?q=cookies HTTP/1.1" 200 534
+84.67.50.77 - - [16/Aug/2024:10:41:21 +0000] "POST /products/buttermilk.html HTTP/1.1" 200 1883
+244.3.192.112 - - [18/Aug/2024:20:35:59 +0000] "POST /checkout HTTP/1.1" 200 1256
+64.64.105.236 - - [20/Jul/2024:13:59:17 +0000] "POST /products?category=dairy HTTP/1.1" 200 1732
+176.145.132.52 - - [05/Aug/2024:00:41:05 +0000] "GET /products?category=snack HTTP/1.1" 200 1779
+147.234.185.190 - - [25/Jul/2024:02:13:53 +0000] "POST /cart/add/ice cream HTTP/1.1" 201 822
+28.45.147.8 - - [26/Jul/2024:05:33:08 +0000] "POST /cart/add/oil HTTP/1.1" 201 1571
+54.137.235.188 - - [09/Aug/2024:10:50:12 +0000] "POST /cart/add/croissants HTTP/1.1" 201 1024
+255.247.12.57 - - [01/Aug/2024:16:52:29 +0000] "GET /cart/add/pasta HTTP/1.1" 201 299
+1.210.84.33 - - [21/Jul/2024:17:56:50 +0000] "GET /products?category=beverage HTTP/1.1" 200 462
+131.206.30.248 - - [30/Jul/2024:04:27:40 +0000] "GET /cart/add/lettuce HTTP/1.1" 201 1924
+22.250.13.6 - - [29/Jul/2024:18:25:03 +0000] "GET /search?q=buttermilk HTTP/1.1" 200 1170
+45.144.88.51 - - [18/Aug/2024:17:27:50 +0000] "GET /products?category=snack HTTP/1.1" 200 896
+186.192.133.137 - - [10/Aug/2024:15:25:17 +0000] "POST /products/beans.html HTTP/1.1" 200 663
+160.78.132.215 - - [08/Aug/2024:09:09:06 +0000] "GET /cart/add/honey HTTP/1.1" 201 935
+61.203.80.133 - - [13/Aug/2024:12:15:02 +0000] "GET /cart/add/honey HTTP/1.1" 201 600
+76.232.114.34 - - [08/Aug/2024:15:39:34 +0000] "GET /products?category=bakery HTTP/1.1" 200 844
+16.215.19.177 - - [02/Aug/2024:10:53:55 +0000] "GET /checkout HTTP/1.1" 200 1975
+156.127.231.77 - - [19/Aug/2024:23:34:22 +0000] "GET /products?category=beverage HTTP/1.1" 200 1017
+137.136.90.81 - - [08/Aug/2024:20:28:01 +0000] "GET /checkout HTTP/1.1" 200 882
+120.131.11.154 - - [24/Jul/2024:10:25:18 +0000] "POST /checkout HTTP/1.1" 200 1665
+70.33.13.78 - - [19/Aug/2024:16:48:15 +0000] "GET /search?q=fish HTTP/1.1" 200 207
+210.111.228.169 - - [12/Aug/2024:20:02:00 +0000] "GET /products?category=beverage HTTP/1.1" 200 701
+183.91.255.12 - - [27/Jul/2024:05:12:37 +0000] "GET /search?q=soup HTTP/1.1" 200 606
+18.9.117.148 - - [04/Aug/2024:11:45:43 +0000] "POST /search?q=carrot HTTP/1.1" 200 1007
+127.216.217.86 - - [14/Aug/2024:15:41:48 +0000] "POST /checkout HTTP/1.1" 200 1457
+58.67.75.134 - - [17/Aug/2024:16:01:58 +0000] "GET /cart/add/nuts HTTP/1.1" 201 1306
+164.250.82.203 - - [24/Jul/2024:19:50:28 +0000] "POST /search?q=oil HTTP/1.1" 200 1298
+28.182.240.200 - - [16/Aug/2024:22:22:09 +0000] "POST /products?category=beverage HTTP/1.1" 200 1546
+63.227.121.207 - - [06/Aug/2024:19:14:46 +0000] "GET /products/granola.html HTTP/1.1" 200 293
+43.126.239.4 - - [19/Aug/2024:09:11:17 +0000] "GET /products?category=beverage HTTP/1.1" 200 802
+212.5.234.38 - - [30/Jul/2024:14:50:21 +0000] "GET /products?category=dairy HTTP/1.1" 200 1677
+20.196.121.236 - - [10/Aug/2024:06:32:20 +0000] "GET /search?q=soy sauce HTTP/1.1" 200 1416
+151.57.225.212 - - [29/Jul/2024:17:17:04 +0000] "POST /checkout HTTP/1.1" 200 537
+91.127.33.103 - - [29/Jul/2024:05:23:20 +0000] "POST /products/garlic.html HTTP/1.1" 200 1392
+145.155.20.140 - - [28/Jul/2024:09:19:23 +0000] "GET /cart/add/cucumber HTTP/1.1" 201 1228
+251.130.55.133 - - [12/Aug/2024:14:39:12 +0000] "GET /cart/add/ice cream HTTP/1.1" 201 1906
+100.2.24.16 - - [19/Aug/2024:22:09:27 +0000] "POST /cart/add/chocolate HTTP/1.1" 201 1187
+250.226.227.10 - - [13/Aug/2024:07:10:28 +0000] "GET /checkout HTTP/1.1" 200 911
+60.82.197.41 - - [15/Aug/2024:11:07:35 +0000] "GET /cart/add/olive oil HTTP/1.1" 201 798
+156.58.80.169 - - [09/Aug/2024:06:45:39 +0000] "POST /products?category=snack HTTP/1.1" 200 236
+3.30.197.74 - - [08/Aug/2024:10:14:17 +0000] "POST /search?q=spinach HTTP/1.1" 200 571
+48.17.98.29 - - [09/Aug/2024:03:02:35 +0000] "GET /checkout HTTP/1.1" 200 1029
+210.215.179.185 - - [16/Aug/2024:05:29:56 +0000] "GET /search?q=ice cream HTTP/1.1" 200 331
+202.151.161.114 - - [19/Aug/2024:01:37:06 +0000] "POST /products/coffee.html HTTP/1.1" 200 639
+124.225.232.7 - - [06/Aug/2024:07:48:04 +0000] "GET /checkout HTTP/1.1" 200 322
+8.32.132.243 - - [21/Jul/2024:09:19:24 +0000] "POST /checkout HTTP/1.1" 200 1781
+197.60.16.239 - - [30/Jul/2024:17:16:33 +0000] "GET /products/carrot.html HTTP/1.1" 200 391
+134.187.233.244 - - [09/Aug/2024:01:51:35 +0000] "POST /products/spinach.html HTTP/1.1" 200 1324
+31.210.106.247 - - [13/Aug/2024:00:00:35 +0000] "POST /cart/add/salt HTTP/1.1" 201 1504
+7.0.254.159 - - [27/Jul/2024:03:57:52 +0000] "GET /products/flour.html HTTP/1.1" 200 858
+72.205.27.64 - - [30/Jul/2024:16:48:00 +0000] "GET /checkout HTTP/1.1" 200 890
+179.105.211.76 - - [30/Jul/2024:17:29:19 +0000] "GET /cart/add/pizza HTTP/1.1" 201 610
+245.186.196.184 - - [10/Aug/2024:11:04:59 +0000] "POST /products?category=fruit HTTP/1.1" 200 1585
+228.182.205.118 - - [30/Jul/2024:08:17:11 +0000] "POST /cart/add/granola HTTP/1.1" 201 812
+199.77.185.218 - - [02/Aug/2024:20:50:58 +0000] "POST /products?category=fruit HTTP/1.1" 200 577
+235.204.24.90 - - [07/Aug/2024:05:38:59 +0000] "POST /products/tea.html HTTP/1.1" 200 389
+34.33.239.59 - - [29/Jul/2024:01:25:01 +0000] "GET /search?q=coffee HTTP/1.1" 200 722
+44.54.225.103 - - [28/Jul/2024:10:23:39 +0000] "GET /products?category=fruit HTTP/1.1" 200 1875
+68.66.24.204 - - [01/Aug/2024:06:11:33 +0000] "POST /cart/add/soy sauce HTTP/1.1" 201 707
+105.58.189.106 - - [05/Aug/2024:09:01:56 +0000] "GET /products?category=snack HTTP/1.1" 200 635
+72.102.107.117 - - [26/Jul/2024:07:13:32 +0000] "POST /cart/add/bread HTTP/1.1" 201 1524
+157.227.217.232 - - [25/Jul/2024:17:14:49 +0000] "POST /search?q=fish HTTP/1.1" 200 1627
+191.110.145.199 - - [01/Aug/2024:17:06:08 +0000] "POST /products?category=bakery HTTP/1.1" 200 825
+214.119.132.83 - - [14/Aug/2024:10:35:38 +0000] "GET /search?q=muffins HTTP/1.1" 200 1740
+172.35.52.228 - - [03/Aug/2024:03:31:57 +0000] "POST /products?category=fruit HTTP/1.1" 200 904
+89.83.246.36 - - [11/Aug/2024:03:17:20 +0000] "POST /search?q=nuts HTTP/1.1" 200 1502
+25.17.48.20 - - [11/Aug/2024:01:41:39 +0000] "GET /cart/add/sriracha HTTP/1.1" 201 1633
+206.57.246.76 - - [23/Jul/2024:07:45:38 +0000] "POST /checkout HTTP/1.1" 200 1066
+213.138.75.20 - - [08/Aug/2024:10:08:01 +0000] "GET /cart/add/tea HTTP/1.1" 201 1759
+195.103.249.67 - - [28/Jul/2024:08:28:21 +0000] "GET /search?q=milk HTTP/1.1" 200 1934
+65.117.113.241 - - [03/Aug/2024:04:30:19 +0000] "GET /search?q=potato HTTP/1.1" 200 1334
+51.111.55.74 - - [02/Aug/2024:17:16:42 +0000] "GET /products/spaghetti sauce.html HTTP/1.1" 200 391
+226.187.123.137 - - [05/Aug/2024:18:47:47 +0000] "POST /products?category=bakery HTTP/1.1" 200 573
+185.152.165.165 - - [09/Aug/2024:17:56:47 +0000] "GET /cart/add/coffee HTTP/1.1" 201 1538
+30.162.209.120 - - [02/Aug/2024:20:54:38 +0000] "GET /checkout HTTP/1.1" 200 1345
+227.96.154.97 - - [15/Aug/2024:02:50:38 +0000] "GET /products/lettuce.html HTTP/1.1" 200 1904
+53.46.196.107 - - [16/Aug/2024:09:16:47 +0000] "POST /products/beef.html HTTP/1.1" 200 943
+180.139.53.74 - - [04/Aug/2024:09:20:55 +0000] "GET /search?q=bagels HTTP/1.1" 200 1431
+162.86.146.84 - - [05/Aug/2024:22:33:10 +0000] "POST /checkout HTTP/1.1" 200 901
+180.105.5.247 - - [14/Aug/2024:06:16:12 +0000] "POST /products/tea.html HTTP/1.1" 200 1627
+67.231.235.56 - - [23/Jul/2024:02:14:20 +0000] "POST /search?q=orange HTTP/1.1" 200 1890
+44.71.120.12 - - [31/Jul/2024:10:15:42 +0000] "POST /cart/add/orange HTTP/1.1" 201 492
+150.79.117.143 - - [07/Aug/2024:08:19:37 +0000] "GET /products?category=fruit HTTP/1.1" 200 599
+139.117.201.135 - - [16/Aug/2024:16:44:53 +0000] "POST /search?q=tortillas HTTP/1.1" 200 555
+141.141.117.97 - - [25/Jul/2024:07:19:48 +0000] "POST /checkout HTTP/1.1" 200 1784
+30.62.87.16 - - [07/Aug/2024:00:00:31 +0000] "POST /search?q=rice HTTP/1.1" 200 1745
+208.120.230.23 - - [05/Aug/2024:18:56:10 +0000] "GET /products?category=snack HTTP/1.1" 200 1468
+26.170.142.209 - - [25/Jul/2024:09:54:52 +0000] "POST /checkout HTTP/1.1" 200 1888
+73.1.252.6 - - [25/Jul/2024:15:36:23 +0000] "GET /products/bread.html HTTP/1.1" 200 1741
+146.21.136.182 - - [28/Jul/2024:15:22:23 +0000] "POST /search?q=flour HTTP/1.1" 200 682
+122.112.242.156 - - [30/Jul/2024:12:20:03 +0000] "GET /cart/add/sesame oil HTTP/1.1" 201 1092
+176.178.145.43 - - [09/Aug/2024:09:56:38 +0000] "POST /cart/add/milk HTTP/1.1" 201 1574
+241.216.56.200 - - [02/Aug/2024:07:13:55 +0000] "GET /search?q=lentils HTTP/1.1" 200 1175
+245.121.144.98 - - [18/Aug/2024:18:29:14 +0000] "GET /products/pepper.html HTTP/1.1" 200 240
+210.224.134.184 - - [18/Aug/2024:20:51:57 +0000] "GET /search?q=spaghetti sauce HTTP/1.1" 200 461
+128.129.16.184 - - [24/Jul/2024:12:24:02 +0000] "GET /search?q=mushrooms HTTP/1.1" 200 1796
+138.106.171.136 - - [08/Aug/2024:01:15:00 +0000] "GET /checkout HTTP/1.1" 200 1374
+142.13.58.119 - - [07/Aug/2024:15:10:39 +0000] "POST /search?q=dried fruit HTTP/1.1" 200 330
+123.180.120.150 - - [21/Jul/2024:00:40:49 +0000] "GET /products/egg.html HTTP/1.1" 200 1186
+86.2.186.181 - - [03/Aug/2024:10:35:03 +0000] "POST /products/canned tuna.html HTTP/1.1" 200 1464
+114.122.144.86 - - [30/Jul/2024:09:55:19 +0000] "POST /products?category=bakery HTTP/1.1" 200 1559
+61.140.113.203 - - [22/Jul/2024:15:25:13 +0000] "GET /search?q=dried fruit HTTP/1.1" 200 1107
+176.233.38.141 - - [02/Aug/2024:00:48:43 +0000] "POST /cart/add/lentils HTTP/1.1" 201 289
+233.10.242.104 - - [15/Aug/2024:11:56:38 +0000] "GET /cart/add/beans HTTP/1.1" 201 1301
+19.140.17.197 - - [30/Jul/2024:01:29:21 +0000] "GET /cart/add/pepper HTTP/1.1" 201 1738
+125.67.136.146 - - [29/Jul/2024:13:11:32 +0000] "POST /products/mayonnaise.html HTTP/1.1" 200 1996
+208.172.158.232 - - [12/Aug/2024:09:57:09 +0000] "GET /products?category=snack HTTP/1.1" 200 559
+150.17.182.169 - - [24/Jul/2024:23:06:45 +0000] "POST /search?q=oatmeal HTTP/1.1" 200 1097
+122.135.2.206 - - [04/Aug/2024:22:12:09 +0000] "GET /products?category=beverage HTTP/1.1" 200 1032
+57.84.174.92 - - [19/Aug/2024:00:20:57 +0000] "POST /products/rice vinegar.html HTTP/1.1" 200 1089
+45.55.227.96 - - [09/Aug/2024:13:34:17 +0000] "GET /cart/add/chips HTTP/1.1" 201 208
+246.136.67.193 - - [27/Jul/2024:07:48:06 +0000] "GET /search?q=nuts HTTP/1.1" 200 540
+201.251.57.97 - - [09/Aug/2024:08:56:04 +0000] "POST /products?category=beverage HTTP/1.1" 200 378
+126.148.232.54 - - [14/Aug/2024:00:09:05 +0000] "POST /checkout HTTP/1.1" 200 327
+30.74.141.3 - - [01/Aug/2024:20:53:31 +0000] "GET /checkout HTTP/1.1" 200 1895
+254.86.147.146 - - [06/Aug/2024:21:13:02 +0000] "POST /search?q=onion HTTP/1.1" 200 583
+171.72.64.183 - - [01/Aug/2024:02:59:22 +0000] "POST /products?category=bakery HTTP/1.1" 200 1258
+82.189.227.8 - - [17/Aug/2024:06:21:14 +0000] "POST /products?category=beverage HTTP/1.1" 200 1365
+87.190.52.90 - - [03/Aug/2024:02:53:14 +0000] "POST /cart/add/cucumber HTTP/1.1" 201 1272
+44.132.199.141 - - [18/Aug/2024:02:11:09 +0000] "GET /products?category=fruit HTTP/1.1" 200 1908
+37.183.141.85 - - [18/Aug/2024:18:07:56 +0000] "GET /search?q=mustard HTTP/1.1" 200 1715
+111.124.156.79 - - [08/Aug/2024:17:33:13 +0000] "GET /products?category=beverage HTTP/1.1" 200 1402
+118.101.152.217 - - [16/Aug/2024:08:36:52 +0000] "GET /checkout HTTP/1.1" 200 779
+178.1.242.170 - - [13/Aug/2024:19:28:24 +0000] "GET /products/crackers.html HTTP/1.1" 200 615
+205.65.150.87 - - [28/Jul/2024:05:22:42 +0000] "POST /cart/add/carrot HTTP/1.1" 201 871
+201.202.14.82 - - [07/Aug/2024:17:59:12 +0000] "GET /cart/add/bagels HTTP/1.1" 201 692
+206.90.231.110 - - [15/Aug/2024:13:15:43 +0000] "POST /cart/add/pita bread HTTP/1.1" 201 1797
+110.109.131.8 - - [30/Jul/2024:22:05:51 +0000] "GET /search?q=trail mix HTTP/1.1" 200 1755
+250.114.110.161 - - [20/Jul/2024:05:18:16 +0000] "GET /products/cheese.html HTTP/1.1" 200 1733
+225.96.58.21 - - [24/Jul/2024:20:11:31 +0000] "POST /products?category=bakery HTTP/1.1" 200 1607
+89.132.0.66 - - [08/Aug/2024:18:39:05 +0000] "POST /products?category=fruit HTTP/1.1" 200 1990
+64.211.59.198 - - [06/Aug/2024:01:51:17 +0000] "POST /checkout HTTP/1.1" 200 1006
+123.223.166.154 - - [03/Aug/2024:00:11:21 +0000] "POST /products?category=snack HTTP/1.1" 200 1042
+208.235.139.8 - - [11/Aug/2024:00:09:56 +0000] "GET /cart/add/sour cream HTTP/1.1" 201 230
+231.61.101.226 - - [26/Jul/2024:12:30:43 +0000] "POST /checkout HTTP/1.1" 200 352
+161.166.156.249 - - [31/Jul/2024:23:43:17 +0000] "POST /products/butter.html HTTP/1.1" 200 1630
+90.49.104.97 - - [02/Aug/2024:11:31:05 +0000] "GET /products/mustard.html HTTP/1.1" 200 1107
+120.52.16.95 - - [20/Jul/2024:18:54:19 +0000] "POST /cart/add/lentils HTTP/1.1" 201 698
+26.56.200.104 - - [09/Aug/2024:15:10:24 +0000] "GET /products/onion.html HTTP/1.1" 200 1783
+150.116.110.243 - - [27/Jul/2024:09:28:05 +0000] "POST /checkout HTTP/1.1" 200 1127
+19.57.48.58 - - [29/Jul/2024:21:00:57 +0000] "POST /products/crackers.html HTTP/1.1" 200 1046
+123.248.34.37 - - [19/Aug/2024:22:22:05 +0000] "GET /checkout HTTP/1.1" 200 955
+250.176.67.179 - - [22/Jul/2024:16:47:39 +0000] "POST /cart/add/baking powder HTTP/1.1" 201 1666
+46.192.219.25 - - [24/Jul/2024:02:37:54 +0000] "POST /products/apple.html HTTP/1.1" 200 1028
+219.39.14.189 - - [16/Aug/2024:04:40:56 +0000] "POST /search?q=egg HTTP/1.1" 200 385
+55.219.113.80 - - [18/Aug/2024:14:28:47 +0000] "GET /products/bread.html HTTP/1.1" 200 1266
+254.73.145.207 - - [24/Jul/2024:21:54:04 +0000] "GET /products/pizza.html HTTP/1.1" 200 409
+227.241.138.240 - - [29/Jul/2024:13:53:57 +0000] "POST /cart/add/sriracha HTTP/1.1" 201 1601
+75.93.39.24 - - [17/Aug/2024:15:25:59 +0000] "GET /cart/add/sriracha HTTP/1.1" 201 1726
+173.160.2.33 - - [31/Jul/2024:14:57:42 +0000] "POST /cart/add/butter HTTP/1.1" 201 1293
+39.123.127.110 - - [23/Jul/2024:08:29:20 +0000] "POST /products?category=fruit HTTP/1.1" 200 1205
+185.160.149.15 - - [28/Jul/2024:19:31:01 +0000] "POST /checkout HTTP/1.1" 200 1840
+223.158.128.81 - - [08/Aug/2024:08:41:30 +0000] "GET /products/sour cream.html HTTP/1.1" 200 1971
+203.185.125.114 - - [25/Jul/2024:00:59:45 +0000] "GET /products?category=fruit HTTP/1.1" 200 1137
+58.39.253.85 - - [05/Aug/2024:12:36:01 +0000] "POST /products?category=bakery HTTP/1.1" 200 1422
+69.129.226.199 - - [27/Jul/2024:23:17:00 +0000] "GET /products?category=fruit HTTP/1.1" 200 385
+53.142.120.227 - - [14/Aug/2024:08:18:45 +0000] "POST /products/cake.html HTTP/1.1" 200 1702
+143.128.31.98 - - [27/Jul/2024:21:24:36 +0000] "GET /checkout HTTP/1.1" 200 1736
+199.223.28.112 - - [29/Jul/2024:16:09:31 +0000] "GET /cart/add/carrot HTTP/1.1" 201 1521
+74.91.148.229 - - [22/Jul/2024:05:00:36 +0000] "GET /products?category=dairy HTTP/1.1" 200 1628
+238.192.192.218 - - [04/Aug/2024:02:34:05 +0000] "POST /products/cake.html HTTP/1.1" 200 454
+226.67.38.213 - - [03/Aug/2024:06:58:42 +0000] "POST /products?category=beverage HTTP/1.1" 200 806
+18.237.247.248 - - [22/Jul/2024:13:01:49 +0000] "POST /cart/add/milk HTTP/1.1" 201 269
+25.145.221.108 - - [02/Aug/2024:03:52:06 +0000] "POST /search?q=vinegar HTTP/1.1" 200 689
+7.79.57.24 - - [25/Jul/2024:14:30:23 +0000] "GET /cart/add/pasta HTTP/1.1" 201 1849
+68.36.145.235 - - [29/Jul/2024:18:20:41 +0000] "GET /products?category=fruit HTTP/1.1" 200 1695
+188.122.28.80 - - [26/Jul/2024:18:14:38 +0000] "GET /products/butter.html HTTP/1.1" 200 1142
+91.183.70.199 - - [26/Jul/2024:12:49:22 +0000] "GET /cart/add/bread HTTP/1.1" 201 909
+241.173.127.133 - - [08/Aug/2024:04:43:02 +0000] "GET /cart/add/beef HTTP/1.1" 201 652
+106.193.50.248 - - [13/Aug/2024:15:26:43 +0000] "GET /checkout HTTP/1.1" 200 1359
+36.127.125.251 - - [16/Aug/2024:15:50:20 +0000] "GET /checkout HTTP/1.1" 200 809
+215.207.138.65 - - [15/Aug/2024:18:41:24 +0000] "GET /products?category=beverage HTTP/1.1" 200 1201
+49.18.131.168 - - [10/Aug/2024:11:57:28 +0000] "GET /products/trail mix.html HTTP/1.1" 200 1850
+71.173.213.10 - - [01/Aug/2024:23:53:57 +0000] "POST /cart/add/canned soup HTTP/1.1" 201 989
+214.69.236.56 - - [07/Aug/2024:10:10:00 +0000] "POST /cart/add/muffins HTTP/1.1" 201 688
+63.2.216.245 - - [16/Aug/2024:09:40:20 +0000] "POST /checkout HTTP/1.1" 200 1638
+80.178.204.127 - - [24/Jul/2024:12:25:02 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 1920
+155.126.85.58 - - [18/Aug/2024:16:36:06 +0000] "GET /products?category=fruit HTTP/1.1" 200 360
+14.222.103.111 - - [07/Aug/2024:00:26:52 +0000] "GET /products/baking powder.html HTTP/1.1" 200 1234
+94.94.43.55 - - [17/Aug/2024:13:35:41 +0000] "POST /products/sriracha.html HTTP/1.1" 200 1743
+46.189.54.239 - - [27/Jul/2024:11:08:01 +0000] "GET /products/lettuce.html HTTP/1.1" 200 447
+196.185.183.49 - - [28/Jul/2024:08:16:15 +0000] "GET /products?category=snack HTTP/1.1" 200 829
+163.243.144.92 - - [20/Jul/2024:06:20:30 +0000] "GET /cart/add/lentils HTTP/1.1" 201 371
+163.177.142.218 - - [29/Jul/2024:19:29:03 +0000] "POST /cart/add/cucumber HTTP/1.1" 201 227
+122.79.179.23 - - [04/Aug/2024:02:59:20 +0000] "POST /search?q=canned tuna HTTP/1.1" 200 1715
+138.55.194.127 - - [01/Aug/2024:10:18:17 +0000] "POST /products?category=fruit HTTP/1.1" 200 285
+184.35.46.177 - - [02/Aug/2024:03:03:44 +0000] "POST /checkout HTTP/1.1" 200 1568
+0.59.43.201 - - [17/Aug/2024:10:32:26 +0000] "POST /checkout HTTP/1.1" 200 1371
+18.242.17.247 - - [20/Jul/2024:06:35:14 +0000] "POST /search?q=pizza HTTP/1.1" 200 1144
+124.77.51.159 - - [06/Aug/2024:16:36:40 +0000] "POST /search?q=orange HTTP/1.1" 200 1522
+97.130.185.31 - - [24/Jul/2024:08:31:13 +0000] "GET /products/peppers.html HTTP/1.1" 200 239
+160.214.109.78 - - [16/Aug/2024:10:28:51 +0000] "GET /cart/add/peppers HTTP/1.1" 201 434
+41.195.28.91 - - [08/Aug/2024:02:29:05 +0000] "POST /cart/add/mustard HTTP/1.1" 201 1714
+51.224.217.190 - - [20/Jul/2024:20:39:57 +0000] "GET /products/dried fruit.html HTTP/1.1" 200 1562
+89.84.163.99 - - [17/Aug/2024:13:40:43 +0000] "POST /products/rice.html HTTP/1.1" 200 1575
+2.57.207.31 - - [23/Jul/2024:17:23:17 +0000] "POST /checkout HTTP/1.1" 200 1307
+61.47.141.210 - - [27/Jul/2024:10:59:54 +0000] "POST /products?category=dairy HTTP/1.1" 200 311
+133.126.141.155 - - [10/Aug/2024:00:42:46 +0000] "GET /checkout HTTP/1.1" 200 327
+112.1.139.146 - - [07/Aug/2024:15:59:12 +0000] "POST /search?q=tea HTTP/1.1" 200 1291
+220.225.62.201 - - [20/Jul/2024:19:35:19 +0000] "GET /products/lentils.html HTTP/1.1" 200 1997
+204.240.89.211 - - [25/Jul/2024:09:42:27 +0000] "POST /products?category=snack HTTP/1.1" 200 1097
+29.179.163.92 - - [28/Jul/2024:11:15:16 +0000] "GET /cart/add/jam HTTP/1.1" 201 1451
+124.125.253.227 - - [06/Aug/2024:21:24:14 +0000] "POST /cart/add/egg HTTP/1.1" 201 1327
+70.203.94.77 - - [12/Aug/2024:10:31:44 +0000] "POST /products/frozen meat.html HTTP/1.1" 200 500
+64.117.166.147 - - [31/Jul/2024:14:51:50 +0000] "POST /products/chocolate.html HTTP/1.1" 200 613
+9.84.131.72 - - [22/Jul/2024:00:13:22 +0000] "GET /search?q=canned tomatoes HTTP/1.1" 200 1316
+1.97.206.53 - - [26/Jul/2024:04:26:30 +0000] "GET /products?category=fruit HTTP/1.1" 200 1965
+246.128.222.194 - - [06/Aug/2024:05:02:18 +0000] "GET /checkout HTTP/1.1" 200 822
+237.65.130.38 - - [03/Aug/2024:20:05:01 +0000] "GET /checkout HTTP/1.1" 200 636
+84.125.57.179 - - [06/Aug/2024:01:49:52 +0000] "GET /search?q=peppers HTTP/1.1" 200 1743
+240.27.45.188 - - [07/Aug/2024:04:18:11 +0000] "GET /checkout HTTP/1.1" 200 1266
+163.121.242.36 - - [11/Aug/2024:11:54:53 +0000] "POST /search?q=beans HTTP/1.1" 200 1093
+162.22.1.132 - - [02/Aug/2024:00:32:52 +0000] "GET /products?category=beverage HTTP/1.1" 200 1132
+142.233.181.32 - - [28/Jul/2024:18:27:51 +0000] "POST /products?category=bakery HTTP/1.1" 200 1811
+234.143.197.160 - - [04/Aug/2024:20:38:51 +0000] "POST /products/croutons.html HTTP/1.1" 200 1422
+218.14.42.57 - - [16/Aug/2024:07:28:26 +0000] "GET /checkout HTTP/1.1" 200 580
+222.212.39.227 - - [19/Aug/2024:02:33:23 +0000] "POST /checkout HTTP/1.1" 200 1048
+94.130.237.224 - - [30/Jul/2024:20:09:50 +0000] "POST /products/garlic.html HTTP/1.1" 200 1366
+38.13.254.112 - - [27/Jul/2024:04:19:02 +0000] "POST /products?category=snack HTTP/1.1" 200 1437
+83.196.94.191 - - [23/Jul/2024:13:09:23 +0000] "GET /cart/add/lentils HTTP/1.1" 201 1723
+21.33.224.101 - - [18/Aug/2024:20:52:04 +0000] "GET /search?q=ice cream HTTP/1.1" 200 1801
+155.193.222.37 - - [10/Aug/2024:15:19:05 +0000] "POST /products?category=fruit HTTP/1.1" 200 309
+97.232.132.190 - - [23/Jul/2024:06:49:11 +0000] "GET /checkout HTTP/1.1" 200 1181
+180.220.211.248 - - [02/Aug/2024:16:12:17 +0000] "GET /search?q=spaghetti sauce HTTP/1.1" 200 375
+97.1.87.252 - - [29/Jul/2024:18:56:20 +0000] "POST /products/chocolate.html HTTP/1.1" 200 473
+156.72.157.222 - - [13/Aug/2024:04:58:16 +0000] "GET /products/olive oil.html HTTP/1.1" 200 365
+59.16.151.42 - - [29/Jul/2024:00:11:23 +0000] "GET /search?q=cucumber HTTP/1.1" 200 1217
+64.148.245.63 - - [23/Jul/2024:00:04:48 +0000] "POST /cart/add/butter HTTP/1.1" 201 1212
+68.255.120.61 - - [12/Aug/2024:00:06:26 +0000] "POST /products/mayonnaise.html HTTP/1.1" 200 1955
+234.85.35.28 - - [12/Aug/2024:03:22:06 +0000] "GET /products/crackers.html HTTP/1.1" 200 960
+35.119.8.12 - - [10/Aug/2024:18:49:33 +0000] "GET /products?category=bakery HTTP/1.1" 200 1330
+89.110.53.3 - - [07/Aug/2024:16:44:04 +0000] "GET /cart/add/cake HTTP/1.1" 201 997
+90.120.219.248 - - [07/Aug/2024:16:36:34 +0000] "GET /cart/add/ketchup HTTP/1.1" 201 1875
+198.130.207.4 - - [21/Jul/2024:05:11:46 +0000] "GET /products?category=beverage HTTP/1.1" 200 1529
+255.188.63.210 - - [21/Jul/2024:17:54:45 +0000] "POST /cart/add/coffee HTTP/1.1" 201 1728
+89.190.35.47 - - [08/Aug/2024:05:09:20 +0000] "POST /cart/add/mushrooms HTTP/1.1" 201 966
+246.127.214.13 - - [17/Aug/2024:02:57:27 +0000] "GET /products?category=bakery HTTP/1.1" 200 968
+202.135.18.50 - - [19/Aug/2024:02:33:00 +0000] "POST /products/butter.html HTTP/1.1" 200 675
+252.87.204.81 - - [09/Aug/2024:22:57:46 +0000] "GET /checkout HTTP/1.1" 200 835
+3.59.106.209 - - [17/Aug/2024:03:23:21 +0000] "GET /products/yogurt.html HTTP/1.1" 200 1201
+148.155.124.204 - - [13/Aug/2024:06:57:54 +0000] "POST /products?category=fruit HTTP/1.1" 200 1335
+217.239.195.95 - - [20/Jul/2024:19:48:10 +0000] "GET /checkout HTTP/1.1" 200 1953
+34.253.17.9 - - [03/Aug/2024:06:50:52 +0000] "POST /products/peppers.html HTTP/1.1" 200 495
+118.172.100.92 - - [12/Aug/2024:09:56:05 +0000] "GET /checkout HTTP/1.1" 200 1982
+65.173.215.177 - - [19/Aug/2024:07:30:07 +0000] "POST /search?q=butter HTTP/1.1" 200 1792
+124.219.138.255 - - [01/Aug/2024:20:32:09 +0000] "GET /products/sesame oil.html HTTP/1.1" 200 741
+42.50.146.60 - - [29/Jul/2024:13:03:02 +0000] "POST /products?category=beverage HTTP/1.1" 200 766
+18.5.248.197 - - [18/Aug/2024:17:49:00 +0000] "POST /cart/add/chocolate HTTP/1.1" 201 1701
+150.167.48.226 - - [24/Jul/2024:22:36:58 +0000] "POST /cart/add/chips HTTP/1.1" 201 1981
+41.105.7.240 - - [20/Jul/2024:10:24:58 +0000] "POST /products/yogurt.html HTTP/1.1" 200 1377
+10.183.95.99 - - [02/Aug/2024:12:05:52 +0000] "GET /search?q=cake HTTP/1.1" 200 763
+70.12.166.31 - - [12/Aug/2024:09:38:06 +0000] "GET /checkout HTTP/1.1" 200 814
+188.116.64.5 - - [15/Aug/2024:15:38:29 +0000] "POST /search?q=soup HTTP/1.1" 200 360
+197.20.104.209 - - [09/Aug/2024:08:28:08 +0000] "GET /products/flour.html HTTP/1.1" 200 1854
+115.46.119.95 - - [19/Aug/2024:04:17:17 +0000] "GET /products/tomato.html HTTP/1.1" 200 1444
+88.25.157.235 - - [07/Aug/2024:16:33:01 +0000] "GET /search?q=mustard HTTP/1.1" 200 1816
+106.160.243.114 - - [17/Aug/2024:01:51:21 +0000] "GET /search?q=jam HTTP/1.1" 200 780
+116.152.254.183 - - [19/Aug/2024:23:14:19 +0000] "GET /products?category=snack HTTP/1.1" 200 1582
+212.217.66.238 - - [01/Aug/2024:22:25:43 +0000] "GET /search?q=frozen fruit HTTP/1.1" 200 617
+55.40.189.241 - - [07/Aug/2024:05:35:13 +0000] "GET /products?category=beverage HTTP/1.1" 200 620
+210.40.226.1 - - [16/Aug/2024:08:13:10 +0000] "POST /search?q=trail mix HTTP/1.1" 200 1814
+175.54.56.37 - - [25/Jul/2024:19:03:59 +0000] "GET /products/cake.html HTTP/1.1" 200 1544
+1.160.126.147 - - [22/Jul/2024:08:45:43 +0000] "POST /cart/add/mustard HTTP/1.1" 201 1787
+227.51.34.27 - - [30/Jul/2024:06:22:06 +0000] "POST /checkout HTTP/1.1" 200 800
+214.168.138.186 - - [20/Jul/2024:04:53:46 +0000] "POST /products/bagels.html HTTP/1.1" 200 1119
+187.97.135.36 - - [20/Jul/2024:00:10:11 +0000] "GET /checkout HTTP/1.1" 200 1937
+25.31.28.151 - - [23/Jul/2024:08:34:26 +0000] "POST /search?q=orange HTTP/1.1" 200 221
+154.23.205.86 - - [29/Jul/2024:12:02:54 +0000] "GET /checkout HTTP/1.1" 200 859
+103.229.242.220 - - [30/Jul/2024:07:43:12 +0000] "GET /products?category=fruit HTTP/1.1" 200 1509
+255.18.212.68 - - [30/Jul/2024:22:18:51 +0000] "POST /products/orange.html HTTP/1.1" 200 317
+51.231.110.44 - - [18/Aug/2024:00:59:10 +0000] "GET /cart/add/cream cheese HTTP/1.1" 201 731
+162.8.78.18 - - [17/Aug/2024:02:21:48 +0000] "POST /products?category=snack HTTP/1.1" 200 797
+82.84.115.255 - - [30/Jul/2024:18:00:37 +0000] "GET /products?category=snack HTTP/1.1" 200 1897
+106.42.140.54 - - [09/Aug/2024:15:51:14 +0000] "GET /checkout HTTP/1.1" 200 953
+91.174.49.42 - - [01/Aug/2024:04:12:46 +0000] "POST /search?q=fish HTTP/1.1" 200 1036
+250.42.66.1 - - [25/Jul/2024:15:03:03 +0000] "GET /products?category=bakery HTTP/1.1" 200 769
+15.177.185.94 - - [13/Aug/2024:11:17:01 +0000] "POST /search?q=beef HTTP/1.1" 200 1484
+147.79.24.137 - - [31/Jul/2024:04:03:21 +0000] "GET /cart/add/pasta HTTP/1.1" 201 480
+42.20.40.118 - - [31/Jul/2024:18:18:34 +0000] "GET /products/peanut butter.html HTTP/1.1" 200 706
+37.158.235.196 - - [16/Aug/2024:17:41:45 +0000] "POST /search?q=milk HTTP/1.1" 200 768
+35.126.118.175 - - [15/Aug/2024:17:11:18 +0000] "POST /products?category=snack HTTP/1.1" 200 556
+251.85.189.197 - - [02/Aug/2024:12:05:58 +0000] "POST /products/cream cheese.html HTTP/1.1" 200 971
+0.104.36.226 - - [07/Aug/2024:16:18:23 +0000] "POST /search?q=yogurt HTTP/1.1" 200 1309
+1.206.70.36 - - [09/Aug/2024:22:10:38 +0000] "GET /cart/add/rice vinegar HTTP/1.1" 201 282
+193.178.126.84 - - [13/Aug/2024:20:18:45 +0000] "POST /checkout HTTP/1.1" 200 1670
+162.76.93.176 - - [03/Aug/2024:15:55:26 +0000] "GET /products?category=bakery HTTP/1.1" 200 1209
+79.75.215.21 - - [23/Jul/2024:11:26:33 +0000] "POST /search?q=rice vinegar HTTP/1.1" 200 947
+161.224.24.48 - - [17/Aug/2024:14:50:50 +0000] "GET /products?category=snack HTTP/1.1" 200 457
+233.9.114.155 - - [20/Jul/2024:20:27:25 +0000] "GET /products?category=bakery HTTP/1.1" 200 1531
+36.106.216.107 - - [16/Aug/2024:15:36:51 +0000] "GET /checkout HTTP/1.1" 200 1803
+13.194.188.57 - - [06/Aug/2024:14:24:31 +0000] "POST /products/pita bread.html HTTP/1.1" 200 711
+128.203.188.218 - - [19/Aug/2024:04:34:48 +0000] "POST /products/canned tuna.html HTTP/1.1" 200 1297
+176.7.198.107 - - [18/Aug/2024:09:51:14 +0000] "POST /cart/add/mustard HTTP/1.1" 201 1669
+12.174.195.58 - - [24/Jul/2024:02:25:20 +0000] "POST /products?category=fruit HTTP/1.1" 200 1433
+97.184.49.131 - - [13/Aug/2024:17:55:12 +0000] "POST /products/frozen vegetables.html HTTP/1.1" 200 1790
+249.58.44.139 - - [13/Aug/2024:20:43:55 +0000] "POST /search?q=frozen vegetables HTTP/1.1" 200 896
+169.98.53.146 - - [21/Jul/2024:14:42:36 +0000] "GET /checkout HTTP/1.1" 200 348
+63.227.124.96 - - [09/Aug/2024:14:12:38 +0000] "POST /checkout HTTP/1.1" 200 963
+251.167.193.63 - - [20/Jul/2024:11:05:40 +0000] "POST /products?category=fruit HTTP/1.1" 200 1962
+27.40.228.250 - - [04/Aug/2024:08:28:11 +0000] "GET /products?category=bakery HTTP/1.1" 200 1652
+53.131.203.43 - - [01/Aug/2024:13:19:55 +0000] "GET /cart/add/spinach HTTP/1.1" 201 1699
+60.139.104.36 - - [08/Aug/2024:19:38:43 +0000] "GET /checkout HTTP/1.1" 200 1276
+106.54.183.23 - - [29/Jul/2024:01:54:43 +0000] "POST /products?category=beverage HTTP/1.1" 200 1049
+168.38.22.33 - - [18/Aug/2024:15:33:44 +0000] "GET /search?q=spaghetti sauce HTTP/1.1" 200 862
+253.218.7.148 - - [31/Jul/2024:19:34:21 +0000] "GET /search?q=muffins HTTP/1.1" 200 1346
+73.95.236.6 - - [11/Aug/2024:00:07:35 +0000] "POST /products/sugar.html HTTP/1.1" 200 1141
+29.99.19.180 - - [24/Jul/2024:14:08:00 +0000] "POST /products?category=snack HTTP/1.1" 200 856
+184.239.0.182 - - [10/Aug/2024:18:11:08 +0000] "GET /products/spinach.html HTTP/1.1" 200 319
+52.225.182.135 - - [01/Aug/2024:17:05:34 +0000] "POST /cart/add/pepper HTTP/1.1" 201 1715
+6.91.165.139 - - [06/Aug/2024:16:40:08 +0000] "POST /search?q=beans HTTP/1.1" 200 1413
+94.245.238.9 - - [02/Aug/2024:08:47:59 +0000] "POST /search?q=olive oil HTTP/1.1" 200 555
+71.10.177.18 - - [17/Aug/2024:19:17:07 +0000] "POST /products/tomato.html HTTP/1.1" 200 1388
+15.39.12.102 - - [30/Jul/2024:05:59:48 +0000] "POST /cart/add/potato HTTP/1.1" 201 502
+2.139.126.185 - - [04/Aug/2024:10:32:16 +0000] "POST /products?category=fruit HTTP/1.1" 200 547
+200.19.193.116 - - [29/Jul/2024:21:23:10 +0000] "GET /products/cream cheese.html HTTP/1.1" 200 513
+133.123.177.125 - - [16/Aug/2024:23:21:11 +0000] "GET /checkout HTTP/1.1" 200 1723
+167.211.59.186 - - [06/Aug/2024:07:33:07 +0000] "GET /products?category=snack HTTP/1.1" 200 437
+66.108.254.251 - - [15/Aug/2024:13:41:43 +0000] "POST /checkout HTTP/1.1" 200 635
+198.209.22.131 - - [02/Aug/2024:08:26:25 +0000] "POST /search?q=potato HTTP/1.1" 200 577
+125.211.141.57 - - [26/Jul/2024:05:45:30 +0000] "GET /search?q=cucumber HTTP/1.1" 200 1160
+188.76.238.91 - - [07/Aug/2024:01:32:36 +0000] "GET /cart/add/lentils HTTP/1.1" 201 1474
+29.216.6.171 - - [14/Aug/2024:11:18:18 +0000] "POST /search?q=tortillas HTTP/1.1" 200 277
+25.186.215.237 - - [21/Jul/2024:14:57:16 +0000] "POST /products/ketchup.html HTTP/1.1" 200 361
+80.3.50.242 - - [08/Aug/2024:10:24:35 +0000] "POST /checkout HTTP/1.1" 200 1837
+79.0.182.13 - - [14/Aug/2024:13:10:54 +0000] "POST /products/muffins.html HTTP/1.1" 200 358
+170.250.183.247 - - [08/Aug/2024:06:18:07 +0000] "POST /products/pasta.html HTTP/1.1" 200 1147
+140.221.22.153 - - [03/Aug/2024:21:36:23 +0000] "POST /cart/add/lentils HTTP/1.1" 201 1527
+63.212.95.54 - - [28/Jul/2024:04:10:42 +0000] "POST /checkout HTTP/1.1" 200 1443
+202.142.96.16 - - [18/Aug/2024:08:56:26 +0000] "POST /products/soup.html HTTP/1.1" 200 1140
+126.166.140.165 - - [25/Jul/2024:21:38:04 +0000] "GET /checkout HTTP/1.1" 200 293
+211.39.250.120 - - [20/Jul/2024:03:25:09 +0000] "POST /search?q=oil HTTP/1.1" 200 1018
+90.69.175.96 - - [22/Jul/2024:04:12:31 +0000] "POST /cart/add/lentils HTTP/1.1" 201 1173
+180.50.183.190 - - [14/Aug/2024:19:02:30 +0000] "GET /products/ice cream.html HTTP/1.1" 200 428
+18.173.188.76 - - [12/Aug/2024:15:49:38 +0000] "POST /checkout HTTP/1.1" 200 1989
+220.55.55.105 - - [19/Aug/2024:15:07:38 +0000] "POST /cart/add/frozen meat HTTP/1.1" 201 984
+124.11.184.102 - - [18/Aug/2024:08:09:58 +0000] "POST /search?q=mayonnaise HTTP/1.1" 200 1408
+118.106.201.78 - - [31/Jul/2024:15:46:30 +0000] "GET /products/bagels.html HTTP/1.1" 200 591
+74.202.65.191 - - [30/Jul/2024:23:29:40 +0000] "GET /products/potato.html HTTP/1.1" 200 1041
+59.111.17.85 - - [27/Jul/2024:01:41:48 +0000] "POST /cart/add/sugar HTTP/1.1" 201 494
+26.70.117.157 - - [13/Aug/2024:22:15:34 +0000] "POST /cart/add/vinegar HTTP/1.1" 201 1515
+235.88.244.136 - - [16/Aug/2024:03:29:26 +0000] "POST /search?q=chips HTTP/1.1" 200 1500
+14.216.63.92 - - [18/Aug/2024:16:11:28 +0000] "POST /products?category=dairy HTTP/1.1" 200 1588
+117.62.182.10 - - [07/Aug/2024:09:05:14 +0000] "POST /search?q=chips HTTP/1.1" 200 448
+24.130.125.159 - - [16/Aug/2024:20:52:22 +0000] "POST /products?category=beverage HTTP/1.1" 200 1592
+82.200.169.216 - - [06/Aug/2024:17:03:54 +0000] "POST /products/canned tomatoes.html HTTP/1.1" 200 617
+43.136.168.195 - - [02/Aug/2024:12:07:29 +0000] "GET /products?category=bakery HTTP/1.1" 200 1338
+192.15.225.195 - - [03/Aug/2024:23:46:32 +0000] "POST /checkout HTTP/1.1" 200 1390
+148.38.54.113 - - [24/Jul/2024:22:12:23 +0000] "GET /search?q=energy bars HTTP/1.1" 200 1306
+85.178.241.165 - - [30/Jul/2024:22:22:51 +0000] "POST /products?category=fruit HTTP/1.1" 200 809
+83.158.91.150 - - [26/Jul/2024:21:48:02 +0000] "GET /products/tortillas.html HTTP/1.1" 200 1150
+61.36.3.37 - - [15/Aug/2024:16:55:46 +0000] "GET /checkout HTTP/1.1" 200 1691
+48.246.59.82 - - [23/Jul/2024:23:58:02 +0000] "POST /checkout HTTP/1.1" 200 391
+139.170.141.165 - - [02/Aug/2024:11:47:11 +0000] "GET /search?q=croutons HTTP/1.1" 200 581
+17.111.132.25 - - [08/Aug/2024:00:34:51 +0000] "GET /products/tortillas.html HTTP/1.1" 200 512
+1.97.250.143 - - [23/Jul/2024:14:05:50 +0000] "GET /products/peanut butter.html HTTP/1.1" 200 887
+244.153.113.144 - - [21/Jul/2024:01:35:17 +0000] "POST /search?q=bagels HTTP/1.1" 200 1974
+4.127.193.120 - - [31/Jul/2024:04:18:24 +0000] "POST /cart/add/beef HTTP/1.1" 201 1549
+203.205.187.92 - - [20/Jul/2024:10:25:46 +0000] "GET /products?category=dairy HTTP/1.1" 200 938
+252.4.241.55 - - [07/Aug/2024:10:50:24 +0000] "GET /products?category=fruit HTTP/1.1" 200 1795
+139.5.65.147 - - [03/Aug/2024:17:45:21 +0000] "POST /products?category=beverage HTTP/1.1" 200 723
+48.67.205.17 - - [14/Aug/2024:06:46:05 +0000] "POST /cart/add/bagels HTTP/1.1" 201 862
+49.181.225.167 - - [29/Jul/2024:07:28:20 +0000] "GET /products?category=snack HTTP/1.1" 200 1701
+223.67.175.195 - - [05/Aug/2024:17:28:48 +0000] "GET /search?q=soup HTTP/1.1" 200 1427
+158.147.214.207 - - [08/Aug/2024:18:09:11 +0000] "POST /products/energy bars.html HTTP/1.1" 200 1045
+162.143.171.53 - - [11/Aug/2024:13:30:16 +0000] "GET /products/muffins.html HTTP/1.1" 200 1670
+207.37.194.194 - - [27/Jul/2024:07:57:52 +0000] "POST /search?q=beans HTTP/1.1" 200 1344
+152.174.46.53 - - [05/Aug/2024:06:04:45 +0000] "GET /products/baking powder.html HTTP/1.1" 200 1187
+133.174.214.162 - - [24/Jul/2024:06:46:15 +0000] "POST /products/chocolate.html HTTP/1.1" 200 333
+51.109.56.244 - - [22/Jul/2024:04:25:02 +0000] "POST /search?q=tomato HTTP/1.1" 200 459
+119.43.213.236 - - [02/Aug/2024:15:54:43 +0000] "GET /products/soy sauce.html HTTP/1.1" 200 213
+63.244.59.132 - - [15/Aug/2024:13:16:11 +0000] "POST /products?category=snack HTTP/1.1" 200 534
+180.222.238.188 - - [14/Aug/2024:21:09:51 +0000] "GET /search?q=frozen meat HTTP/1.1" 200 1896
+216.92.51.140 - - [23/Jul/2024:06:05:21 +0000] "GET /cart/add/milk HTTP/1.1" 201 877
+37.70.78.108 - - [04/Aug/2024:11:28:49 +0000] "GET /products?category=beverage HTTP/1.1" 200 1194
+172.68.169.220 - - [29/Jul/2024:02:28:07 +0000] "POST /search?q=vinegar HTTP/1.1" 200 598
+124.89.107.251 - - [07/Aug/2024:23:16:30 +0000] "POST /cart/add/frozen fruit HTTP/1.1" 201 1959
+163.86.123.19 - - [19/Aug/2024:03:19:37 +0000] "GET /products/croutons.html HTTP/1.1" 200 834
+254.8.201.55 - - [05/Aug/2024:19:34:47 +0000] "POST /products/lentils.html HTTP/1.1" 200 274
+167.209.131.100 - - [19/Aug/2024:12:54:25 +0000] "GET /cart/add/sriracha HTTP/1.1" 201 1785
+83.118.78.99 - - [21/Jul/2024:12:34:23 +0000] "GET /products/carrot.html HTTP/1.1" 200 1243
+82.148.60.98 - - [28/Jul/2024:23:31:51 +0000] "GET /products?category=snack HTTP/1.1" 200 1552
+35.169.130.219 - - [04/Aug/2024:05:54:54 +0000] "GET /checkout HTTP/1.1" 200 1674
+125.41.217.78 - - [04/Aug/2024:23:34:34 +0000] "GET /checkout HTTP/1.1" 200 1181
+148.244.149.135 - - [16/Aug/2024:11:07:51 +0000] "GET /products?category=bakery HTTP/1.1" 200 1514
+194.193.186.185 - - [16/Aug/2024:09:45:35 +0000] "GET /search?q=spinach HTTP/1.1" 200 1859
+1.98.145.193 - - [01/Aug/2024:05:28:52 +0000] "POST /search?q=baking soda HTTP/1.1" 200 1416
+87.171.73.142 - - [16/Aug/2024:14:52:11 +0000] "GET /cart/add/balsamic vinegar HTTP/1.1" 201 425
+97.231.82.37 - - [21/Jul/2024:23:21:25 +0000] "GET /search?q=nuts HTTP/1.1" 200 1232
+10.51.0.156 - - [18/Aug/2024:19:16:25 +0000] "POST /cart/add/honey HTTP/1.1" 201 1719
+117.149.113.242 - - [01/Aug/2024:21:41:37 +0000] "POST /products?category=beverage HTTP/1.1" 200 335
+39.40.215.78 - - [08/Aug/2024:22:21:36 +0000] "POST /cart/add/orange HTTP/1.1" 201 394
+32.127.171.158 - - [28/Jul/2024:07:32:34 +0000] "POST /checkout HTTP/1.1" 200 1037
+136.36.168.158 - - [13/Aug/2024:11:26:15 +0000] "POST /search?q=egg HTTP/1.1" 200 1616
+224.150.124.84 - - [23/Jul/2024:03:42:47 +0000] "POST /checkout HTTP/1.1" 200 297
+97.187.61.143 - - [06/Aug/2024:08:04:00 +0000] "GET /search?q=croutons HTTP/1.1" 200 564
+153.56.183.181 - - [17/Aug/2024:09:05:02 +0000] "GET /checkout HTTP/1.1" 200 1630
+88.13.144.229 - - [02/Aug/2024:03:13:51 +0000] "POST /products?category=beverage HTTP/1.1" 200 1837
+130.69.178.58 - - [31/Jul/2024:08:55:23 +0000] "POST /checkout HTTP/1.1" 200 1965
+111.8.229.184 - - [18/Aug/2024:00:32:39 +0000] "POST /products/pasta.html HTTP/1.1" 200 1664
+134.228.114.211 - - [27/Jul/2024:15:44:41 +0000] "POST /search?q=apple HTTP/1.1" 200 1538
+167.146.153.103 - - [05/Aug/2024:19:40:29 +0000] "GET /products?category=bakery HTTP/1.1" 200 1228
+88.14.93.79 - - [17/Aug/2024:14:23:55 +0000] "POST /checkout HTTP/1.1" 200 1310
+115.199.98.17 - - [17/Aug/2024:17:29:54 +0000] "POST /search?q=chicken HTTP/1.1" 200 700
+210.153.193.49 - - [18/Aug/2024:07:50:14 +0000] "POST /search?q=energy bars HTTP/1.1" 200 1428
+224.216.195.29 - - [06/Aug/2024:12:27:24 +0000] "GET /products/onion.html HTTP/1.1" 200 1613
+101.1.40.181 - - [21/Jul/2024:22:25:31 +0000] "GET /products?category=dairy HTTP/1.1" 200 419
+132.96.121.84 - - [12/Aug/2024:11:35:41 +0000] "GET /products?category=fruit HTTP/1.1" 200 1707
+240.217.108.160 - - [27/Jul/2024:06:54:10 +0000] "GET /checkout HTTP/1.1" 200 1995
+233.137.20.158 - - [09/Aug/2024:05:27:57 +0000] "POST /products/dried fruit.html HTTP/1.1" 200 1200
+64.150.88.15 - - [19/Aug/2024:21:35:43 +0000] "GET /search?q=orange HTTP/1.1" 200 207
+162.56.41.184 - - [30/Jul/2024:09:17:45 +0000] "GET /checkout HTTP/1.1" 200 1902
+65.92.200.34 - - [13/Aug/2024:00:55:30 +0000] "GET /products/cereal.html HTTP/1.1" 200 1802
+211.88.188.205 - - [10/Aug/2024:14:08:57 +0000] "POST /products?category=dairy HTTP/1.1" 200 1234
+152.30.33.61 - - [30/Jul/2024:21:02:48 +0000] "POST /search?q=sugar HTTP/1.1" 200 1022
+92.51.66.50 - - [22/Jul/2024:20:31:43 +0000] "POST /cart/add/rice HTTP/1.1" 201 1317
+81.65.147.218 - - [15/Aug/2024:07:49:49 +0000] "GET /products/granola.html HTTP/1.1" 200 413
+191.54.229.252 - - [08/Aug/2024:01:16:11 +0000] "POST /search?q=yogurt HTTP/1.1" 200 1808
+170.37.254.2 - - [09/Aug/2024:21:04:50 +0000] "POST /checkout HTTP/1.1" 200 253
+66.117.105.109 - - [14/Aug/2024:00:15:07 +0000] "GET /products/olive oil.html HTTP/1.1" 200 1509
+51.7.35.183 - - [08/Aug/2024:13:02:19 +0000] "POST /checkout HTTP/1.1" 200 991
+238.101.193.21 - - [11/Aug/2024:10:10:08 +0000] "GET /search?q=chicken HTTP/1.1" 200 288
+168.206.192.109 - - [11/Aug/2024:18:20:37 +0000] "GET /checkout HTTP/1.1" 200 682
+0.105.7.239 - - [23/Jul/2024:23:04:47 +0000] "GET /search?q=cream cheese HTTP/1.1" 200 1072
+146.25.151.122 - - [03/Aug/2024:00:48:22 +0000] "GET /products?category=dairy HTTP/1.1" 200 505
+246.5.168.186 - - [12/Aug/2024:14:01:53 +0000] "GET /search?q=jam HTTP/1.1" 200 758
+19.51.214.87 - - [30/Jul/2024:10:11:01 +0000] "GET /products?category=bakery HTTP/1.1" 200 971
+10.27.161.102 - - [10/Aug/2024:01:57:55 +0000] "GET /cart/add/potato HTTP/1.1" 201 365
+137.58.51.180 - - [18/Aug/2024:19:20:27 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 482
+51.80.83.127 - - [01/Aug/2024:17:25:18 +0000] "GET /products/cucumber.html HTTP/1.1" 200 678
+27.136.106.27 - - [30/Jul/2024:03:12:26 +0000] "POST /checkout HTTP/1.1" 200 1674
+166.110.76.200 - - [23/Jul/2024:01:21:27 +0000] "GET /search?q=sriracha HTTP/1.1" 200 1380
+43.64.142.231 - - [10/Aug/2024:04:03:07 +0000] "GET /checkout HTTP/1.1" 200 1503
+145.92.115.24 - - [11/Aug/2024:07:53:28 +0000] "GET /products?category=dairy HTTP/1.1" 200 833
+124.80.179.57 - - [26/Jul/2024:01:35:05 +0000] "POST /cart/add/yogurt HTTP/1.1" 201 1524
+217.185.161.216 - - [13/Aug/2024:20:47:58 +0000] "POST /products?category=dairy HTTP/1.1" 200 305
+103.183.13.33 - - [23/Jul/2024:22:27:52 +0000] "POST /search?q=tortillas HTTP/1.1" 200 514
+175.8.239.214 - - [20/Jul/2024:11:52:26 +0000] "GET /products/chips.html HTTP/1.1" 200 1275
+209.0.114.34 - - [30/Jul/2024:23:00:55 +0000] "POST /search?q=lentils HTTP/1.1" 200 1088
+74.240.70.140 - - [12/Aug/2024:04:03:48 +0000] "POST /products?category=dairy HTTP/1.1" 200 823
+63.190.47.12 - - [18/Aug/2024:09:29:14 +0000] "GET /search?q=buttermilk HTTP/1.1" 200 583
+190.96.52.68 - - [19/Aug/2024:08:25:30 +0000] "GET /checkout HTTP/1.1" 200 961
+151.131.89.99 - - [26/Jul/2024:07:13:44 +0000] "POST /cart/add/canned tuna HTTP/1.1" 201 269
+178.174.237.149 - - [15/Aug/2024:11:44:04 +0000] "GET /products/nuts.html HTTP/1.1" 200 1259
+76.168.12.168 - - [12/Aug/2024:13:07:32 +0000] "POST /products/soy sauce.html HTTP/1.1" 200 877
+89.147.168.126 - - [30/Jul/2024:11:21:01 +0000] "POST /products?category=snack HTTP/1.1" 200 1623
+108.49.200.198 - - [16/Aug/2024:06:04:17 +0000] "GET /products/egg.html HTTP/1.1" 200 1156
+129.127.1.135 - - [22/Jul/2024:22:29:44 +0000] "POST /products/balsamic vinegar.html HTTP/1.1" 200 873
+24.70.108.242 - - [24/Jul/2024:09:29:38 +0000] "POST /cart/add/chicken HTTP/1.1" 201 401
+193.152.89.120 - - [22/Jul/2024:04:26:04 +0000] "GET /cart/add/onion HTTP/1.1" 201 1550
+10.2.7.249 - - [08/Aug/2024:14:23:40 +0000] "GET /products?category=beverage HTTP/1.1" 200 1739
+14.252.126.52 - - [17/Aug/2024:17:05:40 +0000] "POST /products/bread.html HTTP/1.1" 200 843
+119.223.201.94 - - [26/Jul/2024:02:04:45 +0000] "GET /products?category=bakery HTTP/1.1" 200 748
+209.237.54.215 - - [05/Aug/2024:01:35:00 +0000] "GET /products?category=beverage HTTP/1.1" 200 1379
+84.222.255.22 - - [28/Jul/2024:13:01:27 +0000] "GET /products/canned soup.html HTTP/1.1" 200 1760
+238.126.171.143 - - [12/Aug/2024:20:17:17 +0000] "POST /checkout HTTP/1.1" 200 1838
+167.240.4.86 - - [29/Jul/2024:13:22:26 +0000] "GET /checkout HTTP/1.1" 200 1233
+84.107.155.94 - - [22/Jul/2024:04:14:07 +0000] "GET /search?q=vinegar HTTP/1.1" 200 1735
+12.109.35.108 - - [13/Aug/2024:23:52:17 +0000] "GET /products/baking powder.html HTTP/1.1" 200 1389
+23.112.104.16 - - [18/Aug/2024:17:40:11 +0000] "POST /checkout HTTP/1.1" 200 319
+201.202.168.82 - - [03/Aug/2024:04:46:13 +0000] "GET /cart/add/cookies HTTP/1.1" 201 424
+172.111.206.254 - - [09/Aug/2024:19:46:47 +0000] "POST /checkout HTTP/1.1" 200 882
+231.9.231.42 - - [21/Jul/2024:17:07:53 +0000] "POST /search?q=croissants HTTP/1.1" 200 328
+22.198.68.10 - - [20/Jul/2024:18:32:06 +0000] "POST /checkout HTTP/1.1" 200 1831
+7.39.58.79 - - [22/Jul/2024:14:15:42 +0000] "POST /checkout HTTP/1.1" 200 674
+38.105.165.252 - - [06/Aug/2024:20:18:49 +0000] "GET /products?category=beverage HTTP/1.1" 200 382
+144.194.44.37 - - [05/Aug/2024:10:44:20 +0000] "GET /search?q=canned tomatoes HTTP/1.1" 200 1778
+105.6.96.75 - - [25/Jul/2024:02:02:38 +0000] "GET /checkout HTTP/1.1" 200 1817
+132.69.65.219 - - [12/Aug/2024:00:42:47 +0000] "GET /checkout HTTP/1.1" 200 661
+130.85.181.106 - - [20/Jul/2024:03:17:08 +0000] "GET /checkout HTTP/1.1" 200 1009
+47.189.10.124 - - [16/Aug/2024:17:10:11 +0000] "GET /checkout HTTP/1.1" 200 235
+34.74.123.48 - - [22/Jul/2024:12:01:50 +0000] "GET /cart/add/ketchup HTTP/1.1" 201 333
+103.170.189.134 - - [02/Aug/2024:19:12:44 +0000] "GET /search?q=bread HTTP/1.1" 200 1122
+1.207.156.255 - - [23/Jul/2024:11:31:11 +0000] "POST /products/frozen vegetables.html HTTP/1.1" 200 1172
+24.135.74.211 - - [31/Jul/2024:12:58:45 +0000] "POST /cart/add/chocolate HTTP/1.1" 201 1942
+232.244.30.105 - - [11/Aug/2024:17:18:09 +0000] "GET /cart/add/cheese HTTP/1.1" 201 1944
+22.99.221.76 - - [30/Jul/2024:22:01:01 +0000] "GET /search?q=soup HTTP/1.1" 200 1513
+161.49.171.91 - - [26/Jul/2024:08:25:32 +0000] "POST /search?q=baking soda HTTP/1.1" 200 1356
+141.52.117.217 - - [02/Aug/2024:05:37:55 +0000] "GET /search?q=sour cream HTTP/1.1" 200 729
+247.100.146.15 - - [11/Aug/2024:16:53:58 +0000] "POST /checkout HTTP/1.1" 200 323
+223.221.138.217 - - [23/Jul/2024:09:20:43 +0000] "GET /cart/add/cake HTTP/1.1" 201 355
+235.132.72.234 - - [30/Jul/2024:23:18:06 +0000] "GET /products?category=fruit HTTP/1.1" 200 1898
+151.110.131.105 - - [24/Jul/2024:01:37:58 +0000] "GET /search?q=butter HTTP/1.1" 200 357
+232.136.2.112 - - [24/Jul/2024:15:44:15 +0000] "POST /search?q=chicken HTTP/1.1" 200 1316
+122.180.51.230 - - [10/Aug/2024:14:04:55 +0000] "POST /checkout HTTP/1.1" 200 1543
+207.227.227.2 - - [05/Aug/2024:20:07:01 +0000] "POST /cart/add/garlic HTTP/1.1" 201 673
+197.180.14.23 - - [06/Aug/2024:03:54:32 +0000] "GET /checkout HTTP/1.1" 200 1004
+243.183.109.33 - - [14/Aug/2024:17:50:57 +0000] "POST /search?q=chocolate HTTP/1.1" 200 1157
+226.147.96.105 - - [04/Aug/2024:01:45:16 +0000] "GET /products?category=dairy HTTP/1.1" 200 1204
+44.209.156.98 - - [10/Aug/2024:02:47:23 +0000] "POST /products?category=beverage HTTP/1.1" 200 835
+24.156.82.238 - - [19/Aug/2024:05:49:03 +0000] "GET /checkout HTTP/1.1" 200 1465
+121.205.128.186 - - [14/Aug/2024:21:09:50 +0000] "POST /cart/add/croissants HTTP/1.1" 201 949
+83.125.6.127 - - [04/Aug/2024:12:15:09 +0000] "POST /search?q=potato HTTP/1.1" 200 1868
+61.6.140.125 - - [07/Aug/2024:00:52:34 +0000] "GET /products?category=fruit HTTP/1.1" 200 1440
+209.148.75.5 - - [15/Aug/2024:20:57:35 +0000] "GET /search?q=canned tuna HTTP/1.1" 200 1278
+135.170.51.166 - - [23/Jul/2024:15:27:01 +0000] "GET /checkout HTTP/1.1" 200 1077
+203.255.105.30 - - [24/Jul/2024:15:18:02 +0000] "POST /products?category=fruit HTTP/1.1" 200 1281
+111.3.105.83 - - [04/Aug/2024:16:53:01 +0000] "GET /cart/add/yogurt HTTP/1.1" 201 280
+217.126.116.83 - - [31/Jul/2024:05:57:58 +0000] "POST /products?category=fruit HTTP/1.1" 200 619
+156.19.178.228 - - [05/Aug/2024:06:02:48 +0000] "GET /checkout HTTP/1.1" 200 321
+179.221.177.29 - - [06/Aug/2024:05:08:32 +0000] "POST /products?category=dairy HTTP/1.1" 200 1178
+137.183.81.43 - - [31/Jul/2024:16:37:21 +0000] "GET /products/mushrooms.html HTTP/1.1" 200 1525
+110.139.168.4 - - [05/Aug/2024:05:56:40 +0000] "POST /search?q=chocolate HTTP/1.1" 200 527
+211.201.208.229 - - [19/Aug/2024:15:27:35 +0000] "GET /checkout HTTP/1.1" 200 349
+245.227.188.96 - - [03/Aug/2024:00:47:00 +0000] "POST /cart/add/croutons HTTP/1.1" 201 1092
+207.245.234.91 - - [26/Jul/2024:20:50:10 +0000] "GET /cart/add/peanut butter HTTP/1.1" 201 1114
+125.94.149.162 - - [29/Jul/2024:11:35:42 +0000] "POST /products/milk.html HTTP/1.1" 200 1803
+111.208.233.54 - - [09/Aug/2024:18:08:52 +0000] "POST /checkout HTTP/1.1" 200 1163
+176.71.21.220 - - [23/Jul/2024:05:55:21 +0000] "POST /products?category=beverage HTTP/1.1" 200 1668
+215.100.226.66 - - [07/Aug/2024:19:41:30 +0000] "GET /checkout HTTP/1.1" 200 1523
+15.210.111.15 - - [07/Aug/2024:21:36:02 +0000] "POST /search?q=mushrooms HTTP/1.1" 200 1622
+220.21.195.206 - - [21/Jul/2024:07:11:30 +0000] "GET /products/sesame oil.html HTTP/1.1" 200 1817
+28.82.3.218 - - [15/Aug/2024:03:54:26 +0000] "GET /checkout HTTP/1.1" 200 1565
+56.14.252.163 - - [17/Aug/2024:21:15:36 +0000] "POST /search?q=mayonnaise HTTP/1.1" 200 639
+77.201.62.49 - - [22/Jul/2024:18:01:31 +0000] "POST /products?category=dairy HTTP/1.1" 200 476
+70.17.160.176 - - [08/Aug/2024:07:07:26 +0000] "POST /checkout HTTP/1.1" 200 1296
+166.41.73.70 - - [06/Aug/2024:16:24:49 +0000] "GET /products/muffins.html HTTP/1.1" 200 1044
+155.88.233.0 - - [30/Jul/2024:20:52:24 +0000] "GET /cart/add/peanut butter HTTP/1.1" 201 270
+20.83.250.24 - - [31/Jul/2024:09:25:57 +0000] "GET /products?category=beverage HTTP/1.1" 200 1219
+249.228.43.151 - - [03/Aug/2024:08:43:55 +0000] "GET /products/flour.html HTTP/1.1" 200 381
+241.13.223.2 - - [13/Aug/2024:04:03:30 +0000] "GET /checkout HTTP/1.1" 200 672
+232.178.148.110 - - [15/Aug/2024:20:03:28 +0000] "POST /search?q=chocolate HTTP/1.1" 200 542
+116.186.176.231 - - [22/Jul/2024:19:52:10 +0000] "GET /search?q=potato HTTP/1.1" 200 995
+66.73.149.189 - - [19/Aug/2024:10:00:35 +0000] "POST /checkout HTTP/1.1" 200 806
+64.197.241.15 - - [28/Jul/2024:12:24:24 +0000] "POST /products/spinach.html HTTP/1.1" 200 1337
+147.1.235.211 - - [24/Jul/2024:11:20:05 +0000] "POST /checkout HTTP/1.1" 200 1956
+51.189.26.220 - - [29/Jul/2024:12:28:21 +0000] "GET /products?category=beverage HTTP/1.1" 200 1295
+217.25.103.238 - - [13/Aug/2024:05:38:17 +0000] "POST /cart/add/canned tomatoes HTTP/1.1" 201 718
+86.9.60.75 - - [27/Jul/2024:23:33:21 +0000] "GET /cart/add/olive oil HTTP/1.1" 201 1202
+212.29.146.123 - - [17/Aug/2024:19:19:29 +0000] "POST /products?category=fruit HTTP/1.1" 200 642
+42.87.65.197 - - [21/Jul/2024:02:48:12 +0000] "POST /products?category=fruit HTTP/1.1" 200 544
+210.10.214.157 - - [05/Aug/2024:16:19:55 +0000] "POST /cart/add/canned beans HTTP/1.1" 201 1656
+181.232.104.201 - - [13/Aug/2024:05:47:56 +0000] "GET /products/baking powder.html HTTP/1.1" 200 1590
+103.5.197.139 - - [31/Jul/2024:19:48:07 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 1397
+14.140.212.210 - - [04/Aug/2024:10:04:30 +0000] "POST /products/cereal.html HTTP/1.1" 200 236
+157.82.225.152 - - [25/Jul/2024:03:49:22 +0000] "POST /products/butter.html HTTP/1.1" 200 390
+90.32.30.107 - - [09/Aug/2024:05:47:32 +0000] "POST /products?category=fruit HTTP/1.1" 200 1501
+169.150.28.131 - - [09/Aug/2024:12:06:30 +0000] "GET /products/cookies.html HTTP/1.1" 200 1413
+167.233.237.88 - - [16/Aug/2024:02:56:59 +0000] "POST /products?category=beverage HTTP/1.1" 200 862
+144.95.110.109 - - [31/Jul/2024:02:48:06 +0000] "POST /cart/add/chips HTTP/1.1" 201 997
+238.106.251.71 - - [12/Aug/2024:10:37:07 +0000] "GET /search?q=sesame oil HTTP/1.1" 200 1394
+252.2.237.210 - - [02/Aug/2024:18:55:16 +0000] "GET /checkout HTTP/1.1" 200 951
+199.50.210.250 - - [11/Aug/2024:01:01:51 +0000] "POST /search?q=pasta HTTP/1.1" 200 1778
+43.183.116.219 - - [16/Aug/2024:03:21:22 +0000] "GET /checkout HTTP/1.1" 200 1344
+3.54.81.74 - - [26/Jul/2024:00:59:17 +0000] "GET /search?q=frozen fruit HTTP/1.1" 200 481
+219.236.212.64 - - [22/Jul/2024:11:08:48 +0000] "GET /products?category=dairy HTTP/1.1" 200 1602
+110.142.250.70 - - [23/Jul/2024:09:15:23 +0000] "POST /products/sriracha.html HTTP/1.1" 200 698
+0.111.254.49 - - [16/Aug/2024:12:34:04 +0000] "GET /products?category=dairy HTTP/1.1" 200 1608
+129.237.61.29 - - [02/Aug/2024:05:58:32 +0000] "POST /products/vinegar.html HTTP/1.1" 200 992
+3.233.131.100 - - [19/Aug/2024:01:44:25 +0000] "POST /products?category=fruit HTTP/1.1" 200 1630
+119.99.88.130 - - [17/Aug/2024:04:10:31 +0000] "POST /products/bagels.html HTTP/1.1" 200 1371
+248.36.49.59 - - [02/Aug/2024:08:56:33 +0000] "POST /cart/add/pasta HTTP/1.1" 201 1369
+248.213.202.159 - - [28/Jul/2024:04:42:56 +0000] "GET /products/beans.html HTTP/1.1" 200 692
+173.168.137.178 - - [07/Aug/2024:21:26:34 +0000] "POST /checkout HTTP/1.1" 200 591
+71.83.187.128 - - [24/Jul/2024:06:52:08 +0000] "GET /cart/add/ketchup HTTP/1.1" 201 1820
+253.80.64.35 - - [27/Jul/2024:01:24:26 +0000] "GET /search?q=mayonnaise HTTP/1.1" 200 1326
+56.49.231.86 - - [28/Jul/2024:15:08:20 +0000] "GET /checkout HTTP/1.1" 200 880
+184.66.88.41 - - [18/Aug/2024:19:51:33 +0000] "GET /search?q=cereal HTTP/1.1" 200 1311
+238.158.249.63 - - [05/Aug/2024:01:37:33 +0000] "GET /products?category=bakery HTTP/1.1" 200 1619
+25.228.178.214 - - [24/Jul/2024:11:07:36 +0000] "GET /checkout HTTP/1.1" 200 1977
+80.193.109.16 - - [22/Jul/2024:03:02:56 +0000] "POST /search?q=cream cheese HTTP/1.1" 200 295
+216.139.198.3 - - [28/Jul/2024:04:33:57 +0000] "GET /products?category=bakery HTTP/1.1" 200 963
+29.134.42.171 - - [06/Aug/2024:23:18:00 +0000] "GET /search?q=bagels HTTP/1.1" 200 1376
+24.238.214.6 - - [30/Jul/2024:11:01:30 +0000] "POST /checkout HTTP/1.1" 200 1333
+58.138.229.88 - - [21/Jul/2024:01:19:48 +0000] "GET /products?category=snack HTTP/1.1" 200 1953
+174.159.11.126 - - [12/Aug/2024:21:10:51 +0000] "GET /search?q=crackers HTTP/1.1" 200 1281
+180.125.232.19 - - [14/Aug/2024:21:12:11 +0000] "GET /cart/add/pizza HTTP/1.1" 201 1167
+192.38.141.27 - - [12/Aug/2024:10:13:06 +0000] "POST /products?category=bakery HTTP/1.1" 200 1252
+147.149.64.251 - - [31/Jul/2024:19:32:36 +0000] "POST /checkout HTTP/1.1" 200 876
+87.199.62.73 - - [01/Aug/2024:12:27:18 +0000] "POST /products?category=dairy HTTP/1.1" 200 770
+153.213.21.233 - - [31/Jul/2024:01:03:41 +0000] "GET /products/trail mix.html HTTP/1.1" 200 814
+127.3.88.136 - - [24/Jul/2024:17:15:10 +0000] "GET /products?category=fruit HTTP/1.1" 200 967
+103.92.71.39 - - [11/Aug/2024:06:51:29 +0000] "GET /products/peppers.html HTTP/1.1" 200 1577
+185.136.125.225 - - [07/Aug/2024:04:19:29 +0000] "GET /checkout HTTP/1.1" 200 1794
+3.205.61.129 - - [26/Jul/2024:08:16:28 +0000] "POST /products?category=dairy HTTP/1.1" 200 1993
+228.83.129.188 - - [06/Aug/2024:09:41:01 +0000] "GET /products/dried fruit.html HTTP/1.1" 200 583
+30.18.42.5 - - [31/Jul/2024:13:07:48 +0000] "POST /products?category=beverage HTTP/1.1" 200 1352
+255.234.254.171 - - [06/Aug/2024:20:28:58 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 833
+57.55.231.127 - - [29/Jul/2024:07:49:44 +0000] "GET /products?category=beverage HTTP/1.1" 200 1995
+124.212.97.31 - - [18/Aug/2024:19:54:30 +0000] "GET /products/canned beans.html HTTP/1.1" 200 1884
+71.193.20.82 - - [16/Aug/2024:08:03:30 +0000] "GET /search?q=canned soup HTTP/1.1" 200 1466
+168.15.60.122 - - [11/Aug/2024:10:14:07 +0000] "POST /search?q=onion HTTP/1.1" 200 883
+91.47.249.200 - - [06/Aug/2024:14:22:42 +0000] "GET /products/crackers.html HTTP/1.1" 200 1696
+156.144.196.66 - - [04/Aug/2024:11:02:38 +0000] "GET /cart/add/canned tuna HTTP/1.1" 201 735
+23.186.226.64 - - [25/Jul/2024:09:51:59 +0000] "GET /products?category=bakery HTTP/1.1" 200 1095
+149.5.227.52 - - [23/Jul/2024:12:50:55 +0000] "GET /products/bread.html HTTP/1.1" 200 1096
+224.139.193.16 - - [11/Aug/2024:11:13:39 +0000] "GET /cart/add/apple HTTP/1.1" 201 718
+151.68.225.219 - - [07/Aug/2024:17:58:03 +0000] "GET /products/canned tomatoes.html HTTP/1.1" 200 794
+97.228.19.101 - - [31/Jul/2024:21:15:38 +0000] "POST /search?q=trail mix HTTP/1.1" 200 1331
+240.15.23.186 - - [27/Jul/2024:04:45:04 +0000] "POST /search?q=apple HTTP/1.1" 200 364
+46.161.146.106 - - [07/Aug/2024:12:05:39 +0000] "POST /products?category=snack HTTP/1.1" 200 1609
+197.128.137.143 - - [31/Jul/2024:11:42:12 +0000] "POST /products?category=beverage HTTP/1.1" 200 870
+221.160.29.49 - - [22/Jul/2024:07:46:20 +0000] "GET /search?q=nuts HTTP/1.1" 200 621
+210.173.70.44 - - [07/Aug/2024:19:21:18 +0000] "GET /checkout HTTP/1.1" 200 1929
+131.63.161.188 - - [19/Aug/2024:08:23:00 +0000] "POST /cart/add/ice cream HTTP/1.1" 201 727
+29.111.88.184 - - [30/Jul/2024:16:59:06 +0000] "POST /checkout HTTP/1.1" 200 391
+135.224.50.42 - - [01/Aug/2024:13:29:52 +0000] "POST /search?q=vinegar HTTP/1.1" 200 795
+46.207.3.251 - - [16/Aug/2024:16:15:34 +0000] "POST /cart/add/tomato HTTP/1.1" 201 1301
+86.238.66.130 - - [07/Aug/2024:17:28:57 +0000] "POST /checkout HTTP/1.1" 200 1044
+29.46.159.1 - - [11/Aug/2024:15:37:49 +0000] "POST /products/bread.html HTTP/1.1" 200 516
+243.233.249.198 - - [16/Aug/2024:03:59:42 +0000] "GET /checkout HTTP/1.1" 200 791
+33.107.177.195 - - [06/Aug/2024:22:20:04 +0000] "POST /search?q=tomato HTTP/1.1" 200 1081
+236.215.36.8 - - [09/Aug/2024:00:47:36 +0000] "GET /products/jam.html HTTP/1.1" 200 1622
+113.20.25.56 - - [30/Jul/2024:09:09:14 +0000] "POST /cart/add/dried fruit HTTP/1.1" 201 681
+206.82.29.193 - - [01/Aug/2024:23:53:01 +0000] "POST /cart/add/salt HTTP/1.1" 201 389
+234.32.98.171 - - [07/Aug/2024:16:14:19 +0000] "POST /products?category=snack HTTP/1.1" 200 852
+144.247.2.31 - - [18/Aug/2024:02:45:48 +0000] "GET /cart/add/chocolate HTTP/1.1" 201 1855
+116.34.138.211 - - [23/Jul/2024:03:18:54 +0000] "GET /products?category=bakery HTTP/1.1" 200 1816
+249.91.87.221 - - [25/Jul/2024:10:51:18 +0000] "GET /products?category=bakery HTTP/1.1" 200 1867
+221.135.14.69 - - [01/Aug/2024:20:57:27 +0000] "GET /products?category=fruit HTTP/1.1" 200 1452
+22.163.75.87 - - [20/Jul/2024:04:25:42 +0000] "POST /products/cream cheese.html HTTP/1.1" 200 371
+21.51.146.190 - - [06/Aug/2024:11:02:12 +0000] "GET /checkout HTTP/1.1" 200 1201
+243.127.25.74 - - [18/Aug/2024:08:55:15 +0000] "POST /checkout HTTP/1.1" 200 1688
+162.133.147.64 - - [16/Aug/2024:17:35:49 +0000] "GET /products/chicken.html HTTP/1.1" 200 1929
+211.188.137.169 - - [04/Aug/2024:17:24:41 +0000] "GET /products?category=dairy HTTP/1.1" 200 1954
+35.31.53.121 - - [17/Aug/2024:04:44:33 +0000] "POST /products?category=snack HTTP/1.1" 200 401
+63.92.188.239 - - [16/Aug/2024:14:24:07 +0000] "POST /checkout HTTP/1.1" 200 269
+67.212.14.240 - - [17/Aug/2024:07:30:26 +0000] "GET /cart/add/coffee HTTP/1.1" 201 361
+191.170.150.95 - - [01/Aug/2024:03:08:39 +0000] "POST /products?category=bakery HTTP/1.1" 200 1191
+219.144.250.242 - - [24/Jul/2024:01:03:00 +0000] "POST /products?category=dairy HTTP/1.1" 200 850
+208.96.215.191 - - [03/Aug/2024:14:53:15 +0000] "POST /products/lentils.html HTTP/1.1" 200 538
+216.77.9.225 - - [15/Aug/2024:12:59:04 +0000] "POST /checkout HTTP/1.1" 200 453
+49.235.1.162 - - [26/Jul/2024:03:28:35 +0000] "POST /products?category=dairy HTTP/1.1" 200 1297
+93.182.201.26 - - [12/Aug/2024:19:48:33 +0000] "POST /cart/add/granola HTTP/1.1" 201 1343
+99.75.178.195 - - [30/Jul/2024:08:50:39 +0000] "POST /checkout HTTP/1.1" 200 534
+82.103.84.81 - - [05/Aug/2024:06:40:32 +0000] "POST /products?category=snack HTTP/1.1" 200 1254
+121.246.68.106 - - [30/Jul/2024:06:09:07 +0000] "POST /cart/add/trail mix HTTP/1.1" 201 998
+55.89.216.18 - - [18/Aug/2024:19:54:29 +0000] "GET /products?category=beverage HTTP/1.1" 200 212
+111.67.94.115 - - [05/Aug/2024:03:20:10 +0000] "GET /cart/add/apple HTTP/1.1" 201 204
+223.163.236.255 - - [25/Jul/2024:18:17:38 +0000] "POST /search?q=carrot HTTP/1.1" 200 543
+92.246.132.90 - - [01/Aug/2024:08:19:38 +0000] "GET /cart/add/pita bread HTTP/1.1" 201 246
+17.121.27.81 - - [04/Aug/2024:06:05:50 +0000] "GET /cart/add/beans HTTP/1.1" 201 1754
+98.91.13.2 - - [31/Jul/2024:16:39:53 +0000] "GET /cart/add/sugar HTTP/1.1" 201 1843
+91.221.91.48 - - [20/Jul/2024:14:57:03 +0000] "POST /products/potato.html HTTP/1.1" 200 1037
+203.90.225.82 - - [02/Aug/2024:10:54:14 +0000] "POST /products?category=snack HTTP/1.1" 200 591
+197.37.206.42 - - [31/Jul/2024:18:15:54 +0000] "POST /products/rice.html HTTP/1.1" 200 493
+43.37.121.217 - - [04/Aug/2024:10:37:58 +0000] "GET /products?category=snack HTTP/1.1" 200 934
+70.90.105.110 - - [02/Aug/2024:23:32:14 +0000] "GET /cart/add/egg HTTP/1.1" 201 223
+1.186.77.27 - - [08/Aug/2024:04:03:24 +0000] "GET /search?q=soup HTTP/1.1" 200 1104
+110.42.141.194 - - [30/Jul/2024:18:53:17 +0000] "GET /search?q=garlic HTTP/1.1" 200 335
+53.240.218.189 - - [24/Jul/2024:17:07:27 +0000] "GET /checkout HTTP/1.1" 200 663
+97.77.160.79 - - [18/Aug/2024:17:12:17 +0000] "POST /products?category=fruit HTTP/1.1" 200 886
+203.139.178.135 - - [17/Aug/2024:21:20:46 +0000] "GET /products?category=dairy HTTP/1.1" 200 999
+254.175.69.25 - - [17/Aug/2024:23:59:38 +0000] "POST /checkout HTTP/1.1" 200 1202
+85.216.72.136 - - [26/Jul/2024:16:08:31 +0000] "POST /search?q=canned soup HTTP/1.1" 200 885
+131.214.81.171 - - [02/Aug/2024:22:23:29 +0000] "GET /products/buttermilk.html HTTP/1.1" 200 1208
+117.206.202.103 - - [26/Jul/2024:02:24:40 +0000] "GET /search?q=mushrooms HTTP/1.1" 200 1039
+64.37.0.86 - - [20/Jul/2024:20:31:15 +0000] "GET /search?q=rice vinegar HTTP/1.1" 200 1268
+56.68.3.193 - - [06/Aug/2024:22:52:42 +0000] "POST /products?category=fruit HTTP/1.1" 200 1167
+219.15.220.178 - - [15/Aug/2024:11:11:37 +0000] "GET /checkout HTTP/1.1" 200 286
+156.247.168.163 - - [26/Jul/2024:18:53:51 +0000] "GET /search?q=sriracha HTTP/1.1" 200 1700
+181.208.155.20 - - [03/Aug/2024:18:45:31 +0000] "POST /products?category=snack HTTP/1.1" 200 1866
+176.213.238.105 - - [17/Aug/2024:13:19:28 +0000] "GET /cart/add/baking powder HTTP/1.1" 201 1536
+157.150.41.176 - - [02/Aug/2024:20:36:08 +0000] "GET /checkout HTTP/1.1" 200 1048
+153.183.174.138 - - [02/Aug/2024:14:52:28 +0000] "POST /search?q=banana HTTP/1.1" 200 1460
+30.251.41.247 - - [13/Aug/2024:18:46:21 +0000] "POST /products/canned tuna.html HTTP/1.1" 200 259
+37.180.213.49 - - [27/Jul/2024:03:26:43 +0000] "GET /checkout HTTP/1.1" 200 1699
+142.150.160.204 - - [05/Aug/2024:09:46:08 +0000] "POST /checkout HTTP/1.1" 200 837
+0.227.200.73 - - [25/Jul/2024:03:56:36 +0000] "POST /search?q=flour HTTP/1.1" 200 859
+131.218.56.206 - - [13/Aug/2024:16:02:04 +0000] "POST /products/cake.html HTTP/1.1" 200 1870
+156.152.241.187 - - [05/Aug/2024:14:31:26 +0000] "GET /cart/add/chips HTTP/1.1" 201 1215
+233.74.107.172 - - [21/Jul/2024:09:24:23 +0000] "POST /cart/add/pepper HTTP/1.1" 201 837
+162.99.5.37 - - [14/Aug/2024:18:38:03 +0000] "POST /cart/add/lentils HTTP/1.1" 201 1676
+12.125.94.247 - - [22/Jul/2024:09:47:08 +0000] "POST /products?category=beverage HTTP/1.1" 200 1558
+194.251.203.188 - - [09/Aug/2024:20:16:33 +0000] "POST /checkout HTTP/1.1" 200 1522
+147.216.202.171 - - [28/Jul/2024:12:05:03 +0000] "GET /cart/add/tortillas HTTP/1.1" 201 1619
+25.46.186.119 - - [19/Aug/2024:19:59:52 +0000] "POST /search?q=balsamic vinegar HTTP/1.1" 200 456
+252.123.115.86 - - [02/Aug/2024:18:39:59 +0000] "GET /cart/add/beef HTTP/1.1" 201 1759
+212.172.222.205 - - [13/Aug/2024:13:09:56 +0000] "POST /search?q=peanut butter HTTP/1.1" 200 1039
+32.66.244.55 - - [19/Aug/2024:02:26:34 +0000] "POST /products/butter.html HTTP/1.1" 200 1601
+94.189.27.104 - - [17/Aug/2024:05:22:24 +0000] "POST /products/pepper.html HTTP/1.1" 200 1032
+193.219.200.200 - - [25/Jul/2024:14:11:11 +0000] "GET /search?q=fish HTTP/1.1" 200 235
+22.97.199.146 - - [10/Aug/2024:23:28:55 +0000] "POST /products/pita bread.html HTTP/1.1" 200 1801
+14.92.157.226 - - [13/Aug/2024:21:01:54 +0000] "GET /products?category=snack HTTP/1.1" 200 203
+153.122.58.97 - - [04/Aug/2024:09:02:55 +0000] "GET /products/ice cream.html HTTP/1.1" 200 1129
+110.213.170.33 - - [25/Jul/2024:03:14:37 +0000] "POST /cart/add/mustard HTTP/1.1" 201 762
+52.169.217.235 - - [18/Aug/2024:13:26:24 +0000] "GET /search?q=mayonnaise HTTP/1.1" 200 886
+129.195.62.251 - - [08/Aug/2024:23:47:53 +0000] "GET /search?q=pasta HTTP/1.1" 200 1803
+254.247.114.114 - - [24/Jul/2024:19:50:35 +0000] "GET /products?category=fruit HTTP/1.1" 200 744
+200.7.163.187 - - [29/Jul/2024:04:15:34 +0000] "POST /search?q=pizza HTTP/1.1" 200 688
+143.201.174.226 - - [16/Aug/2024:00:38:04 +0000] "GET /products/peppers.html HTTP/1.1" 200 1299
+21.58.162.236 - - [09/Aug/2024:17:13:39 +0000] "GET /products?category=snack HTTP/1.1" 200 1369
+26.173.139.13 - - [22/Jul/2024:13:07:25 +0000] "GET /products/apple.html HTTP/1.1" 200 294
+21.26.73.62 - - [09/Aug/2024:11:18:26 +0000] "POST /checkout HTTP/1.1" 200 990
+190.246.128.252 - - [07/Aug/2024:22:59:32 +0000] "GET /checkout HTTP/1.1" 200 633
+150.218.2.164 - - [20/Jul/2024:05:24:24 +0000] "POST /cart/add/cereal HTTP/1.1" 201 1848
+58.72.68.52 - - [11/Aug/2024:21:54:11 +0000] "GET /products?category=beverage HTTP/1.1" 200 1438
+80.182.96.190 - - [12/Aug/2024:23:02:22 +0000] "GET /search?q=peanut butter HTTP/1.1" 200 1274
+253.245.177.80 - - [14/Aug/2024:09:45:35 +0000] "POST /products?category=fruit HTTP/1.1" 200 1651
+182.122.115.11 - - [15/Aug/2024:01:46:56 +0000] "POST /products?category=snack HTTP/1.1" 200 1539
+36.248.188.121 - - [26/Jul/2024:11:40:48 +0000] "POST /products?category=fruit HTTP/1.1" 200 1464
+34.183.47.160 - - [07/Aug/2024:04:12:19 +0000] "GET /products/cheese.html HTTP/1.1" 200 1095
+35.157.106.204 - - [17/Aug/2024:03:35:36 +0000] "GET /search?q=oil HTTP/1.1" 200 752
+102.165.238.100 - - [15/Aug/2024:15:22:06 +0000] "POST /search?q=chocolate HTTP/1.1" 200 245
+112.229.124.83 - - [23/Jul/2024:04:58:58 +0000] "POST /search?q=salt HTTP/1.1" 200 550
+175.72.102.157 - - [04/Aug/2024:09:15:23 +0000] "POST /cart/add/potato HTTP/1.1" 201 757
+73.247.237.158 - - [23/Jul/2024:18:12:45 +0000] "GET /checkout HTTP/1.1" 200 821
+39.65.86.237 - - [26/Jul/2024:13:02:37 +0000] "GET /products?category=fruit HTTP/1.1" 200 782
+98.85.43.86 - - [12/Aug/2024:14:43:17 +0000] "POST /checkout HTTP/1.1" 200 1189
+108.180.156.231 - - [29/Jul/2024:20:23:44 +0000] "POST /search?q=tea HTTP/1.1" 200 1548
+71.169.74.35 - - [24/Jul/2024:14:59:54 +0000] "GET /search?q=baking powder HTTP/1.1" 200 1995
+178.190.79.34 - - [09/Aug/2024:15:00:48 +0000] "GET /search?q=peanut butter HTTP/1.1" 200 733
+229.180.146.188 - - [10/Aug/2024:12:43:23 +0000] "POST /checkout HTTP/1.1" 200 926
+3.11.250.119 - - [12/Aug/2024:14:46:41 +0000] "POST /checkout HTTP/1.1" 200 1767
+98.13.238.123 - - [24/Jul/2024:05:45:33 +0000] "POST /cart/add/vinegar HTTP/1.1" 201 1709
+12.49.230.114 - - [20/Jul/2024:12:13:30 +0000] "GET /checkout HTTP/1.1" 200 1670
+239.219.153.110 - - [30/Jul/2024:17:22:20 +0000] "POST /products?category=bakery HTTP/1.1" 200 1140
+65.141.124.180 - - [10/Aug/2024:13:27:34 +0000] "POST /cart/add/pizza HTTP/1.1" 201 861
+107.183.219.125 - - [12/Aug/2024:20:44:20 +0000] "POST /products/jam.html HTTP/1.1" 200 1852
+52.48.198.175 - - [29/Jul/2024:00:46:46 +0000] "GET /products?category=fruit HTTP/1.1" 200 646
+211.77.27.239 - - [04/Aug/2024:13:15:51 +0000] "POST /products/lettuce.html HTTP/1.1" 200 1850
+213.15.124.227 - - [01/Aug/2024:13:27:18 +0000] "GET /cart/add/ketchup HTTP/1.1" 201 1794
+89.211.173.146 - - [04/Aug/2024:20:01:00 +0000] "POST /products?category=fruit HTTP/1.1" 200 1775
+220.209.141.47 - - [01/Aug/2024:16:40:46 +0000] "POST /products?category=snack HTTP/1.1" 200 1369
+162.78.120.192 - - [06/Aug/2024:04:37:32 +0000] "GET /checkout HTTP/1.1" 200 388
+194.40.90.172 - - [31/Jul/2024:06:40:15 +0000] "GET /search?q=salt HTTP/1.1" 200 925
+198.171.45.255 - - [20/Jul/2024:01:48:00 +0000] "GET /search?q=sriracha HTTP/1.1" 200 782
+169.70.227.72 - - [11/Aug/2024:08:22:44 +0000] "GET /search?q=chocolate HTTP/1.1" 200 970
+157.112.107.54 - - [20/Jul/2024:11:21:59 +0000] "POST /cart/add/nuts HTTP/1.1" 201 341
+103.252.34.42 - - [17/Aug/2024:13:31:47 +0000] "GET /checkout HTTP/1.1" 200 1585
+252.45.230.131 - - [05/Aug/2024:19:37:43 +0000] "POST /search?q=fish HTTP/1.1" 200 1874
+54.82.3.73 - - [03/Aug/2024:19:05:46 +0000] "POST /search?q=oatmeal HTTP/1.1" 200 560
+249.178.202.251 - - [30/Jul/2024:10:15:31 +0000] "POST /checkout HTTP/1.1" 200 1722
+210.90.74.37 - - [07/Aug/2024:06:06:02 +0000] "GET /cart/add/olive oil HTTP/1.1" 201 1973
+134.120.165.12 - - [24/Jul/2024:06:43:04 +0000] "GET /checkout HTTP/1.1" 200 692
+130.227.127.155 - - [26/Jul/2024:04:28:43 +0000] "POST /cart/add/spinach HTTP/1.1" 201 1905
+90.10.57.201 - - [01/Aug/2024:11:51:53 +0000] "POST /search?q=garlic HTTP/1.1" 200 798
+248.177.193.91 - - [29/Jul/2024:04:33:16 +0000] "POST /products/baking soda.html HTTP/1.1" 200 1315
+18.57.216.87 - - [31/Jul/2024:01:17:17 +0000] "GET /cart/add/bread HTTP/1.1" 201 539
+166.187.162.62 - - [29/Jul/2024:14:21:10 +0000] "GET /search?q=sugar HTTP/1.1" 200 1667
+226.226.53.143 - - [23/Jul/2024:16:05:56 +0000] "GET /products?category=beverage HTTP/1.1" 200 1104
+115.228.3.120 - - [20/Jul/2024:02:58:50 +0000] "POST /cart/add/milk HTTP/1.1" 201 905
+244.25.228.67 - - [17/Aug/2024:22:42:34 +0000] "GET /search?q=tea HTTP/1.1" 200 1187
+36.128.202.198 - - [31/Jul/2024:16:02:29 +0000] "GET /search?q=rice HTTP/1.1" 200 1537
+63.188.162.183 - - [06/Aug/2024:16:57:23 +0000] "GET /search?q=jam HTTP/1.1" 200 1692
+230.7.141.5 - - [08/Aug/2024:08:36:20 +0000] "POST /search?q=carrot HTTP/1.1" 200 264
+92.142.100.140 - - [09/Aug/2024:14:40:47 +0000] "POST /search?q=chicken HTTP/1.1" 200 526
+247.230.180.47 - - [06/Aug/2024:14:39:51 +0000] "GET /products?category=snack HTTP/1.1" 200 1960
+16.221.161.197 - - [30/Jul/2024:23:40:05 +0000] "POST /checkout HTTP/1.1" 200 1194
+168.224.143.21 - - [19/Aug/2024:04:51:48 +0000] "POST /search?q=sesame oil HTTP/1.1" 200 1706
+227.87.10.39 - - [15/Aug/2024:05:05:23 +0000] "GET /search?q=cream cheese HTTP/1.1" 200 758
+150.241.87.187 - - [20/Jul/2024:19:15:35 +0000] "POST /cart/add/oil HTTP/1.1" 201 676
+109.199.3.230 - - [05/Aug/2024:17:00:42 +0000] "POST /checkout HTTP/1.1" 200 1631
+189.34.55.5 - - [04/Aug/2024:18:52:55 +0000] "POST /cart/add/cereal HTTP/1.1" 201 1288
+161.107.106.241 - - [01/Aug/2024:09:53:25 +0000] "POST /products/milk.html HTTP/1.1" 200 1013
+156.160.94.176 - - [21/Jul/2024:09:16:33 +0000] "POST /products/coffee.html HTTP/1.1" 200 249
+108.35.50.141 - - [29/Jul/2024:17:14:12 +0000] "POST /cart/add/frozen fruit HTTP/1.1" 201 1570
+45.200.85.4 - - [13/Aug/2024:04:03:16 +0000] "POST /search?q=tomato HTTP/1.1" 200 875
+61.37.82.242 - - [03/Aug/2024:09:53:19 +0000] "GET /products?category=bakery HTTP/1.1" 200 582
+230.246.241.41 - - [16/Aug/2024:18:35:28 +0000] "POST /search?q=onion HTTP/1.1" 200 1316
+54.161.157.218 - - [28/Jul/2024:00:38:59 +0000] "GET /checkout HTTP/1.1" 200 1767
+217.98.171.248 - - [16/Aug/2024:16:36:35 +0000] "GET /products?category=fruit HTTP/1.1" 200 1406
+38.97.153.245 - - [29/Jul/2024:16:14:52 +0000] "POST /search?q=milk HTTP/1.1" 200 976
+231.240.219.147 - - [19/Aug/2024:21:05:04 +0000] "POST /products?category=fruit HTTP/1.1" 200 1446
+51.28.225.180 - - [20/Jul/2024:01:41:27 +0000] "GET /products?category=beverage HTTP/1.1" 200 1979
+216.32.63.146 - - [17/Aug/2024:02:28:43 +0000] "GET /products?category=dairy HTTP/1.1" 200 914
+64.147.104.101 - - [08/Aug/2024:18:17:06 +0000] "GET /checkout HTTP/1.1" 200 555
+223.38.188.235 - - [23/Jul/2024:14:09:01 +0000] "POST /checkout HTTP/1.1" 200 853
+182.216.39.176 - - [18/Aug/2024:09:41:05 +0000] "GET /checkout HTTP/1.1" 200 1719
+152.140.180.67 - - [26/Jul/2024:15:59:05 +0000] "POST /cart/add/fish HTTP/1.1" 201 1989
+148.47.106.148 - - [23/Jul/2024:23:16:15 +0000] "GET /products?category=snack HTTP/1.1" 200 560
+90.218.101.255 - - [08/Aug/2024:08:30:31 +0000] "GET /products/ketchup.html HTTP/1.1" 200 275
+253.12.130.88 - - [17/Aug/2024:15:35:23 +0000] "POST /products/olive oil.html HTTP/1.1" 200 1295
+19.139.222.191 - - [06/Aug/2024:23:36:26 +0000] "GET /search?q=tea HTTP/1.1" 200 1397
+120.83.253.122 - - [16/Aug/2024:01:02:33 +0000] "GET /search?q=cereal HTTP/1.1" 200 1855
+39.21.181.120 - - [07/Aug/2024:16:10:07 +0000] "GET /products/pepper.html HTTP/1.1" 200 1721
+227.163.192.252 - - [15/Aug/2024:03:35:00 +0000] "GET /checkout HTTP/1.1" 200 1072
+79.194.58.47 - - [08/Aug/2024:09:32:41 +0000] "POST /cart/add/ketchup HTTP/1.1" 201 932
+31.131.247.211 - - [25/Jul/2024:03:22:28 +0000] "POST /checkout HTTP/1.1" 200 1308
+72.61.25.17 - - [03/Aug/2024:14:06:19 +0000] "POST /cart/add/beans HTTP/1.1" 201 399
+220.141.202.128 - - [12/Aug/2024:03:38:05 +0000] "POST /search?q=chicken HTTP/1.1" 200 512
+159.102.193.129 - - [26/Jul/2024:12:03:52 +0000] "POST /products/beef.html HTTP/1.1" 200 571
+245.1.167.209 - - [09/Aug/2024:17:16:41 +0000] "GET /products?category=fruit HTTP/1.1" 200 1957
+236.9.241.2 - - [06/Aug/2024:14:46:54 +0000] "GET /cart/add/lentils HTTP/1.1" 201 773
+216.157.247.94 - - [09/Aug/2024:19:19:59 +0000] "GET /cart/add/bagels HTTP/1.1" 201 1023
+24.244.38.73 - - [19/Aug/2024:01:41:07 +0000] "POST /checkout HTTP/1.1" 200 310
+233.80.239.170 - - [22/Jul/2024:06:43:35 +0000] "GET /checkout HTTP/1.1" 200 776
+107.222.127.245 - - [05/Aug/2024:20:34:41 +0000] "POST /cart/add/honey HTTP/1.1" 201 1976
+169.48.206.184 - - [11/Aug/2024:06:54:35 +0000] "POST /checkout HTTP/1.1" 200 1995
+133.249.5.67 - - [24/Jul/2024:13:39:35 +0000] "POST /products/onion.html HTTP/1.1" 200 1091
+152.231.2.19 - - [22/Jul/2024:23:47:14 +0000] "GET /products?category=bakery HTTP/1.1" 200 1577
+82.145.130.165 - - [27/Jul/2024:11:01:22 +0000] "GET /products/chips.html HTTP/1.1" 200 1375
+128.225.127.91 - - [14/Aug/2024:05:46:47 +0000] "POST /checkout HTTP/1.1" 200 738
+109.188.3.152 - - [29/Jul/2024:01:32:58 +0000] "POST /products?category=beverage HTTP/1.1" 200 1245
+249.172.25.221 - - [25/Jul/2024:02:13:18 +0000] "POST /checkout HTTP/1.1" 200 765
+83.75.10.188 - - [26/Jul/2024:08:35:59 +0000] "POST /cart/add/buttermilk HTTP/1.1" 201 1985
+175.251.118.185 - - [15/Aug/2024:15:04:18 +0000] "GET /cart/add/muffins HTTP/1.1" 201 220
+158.193.21.151 - - [20/Jul/2024:05:48:50 +0000] "GET /products/nuts.html HTTP/1.1" 200 1905
+153.93.197.46 - - [09/Aug/2024:08:44:59 +0000] "GET /products/canned beans.html HTTP/1.1" 200 1648
+202.22.84.89 - - [24/Jul/2024:10:35:37 +0000] "GET /search?q=canned beans HTTP/1.1" 200 1215
+159.2.205.153 - - [23/Jul/2024:09:46:22 +0000] "GET /checkout HTTP/1.1" 200 1205
+165.239.182.141 - - [02/Aug/2024:19:55:22 +0000] "GET /checkout HTTP/1.1" 200 219
+99.68.108.138 - - [21/Jul/2024:20:32:21 +0000] "POST /cart/add/canned tuna HTTP/1.1" 201 1108
+67.173.226.171 - - [31/Jul/2024:11:45:00 +0000] "POST /cart/add/spaghetti sauce HTTP/1.1" 201 1337
+161.166.152.240 - - [27/Jul/2024:03:56:05 +0000] "GET /checkout HTTP/1.1" 200 976
+2.170.154.214 - - [02/Aug/2024:11:59:43 +0000] "GET /cart/add/canned tuna HTTP/1.1" 201 1083
+77.215.189.103 - - [10/Aug/2024:07:13:29 +0000] "POST /search?q=beef HTTP/1.1" 200 1200
+97.21.78.34 - - [03/Aug/2024:20:44:39 +0000] "GET /search?q=fish HTTP/1.1" 200 1978
+128.114.199.188 - - [16/Aug/2024:18:20:26 +0000] "GET /search?q=frozen fruit HTTP/1.1" 200 920
+216.168.167.246 - - [29/Jul/2024:19:40:33 +0000] "POST /checkout HTTP/1.1" 200 1899
+23.162.255.211 - - [23/Jul/2024:22:15:37 +0000] "POST /search?q=oil HTTP/1.1" 200 1891
+230.221.68.246 - - [20/Jul/2024:20:41:02 +0000] "POST /products?category=fruit HTTP/1.1" 200 870
+228.160.66.183 - - [14/Aug/2024:17:08:18 +0000] "GET /checkout HTTP/1.1" 200 1884
+224.41.129.1 - - [20/Jul/2024:16:54:08 +0000] "POST /search?q=mayonnaise HTTP/1.1" 200 1397
+96.147.172.4 - - [20/Jul/2024:09:33:03 +0000] "GET /products/lettuce.html HTTP/1.1" 200 300
+226.190.2.203 - - [05/Aug/2024:00:24:07 +0000] "GET /checkout HTTP/1.1" 200 416
+253.245.22.90 - - [10/Aug/2024:12:27:08 +0000] "POST /products/potato.html HTTP/1.1" 200 1590
+143.229.222.23 - - [15/Aug/2024:10:45:49 +0000] "POST /products/potato.html HTTP/1.1" 200 1780
+110.228.171.132 - - [11/Aug/2024:05:20:28 +0000] "POST /cart/add/baking soda HTTP/1.1" 201 1918
+172.231.157.209 - - [06/Aug/2024:01:57:04 +0000] "GET /products/apple.html HTTP/1.1" 200 318
+48.255.40.113 - - [30/Jul/2024:12:23:26 +0000] "GET /checkout HTTP/1.1" 200 586
+136.203.107.162 - - [12/Aug/2024:10:59:22 +0000] "POST /products/frozen fruit.html HTTP/1.1" 200 1901
+52.207.121.7 - - [31/Jul/2024:01:32:57 +0000] "POST /products?category=fruit HTTP/1.1" 200 1404
+246.212.5.108 - - [20/Jul/2024:18:59:00 +0000] "GET /products/rice vinegar.html HTTP/1.1" 200 1576
+193.161.141.69 - - [22/Jul/2024:08:47:07 +0000] "POST /search?q=pepper HTTP/1.1" 200 1379
+43.200.44.152 - - [14/Aug/2024:09:48:34 +0000] "POST /cart/add/cheese HTTP/1.1" 201 810
+235.60.244.220 - - [02/Aug/2024:01:13:33 +0000] "POST /products/canned tomatoes.html HTTP/1.1" 200 1290
+66.38.41.5 - - [25/Jul/2024:08:32:56 +0000] "GET /products?category=dairy HTTP/1.1" 200 916
+189.197.74.82 - - [10/Aug/2024:22:38:05 +0000] "POST /products/nuts.html HTTP/1.1" 200 1098
+3.62.168.35 - - [25/Jul/2024:13:53:07 +0000] "GET /cart/add/peppers HTTP/1.1" 201 1015
+119.242.154.173 - - [14/Aug/2024:10:42:15 +0000] "POST /products?category=beverage HTTP/1.1" 200 1225
+241.154.138.110 - - [30/Jul/2024:01:04:07 +0000] "POST /cart/add/cream cheese HTTP/1.1" 201 1094
+31.194.66.183 - - [25/Jul/2024:23:00:19 +0000] "POST /products/apple.html HTTP/1.1" 200 1351
+113.207.214.211 - - [03/Aug/2024:09:11:16 +0000] "POST /search?q=soy sauce HTTP/1.1" 200 1508
+6.212.237.42 - - [14/Aug/2024:10:28:09 +0000] "POST /cart/add/sugar HTTP/1.1" 201 1645
+14.248.105.36 - - [16/Aug/2024:19:07:26 +0000] "GET /products?category=dairy HTTP/1.1" 200 1939
+176.209.162.155 - - [15/Aug/2024:03:45:14 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 838
+67.116.102.79 - - [14/Aug/2024:08:39:34 +0000] "POST /search?q=nuts HTTP/1.1" 200 1312
+67.221.44.189 - - [02/Aug/2024:21:35:29 +0000] "POST /products/beans.html HTTP/1.1" 200 1973
+77.94.48.156 - - [17/Aug/2024:12:03:12 +0000] "GET /products/buttermilk.html HTTP/1.1" 200 1283
+32.123.70.162 - - [20/Jul/2024:21:25:49 +0000] "POST /checkout HTTP/1.1" 200 1475
+123.38.54.240 - - [24/Jul/2024:00:13:10 +0000] "POST /products?category=beverage HTTP/1.1" 200 956
+67.130.31.72 - - [12/Aug/2024:09:41:54 +0000] "POST /products?category=bakery HTTP/1.1" 200 420
+41.172.216.77 - - [24/Jul/2024:12:33:01 +0000] "GET /search?q=soup HTTP/1.1" 200 1065
+142.28.211.191 - - [14/Aug/2024:18:15:42 +0000] "POST /checkout HTTP/1.1" 200 1597
+26.3.120.121 - - [28/Jul/2024:00:01:56 +0000] "POST /products/baking powder.html HTTP/1.1" 200 1446
+182.129.80.127 - - [23/Jul/2024:16:16:04 +0000] "POST /checkout HTTP/1.1" 200 1324
+94.254.52.45 - - [23/Jul/2024:10:04:19 +0000] "POST /products/cereal.html HTTP/1.1" 200 1865
+254.163.101.19 - - [15/Aug/2024:13:36:08 +0000] "GET /search?q=jam HTTP/1.1" 200 479
+114.114.30.117 - - [02/Aug/2024:05:15:20 +0000] "POST /cart/add/baking powder HTTP/1.1" 201 1995
+35.239.245.255 - - [26/Jul/2024:20:11:29 +0000] "GET /checkout HTTP/1.1" 200 1577
+204.204.153.139 - - [21/Jul/2024:14:51:01 +0000] "GET /search?q=jam HTTP/1.1" 200 1708
+142.165.244.217 - - [03/Aug/2024:22:35:59 +0000] "GET /checkout HTTP/1.1" 200 568
+90.250.252.50 - - [19/Aug/2024:16:16:19 +0000] "GET /products/tortillas.html HTTP/1.1" 200 222
+226.163.28.235 - - [01/Aug/2024:13:22:06 +0000] "GET /checkout HTTP/1.1" 200 1611
+123.206.190.40 - - [23/Jul/2024:23:16:23 +0000] "POST /search?q=bread HTTP/1.1" 200 977
+22.105.54.18 - - [31/Jul/2024:18:17:58 +0000] "GET /products?category=snack HTTP/1.1" 200 1653
+108.89.168.243 - - [12/Aug/2024:17:08:55 +0000] "GET /search?q=pita bread HTTP/1.1" 200 723
+230.65.49.61 - - [03/Aug/2024:07:49:24 +0000] "GET /cart/add/carrot HTTP/1.1" 201 1181
+78.170.0.116 - - [14/Aug/2024:16:19:49 +0000] "GET /products?category=snack HTTP/1.1" 200 413
+136.189.59.200 - - [13/Aug/2024:15:38:55 +0000] "POST /checkout HTTP/1.1" 200 866
+73.63.242.78 - - [17/Aug/2024:07:43:39 +0000] "GET /search?q=potato HTTP/1.1" 200 1353
+70.159.43.169 - - [23/Jul/2024:06:10:45 +0000] "GET /cart/add/olive oil HTTP/1.1" 201 1311
+168.37.69.28 - - [29/Jul/2024:17:43:28 +0000] "GET /cart/add/egg HTTP/1.1" 201 1016
+172.252.12.247 - - [16/Aug/2024:20:32:52 +0000] "POST /cart/add/spinach HTTP/1.1" 201 1025
+234.99.116.100 - - [19/Aug/2024:05:24:13 +0000] "POST /products/bagels.html HTTP/1.1" 200 1836
+69.58.6.250 - - [29/Jul/2024:14:17:00 +0000] "POST /products/buttermilk.html HTTP/1.1" 200 569
+230.15.189.49 - - [24/Jul/2024:03:19:26 +0000] "POST /search?q=spaghetti sauce HTTP/1.1" 200 1517
+225.130.68.116 - - [24/Jul/2024:20:44:58 +0000] "GET /products/pepper.html HTTP/1.1" 200 1691
+65.235.70.36 - - [29/Jul/2024:18:28:03 +0000] "GET /products/chips.html HTTP/1.1" 200 1923
+108.127.32.46 - - [28/Jul/2024:21:44:34 +0000] "GET /checkout HTTP/1.1" 200 204
+55.149.98.120 - - [26/Jul/2024:13:21:31 +0000] "GET /products?category=snack HTTP/1.1" 200 368
+172.16.25.232 - - [14/Aug/2024:13:17:42 +0000] "GET /search?q=rice HTTP/1.1" 200 1343
+84.172.75.208 - - [20/Jul/2024:08:25:31 +0000] "POST /products/coffee.html HTTP/1.1" 200 895
+83.185.198.143 - - [08/Aug/2024:01:50:10 +0000] "GET /checkout HTTP/1.1" 200 903
+89.78.115.190 - - [31/Jul/2024:19:27:45 +0000] "GET /cart/add/cookies HTTP/1.1" 201 295
+212.158.163.251 - - [05/Aug/2024:10:04:47 +0000] "POST /products?category=fruit HTTP/1.1" 200 322
+204.176.43.83 - - [22/Jul/2024:21:53:09 +0000] "POST /products?category=beverage HTTP/1.1" 200 277
+195.213.152.193 - - [12/Aug/2024:04:25:11 +0000] "GET /cart/add/peppers HTTP/1.1" 201 1271
+17.238.61.89 - - [11/Aug/2024:14:28:31 +0000] "GET /products?category=beverage HTTP/1.1" 200 1287
+205.245.119.159 - - [06/Aug/2024:00:00:31 +0000] "GET /search?q=banana HTTP/1.1" 200 1814
+160.143.156.174 - - [01/Aug/2024:17:08:12 +0000] "GET /products/pizza.html HTTP/1.1" 200 808
+3.191.15.251 - - [11/Aug/2024:11:43:40 +0000] "GET /checkout HTTP/1.1" 200 1993
+11.159.4.42 - - [25/Jul/2024:13:14:06 +0000] "GET /checkout HTTP/1.1" 200 599
+161.133.179.58 - - [21/Jul/2024:00:52:22 +0000] "GET /search?q=butter HTTP/1.1" 200 1674
+169.112.52.145 - - [10/Aug/2024:20:25:23 +0000] "GET /cart/add/onion HTTP/1.1" 201 1112
+127.212.49.135 - - [18/Aug/2024:22:48:58 +0000] "POST /search?q=lettuce HTTP/1.1" 200 1430
+223.140.141.219 - - [26/Jul/2024:00:15:11 +0000] "POST /checkout HTTP/1.1" 200 1486
+161.56.247.18 - - [09/Aug/2024:13:05:53 +0000] "POST /search?q=trail mix HTTP/1.1" 200 323
+176.20.194.19 - - [25/Jul/2024:17:01:46 +0000] "GET /checkout HTTP/1.1" 200 701
+134.120.253.179 - - [10/Aug/2024:16:41:07 +0000] "POST /products?category=snack HTTP/1.1" 200 592
+213.22.178.247 - - [16/Aug/2024:02:46:58 +0000] "GET /products/peppers.html HTTP/1.1" 200 918
+242.64.251.128 - - [17/Aug/2024:08:34:02 +0000] "POST /products/buttermilk.html HTTP/1.1" 200 461
+60.110.208.150 - - [13/Aug/2024:16:14:20 +0000] "POST /cart/add/tea HTTP/1.1" 201 330
+37.111.68.64 - - [26/Jul/2024:18:35:26 +0000] "POST /search?q=frozen vegetables HTTP/1.1" 200 299
+13.191.152.53 - - [08/Aug/2024:19:16:47 +0000] "GET /products?category=beverage HTTP/1.1" 200 590
+202.157.31.138 - - [29/Jul/2024:17:12:27 +0000] "POST /search?q=cheese HTTP/1.1" 200 1751
+153.63.248.87 - - [01/Aug/2024:18:50:56 +0000] "POST /checkout HTTP/1.1" 200 1828
+99.112.174.176 - - [22/Jul/2024:04:25:10 +0000] "GET /products?category=snack HTTP/1.1" 200 1228
+181.28.242.183 - - [05/Aug/2024:04:44:39 +0000] "POST /cart/add/baking powder HTTP/1.1" 201 1708
+89.0.184.4 - - [09/Aug/2024:12:03:40 +0000] "POST /products/chicken.html HTTP/1.1" 200 1127
+160.246.7.239 - - [20/Jul/2024:08:45:00 +0000] "POST /products/pita bread.html HTTP/1.1" 200 360
+26.1.204.136 - - [20/Jul/2024:00:49:31 +0000] "POST /checkout HTTP/1.1" 200 1580
+132.20.78.26 - - [22/Jul/2024:17:37:39 +0000] "POST /checkout HTTP/1.1" 200 220
+168.86.231.240 - - [10/Aug/2024:00:08:32 +0000] "POST /products?category=bakery HTTP/1.1" 200 678
+221.226.52.70 - - [29/Jul/2024:16:23:11 +0000] "GET /products/jam.html HTTP/1.1" 200 1931
+13.22.113.5 - - [31/Jul/2024:11:13:41 +0000] "GET /cart/add/nuts HTTP/1.1" 201 288
+64.99.35.94 - - [16/Aug/2024:10:35:16 +0000] "GET /checkout HTTP/1.1" 200 762
+48.76.141.1 - - [31/Jul/2024:01:06:09 +0000] "GET /products?category=dairy HTTP/1.1" 200 1714
+250.184.154.149 - - [30/Jul/2024:14:01:56 +0000] "GET /search?q=baking soda HTTP/1.1" 200 834
+224.170.136.25 - - [06/Aug/2024:02:33:02 +0000] "POST /cart/add/cookies HTTP/1.1" 201 215
+136.223.158.95 - - [27/Jul/2024:09:56:22 +0000] "GET /search?q=beans HTTP/1.1" 200 226
+137.72.19.7 - - [26/Jul/2024:02:41:22 +0000] "GET /search?q=oil HTTP/1.1" 200 868
+103.49.117.120 - - [18/Aug/2024:16:29:03 +0000] "POST /products?category=beverage HTTP/1.1" 200 863
+240.32.10.39 - - [27/Jul/2024:08:22:26 +0000] "GET /products?category=bakery HTTP/1.1" 200 1125
+24.201.90.172 - - [24/Jul/2024:13:25:56 +0000] "GET /cart/add/bagels HTTP/1.1" 201 586
+34.81.123.137 - - [30/Jul/2024:02:40:45 +0000] "GET /search?q=chicken HTTP/1.1" 200 639
+216.13.190.22 - - [01/Aug/2024:03:33:35 +0000] "POST /products?category=dairy HTTP/1.1" 200 1724
+204.247.63.191 - - [12/Aug/2024:01:25:42 +0000] "GET /products/banana.html HTTP/1.1" 200 405
+194.210.31.142 - - [10/Aug/2024:18:32:31 +0000] "POST /products?category=dairy HTTP/1.1" 200 477
+114.199.198.149 - - [16/Aug/2024:13:50:55 +0000] "POST /products?category=fruit HTTP/1.1" 200 1549
+210.8.159.53 - - [18/Aug/2024:23:31:31 +0000] "GET /cart/add/fish HTTP/1.1" 201 1637
+120.156.49.123 - - [17/Aug/2024:04:16:16 +0000] "GET /search?q=soup HTTP/1.1" 200 1692
+209.40.165.166 - - [16/Aug/2024:13:17:12 +0000] "GET /products?category=fruit HTTP/1.1" 200 600
+172.150.245.193 - - [14/Aug/2024:05:15:40 +0000] "POST /search?q=cereal HTTP/1.1" 200 882
+144.230.52.209 - - [09/Aug/2024:03:06:01 +0000] "POST /checkout HTTP/1.1" 200 804
+76.103.60.109 - - [16/Aug/2024:09:49:13 +0000] "GET /cart/add/sesame oil HTTP/1.1" 201 1400
+65.111.29.166 - - [03/Aug/2024:06:44:37 +0000] "POST /cart/add/crackers HTTP/1.1" 201 1970
+101.45.102.175 - - [27/Jul/2024:00:20:17 +0000] "GET /products?category=bakery HTTP/1.1" 200 798
+163.147.160.40 - - [15/Aug/2024:23:39:14 +0000] "POST /products/ice cream.html HTTP/1.1" 200 1931
+184.170.123.81 - - [29/Jul/2024:09:42:12 +0000] "POST /cart/add/oatmeal HTTP/1.1" 201 872
+39.44.152.52 - - [01/Aug/2024:11:37:35 +0000] "GET /products/beans.html HTTP/1.1" 200 888
+252.91.106.135 - - [19/Aug/2024:19:15:22 +0000] "GET /products/spinach.html HTTP/1.1" 200 1157
+232.30.70.91 - - [24/Jul/2024:04:54:41 +0000] "POST /products?category=snack HTTP/1.1" 200 781
+37.64.130.216 - - [26/Jul/2024:16:48:44 +0000] "GET /cart/add/oatmeal HTTP/1.1" 201 367
+192.146.65.71 - - [03/Aug/2024:14:33:27 +0000] "GET /products/vinegar.html HTTP/1.1" 200 1824
+156.76.13.151 - - [21/Jul/2024:18:31:23 +0000] "POST /products/carrot.html HTTP/1.1" 200 1621
+115.208.130.12 - - [13/Aug/2024:07:33:59 +0000] "GET /checkout HTTP/1.1" 200 382
+84.147.14.244 - - [23/Jul/2024:00:43:29 +0000] "POST /products/ice cream.html HTTP/1.1" 200 311
+36.200.237.214 - - [29/Jul/2024:17:17:38 +0000] "POST /products/banana.html HTTP/1.1" 200 534
+96.202.108.16 - - [26/Jul/2024:19:23:18 +0000] "GET /checkout HTTP/1.1" 200 998
+105.138.4.29 - - [10/Aug/2024:16:10:13 +0000] "POST /products/nuts.html HTTP/1.1" 200 316
+176.83.110.88 - - [31/Jul/2024:04:27:49 +0000] "POST /cart/add/tortillas HTTP/1.1" 201 1402
+16.176.53.115 - - [28/Jul/2024:07:11:13 +0000] "POST /checkout HTTP/1.1" 200 517
+91.246.47.96 - - [13/Aug/2024:00:38:03 +0000] "POST /cart/add/bagels HTTP/1.1" 201 1989
+224.77.46.92 - - [07/Aug/2024:07:03:13 +0000] "POST /search?q=pepper HTTP/1.1" 200 1017
+184.169.124.47 - - [30/Jul/2024:19:09:03 +0000] "GET /cart/add/yogurt HTTP/1.1" 201 526
+173.170.219.38 - - [15/Aug/2024:12:27:43 +0000] "GET /search?q=apple HTTP/1.1" 200 1615
+14.224.111.229 - - [07/Aug/2024:10:00:35 +0000] "POST /cart/add/beef HTTP/1.1" 201 1425
+29.10.180.19 - - [16/Aug/2024:18:54:53 +0000] "POST /checkout HTTP/1.1" 200 1643
+235.97.124.7 - - [02/Aug/2024:23:59:01 +0000] "POST /products?category=beverage HTTP/1.1" 200 1049
+13.177.183.47 - - [24/Jul/2024:18:33:17 +0000] "GET /checkout HTTP/1.1" 200 919
+17.83.239.249 - - [13/Aug/2024:00:45:34 +0000] "POST /checkout HTTP/1.1" 200 1222
+52.239.250.251 - - [29/Jul/2024:20:23:18 +0000] "POST /products/yogurt.html HTTP/1.1" 200 1129
+123.205.4.28 - - [02/Aug/2024:23:36:59 +0000] "POST /search?q=butter HTTP/1.1" 200 939
+98.13.92.32 - - [06/Aug/2024:18:34:53 +0000] "POST /checkout HTTP/1.1" 200 406
+93.154.73.116 - - [17/Aug/2024:21:37:24 +0000] "POST /products/oil.html HTTP/1.1" 200 1817
+93.42.21.224 - - [25/Jul/2024:09:37:56 +0000] "POST /cart/add/ice cream HTTP/1.1" 201 864
+10.46.87.149 - - [27/Jul/2024:07:43:52 +0000] "GET /products?category=snack HTTP/1.1" 200 618
+87.29.197.66 - - [16/Aug/2024:01:04:31 +0000] "GET /search?q=oil HTTP/1.1" 200 1866
+149.150.246.63 - - [17/Aug/2024:21:08:18 +0000] "POST /products?category=beverage HTTP/1.1" 200 1663
+160.78.116.163 - - [05/Aug/2024:22:14:20 +0000] "GET /products?category=snack HTTP/1.1" 200 659
+22.174.73.67 - - [20/Jul/2024:17:31:25 +0000] "POST /cart/add/spaghetti sauce HTTP/1.1" 201 426
+90.134.182.38 - - [16/Aug/2024:20:53:28 +0000] "POST /products/canned beans.html HTTP/1.1" 200 294
+0.110.254.243 - - [05/Aug/2024:01:58:23 +0000] "GET /products/tea.html HTTP/1.1" 200 1417
+67.113.221.166 - - [05/Aug/2024:00:55:47 +0000] "POST /products?category=bakery HTTP/1.1" 200 1063
+166.115.17.207 - - [13/Aug/2024:02:40:44 +0000] "POST /search?q=vinegar HTTP/1.1" 200 555
+154.189.168.95 - - [29/Jul/2024:11:46:05 +0000] "GET /products?category=beverage HTTP/1.1" 200 964
+73.135.194.191 - - [24/Jul/2024:08:19:11 +0000] "POST /search?q=canned tomatoes HTTP/1.1" 200 979
+120.56.241.241 - - [25/Jul/2024:10:03:13 +0000] "POST /search?q=muffins HTTP/1.1" 200 609
+193.34.168.50 - - [26/Jul/2024:06:47:17 +0000] "POST /cart/add/oatmeal HTTP/1.1" 201 516
+150.89.13.226 - - [11/Aug/2024:08:34:05 +0000] "POST /search?q=mustard HTTP/1.1" 200 1130
+130.102.14.254 - - [17/Aug/2024:02:03:49 +0000] "POST /products?category=dairy HTTP/1.1" 200 1724
+8.225.198.77 - - [19/Aug/2024:01:24:44 +0000] "POST /cart/add/mushrooms HTTP/1.1" 201 958
+128.84.244.100 - - [20/Jul/2024:08:48:04 +0000] "GET /products/tortillas.html HTTP/1.1" 200 1593
+60.213.145.131 - - [31/Jul/2024:08:58:31 +0000] "GET /products?category=snack HTTP/1.1" 200 1720
+43.173.61.30 - - [09/Aug/2024:19:28:20 +0000] "POST /products/lentils.html HTTP/1.1" 200 350
+183.121.101.48 - - [24/Jul/2024:12:46:57 +0000] "POST /products/fish.html HTTP/1.1" 200 1115
+37.74.245.199 - - [22/Jul/2024:16:46:27 +0000] "POST /products/oatmeal.html HTTP/1.1" 200 437
+97.79.15.102 - - [16/Aug/2024:11:19:37 +0000] "GET /cart/add/fish HTTP/1.1" 201 1640
+186.135.20.29 - - [25/Jul/2024:12:38:46 +0000] "GET /checkout HTTP/1.1" 200 702
+240.188.32.223 - - [10/Aug/2024:10:16:31 +0000] "POST /products?category=beverage HTTP/1.1" 200 321
+83.18.49.157 - - [27/Jul/2024:10:31:03 +0000] "GET /checkout HTTP/1.1" 200 318
+144.55.55.173 - - [02/Aug/2024:14:12:39 +0000] "POST /products?category=snack HTTP/1.1" 200 620
+123.151.222.67 - - [04/Aug/2024:13:09:24 +0000] "GET /checkout HTTP/1.1" 200 810
+94.191.131.182 - - [24/Jul/2024:17:23:28 +0000] "GET /search?q=cookies HTTP/1.1" 200 263
+45.243.89.174 - - [11/Aug/2024:18:32:02 +0000] "POST /cart/add/frozen vegetables HTTP/1.1" 201 236
+94.69.172.193 - - [02/Aug/2024:12:27:06 +0000] "GET /cart/add/rice vinegar HTTP/1.1" 201 1897
+2.241.91.112 - - [25/Jul/2024:03:54:55 +0000] "POST /checkout HTTP/1.1" 200 1868
+66.179.27.123 - - [13/Aug/2024:20:45:39 +0000] "POST /checkout HTTP/1.1" 200 1965
+170.176.128.17 - - [05/Aug/2024:09:04:14 +0000] "GET /checkout HTTP/1.1" 200 1850
+46.163.85.108 - - [02/Aug/2024:11:22:29 +0000] "GET /products?category=fruit HTTP/1.1" 200 1768
+91.103.247.183 - - [23/Jul/2024:01:07:05 +0000] "POST /cart/add/yogurt HTTP/1.1" 201 948
+114.129.185.74 - - [17/Aug/2024:17:41:09 +0000] "GET /search?q=tea HTTP/1.1" 200 1598
+180.161.169.244 - - [08/Aug/2024:07:02:56 +0000] "GET /search?q=frozen fruit HTTP/1.1" 200 540
+218.72.29.232 - - [02/Aug/2024:18:31:10 +0000] "POST /checkout HTTP/1.1" 200 1088
+208.163.247.153 - - [18/Aug/2024:05:42:23 +0000] "GET /products?category=snack HTTP/1.1" 200 219
+182.4.214.120 - - [10/Aug/2024:11:50:57 +0000] "GET /cart/add/balsamic vinegar HTTP/1.1" 201 1049
+21.85.211.157 - - [18/Aug/2024:01:07:33 +0000] "GET /search?q=cheese HTTP/1.1" 200 472
+165.165.91.3 - - [16/Aug/2024:14:58:58 +0000] "POST /products?category=snack HTTP/1.1" 200 1729
+75.79.101.235 - - [23/Jul/2024:01:34:06 +0000] "POST /products/frozen meat.html HTTP/1.1" 200 380
+7.144.222.152 - - [15/Aug/2024:13:41:21 +0000] "POST /cart/add/jam HTTP/1.1" 201 1046
+225.187.26.42 - - [07/Aug/2024:06:11:16 +0000] "GET /checkout HTTP/1.1" 200 853
+35.36.87.215 - - [06/Aug/2024:14:17:46 +0000] "POST /cart/add/pita bread HTTP/1.1" 201 870
+198.102.127.27 - - [11/Aug/2024:10:49:10 +0000] "POST /checkout HTTP/1.1" 200 249
+174.40.70.12 - - [19/Aug/2024:01:50:33 +0000] "POST /search?q=frozen meat HTTP/1.1" 200 380
+133.24.154.105 - - [24/Jul/2024:11:00:34 +0000] "GET /search?q=croissants HTTP/1.1" 200 1174
+91.5.56.215 - - [20/Jul/2024:02:10:25 +0000] "GET /products?category=fruit HTTP/1.1" 200 595
+99.114.68.200 - - [22/Jul/2024:18:40:46 +0000] "POST /search?q=baking powder HTTP/1.1" 200 306
+231.39.254.223 - - [11/Aug/2024:18:23:41 +0000] "GET /cart/add/croutons HTTP/1.1" 201 1744
+102.207.90.150 - - [06/Aug/2024:04:43:36 +0000] "GET /checkout HTTP/1.1" 200 1000
+119.13.117.73 - - [12/Aug/2024:08:02:49 +0000] "POST /cart/add/cake HTTP/1.1" 201 1089
+6.0.152.226 - - [10/Aug/2024:15:08:08 +0000] "POST /products/tea.html HTTP/1.1" 200 554
+215.66.1.119 - - [19/Aug/2024:12:05:34 +0000] "GET /products?category=dairy HTTP/1.1" 200 220
+3.59.88.231 - - [09/Aug/2024:02:24:38 +0000] "POST /search?q=tortillas HTTP/1.1" 200 405
+222.123.223.37 - - [22/Jul/2024:04:13:46 +0000] "POST /products?category=dairy HTTP/1.1" 200 1471
+108.252.6.139 - - [07/Aug/2024:03:35:49 +0000] "POST /cart/add/coffee HTTP/1.1" 201 400
+8.201.17.161 - - [26/Jul/2024:04:28:46 +0000] "POST /cart/add/dried fruit HTTP/1.1" 201 429
+110.15.102.255 - - [25/Jul/2024:11:14:16 +0000] "POST /checkout HTTP/1.1" 200 1997
+171.114.126.200 - - [07/Aug/2024:11:24:14 +0000] "GET /products?category=snack HTTP/1.1" 200 661
+110.167.104.7 - - [20/Jul/2024:10:50:22 +0000] "GET /search?q=bagels HTTP/1.1" 200 482
+129.161.109.90 - - [03/Aug/2024:14:06:39 +0000] "POST /products/cucumber.html HTTP/1.1" 200 955
+243.80.132.97 - - [07/Aug/2024:23:36:19 +0000] "POST /checkout HTTP/1.1" 200 1127
+225.162.170.101 - - [22/Jul/2024:00:14:54 +0000] "GET /products?category=fruit HTTP/1.1" 200 1529
+74.14.151.145 - - [16/Aug/2024:15:02:05 +0000] "POST /products?category=beverage HTTP/1.1" 200 1407
+164.48.222.114 - - [06/Aug/2024:03:16:12 +0000] "POST /checkout HTTP/1.1" 200 1908
+164.99.56.81 - - [05/Aug/2024:14:13:03 +0000] "GET /products?category=bakery HTTP/1.1" 200 652
+114.226.255.98 - - [10/Aug/2024:06:24:35 +0000] "GET /products/tomato.html HTTP/1.1" 200 821
+15.223.158.153 - - [10/Aug/2024:16:33:27 +0000] "GET /checkout HTTP/1.1" 200 344
+86.91.163.253 - - [06/Aug/2024:12:58:38 +0000] "GET /cart/add/sesame oil HTTP/1.1" 201 1199
+149.165.168.122 - - [10/Aug/2024:07:37:27 +0000] "POST /products/yogurt.html HTTP/1.1" 200 1855
+251.56.189.40 - - [27/Jul/2024:15:31:19 +0000] "POST /products?category=beverage HTTP/1.1" 200 1944
+134.96.109.66 - - [22/Jul/2024:04:18:55 +0000] "GET /products?category=fruit HTTP/1.1" 200 545
+21.172.146.26 - - [02/Aug/2024:23:35:26 +0000] "POST /products?category=bakery HTTP/1.1" 200 1710
+126.218.199.243 - - [01/Aug/2024:23:44:49 +0000] "POST /products?category=snack HTTP/1.1" 200 809
+62.50.161.179 - - [20/Jul/2024:21:45:23 +0000] "POST /search?q=jam HTTP/1.1" 200 647
+120.202.27.185 - - [29/Jul/2024:19:24:42 +0000] "POST /products?category=snack HTTP/1.1" 200 1038
+58.21.55.238 - - [21/Jul/2024:00:21:47 +0000] "POST /checkout HTTP/1.1" 200 1521
+246.88.182.3 - - [16/Aug/2024:01:20:56 +0000] "GET /products?category=bakery HTTP/1.1" 200 385
+166.190.6.167 - - [24/Jul/2024:22:00:51 +0000] "GET /checkout HTTP/1.1" 200 468
+193.8.220.84 - - [19/Aug/2024:03:27:49 +0000] "POST /products/croutons.html HTTP/1.1" 200 965
+173.51.233.148 - - [04/Aug/2024:22:15:16 +0000] "POST /products?category=dairy HTTP/1.1" 200 1242
+8.212.121.141 - - [02/Aug/2024:21:14:19 +0000] "POST /checkout HTTP/1.1" 200 599
+51.253.119.125 - - [08/Aug/2024:16:06:58 +0000] "POST /products/coffee.html HTTP/1.1" 200 1757
+247.142.87.68 - - [04/Aug/2024:23:22:26 +0000] "POST /checkout HTTP/1.1" 200 471
+191.155.114.13 - - [08/Aug/2024:07:59:43 +0000] "POST /cart/add/sriracha HTTP/1.1" 201 989
+132.75.72.50 - - [09/Aug/2024:09:34:11 +0000] "POST /cart/add/peppers HTTP/1.1" 201 325
+49.11.166.131 - - [15/Aug/2024:11:49:49 +0000] "POST /checkout HTTP/1.1" 200 1049
+7.168.23.10 - - [11/Aug/2024:06:37:27 +0000] "GET /products/chocolate.html HTTP/1.1" 200 994
+70.161.163.206 - - [14/Aug/2024:06:36:13 +0000] "POST /products/chips.html HTTP/1.1" 200 697
+92.210.114.16 - - [22/Jul/2024:10:14:12 +0000] "POST /search?q=coffee HTTP/1.1" 200 1471
+79.178.150.70 - - [22/Jul/2024:13:29:37 +0000] "GET /search?q=baking soda HTTP/1.1" 200 992
+134.23.201.120 - - [05/Aug/2024:09:35:06 +0000] "GET /checkout HTTP/1.1" 200 529
+69.118.162.155 - - [13/Aug/2024:08:31:49 +0000] "GET /checkout HTTP/1.1" 200 1436
+3.247.180.157 - - [11/Aug/2024:13:46:41 +0000] "GET /products/baking soda.html HTTP/1.1" 200 698
+54.225.11.97 - - [05/Aug/2024:18:38:53 +0000] "POST /search?q=soy sauce HTTP/1.1" 200 1605
+47.144.67.38 - - [11/Aug/2024:03:22:23 +0000] "POST /search?q=cereal HTTP/1.1" 200 1355
+149.85.19.181 - - [25/Jul/2024:05:45:31 +0000] "POST /search?q=pasta HTTP/1.1" 200 1723
+231.234.128.144 - - [04/Aug/2024:11:06:06 +0000] "POST /products/rice.html HTTP/1.1" 200 1819
+31.127.122.35 - - [27/Jul/2024:16:36:38 +0000] "GET /cart/add/oatmeal HTTP/1.1" 201 593
+146.182.37.15 - - [23/Jul/2024:04:36:33 +0000] "GET /checkout HTTP/1.1" 200 1737
+42.20.129.171 - - [06/Aug/2024:05:06:32 +0000] "GET /checkout HTTP/1.1" 200 1393
+164.39.13.223 - - [13/Aug/2024:23:09:09 +0000] "POST /products?category=bakery HTTP/1.1" 200 812
+88.33.142.227 - - [27/Jul/2024:02:32:32 +0000] "POST /search?q=jam HTTP/1.1" 200 932
+248.127.230.253 - - [04/Aug/2024:11:07:26 +0000] "POST /products/crackers.html HTTP/1.1" 200 1838
+68.251.218.8 - - [23/Jul/2024:16:34:33 +0000] "GET /checkout HTTP/1.1" 200 1295
+119.27.222.191 - - [27/Jul/2024:13:25:45 +0000] "GET /checkout HTTP/1.1" 200 1162
+188.99.159.204 - - [30/Jul/2024:20:13:35 +0000] "GET /checkout HTTP/1.1" 200 333
+236.232.112.227 - - [12/Aug/2024:11:26:42 +0000] "POST /checkout HTTP/1.1" 200 682
+174.105.136.212 - - [23/Jul/2024:10:41:08 +0000] "POST /checkout HTTP/1.1" 200 660
+83.106.158.254 - - [10/Aug/2024:08:06:46 +0000] "GET /products?category=fruit HTTP/1.1" 200 1895
+15.112.244.147 - - [18/Aug/2024:07:27:30 +0000] "POST /products/tea.html HTTP/1.1" 200 1653
+182.171.159.53 - - [26/Jul/2024:01:47:26 +0000] "POST /search?q=energy bars HTTP/1.1" 200 591
+230.200.89.175 - - [13/Aug/2024:14:07:28 +0000] "GET /search?q=beans HTTP/1.1" 200 1993
+178.33.80.163 - - [24/Jul/2024:03:52:42 +0000] "POST /products/frozen vegetables.html HTTP/1.1" 200 897
+122.4.205.199 - - [20/Jul/2024:10:15:31 +0000] "POST /products/sesame oil.html HTTP/1.1" 200 1638
+95.127.74.189 - - [22/Jul/2024:01:31:08 +0000] "POST /products?category=snack HTTP/1.1" 200 1445
+116.183.94.118 - - [05/Aug/2024:10:26:19 +0000] "POST /checkout HTTP/1.1" 200 247
+56.136.15.217 - - [25/Jul/2024:02:29:24 +0000] "POST /cart/add/frozen fruit HTTP/1.1" 201 1554
+193.9.12.39 - - [20/Jul/2024:16:29:57 +0000] "GET /products?category=fruit HTTP/1.1" 200 1811
+63.58.41.155 - - [18/Aug/2024:12:22:32 +0000] "GET /cart/add/sugar HTTP/1.1" 201 1126
+183.214.36.248 - - [11/Aug/2024:12:55:41 +0000] "POST /cart/add/nuts HTTP/1.1" 201 1525
+8.2.96.142 - - [10/Aug/2024:20:27:39 +0000] "GET /search?q=sriracha HTTP/1.1" 200 588
+171.169.172.197 - - [04/Aug/2024:14:17:18 +0000] "GET /cart/add/ice cream HTTP/1.1" 201 1846
+182.33.142.94 - - [29/Jul/2024:16:28:20 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 1747
+109.127.48.163 - - [13/Aug/2024:07:37:11 +0000] "GET /cart/add/yogurt HTTP/1.1" 201 799
+167.107.152.242 - - [29/Jul/2024:15:48:08 +0000] "POST /search?q=flour HTTP/1.1" 200 644
+123.183.43.121 - - [06/Aug/2024:10:58:02 +0000] "POST /checkout HTTP/1.1" 200 634
+203.186.34.151 - - [14/Aug/2024:12:56:09 +0000] "GET /products/carrot.html HTTP/1.1" 200 971
+240.115.104.19 - - [25/Jul/2024:20:05:30 +0000] "POST /checkout HTTP/1.1" 200 761
+82.154.217.60 - - [06/Aug/2024:12:38:10 +0000] "GET /cart/add/bread HTTP/1.1" 201 509
+47.56.204.165 - - [16/Aug/2024:21:03:21 +0000] "GET /cart/add/beans HTTP/1.1" 201 1195
+19.33.51.220 - - [25/Jul/2024:13:58:47 +0000] "POST /cart/add/banana HTTP/1.1" 201 1321
+213.109.239.153 - - [05/Aug/2024:00:26:13 +0000] "GET /checkout HTTP/1.1" 200 927
+59.144.210.169 - - [16/Aug/2024:18:03:14 +0000] "GET /products?category=dairy HTTP/1.1" 200 906
+230.23.12.233 - - [25/Jul/2024:15:33:29 +0000] "POST /checkout HTTP/1.1" 200 337
+71.69.32.236 - - [20/Jul/2024:18:49:54 +0000] "GET /products/potato.html HTTP/1.1" 200 1710
+57.12.16.213 - - [25/Jul/2024:19:06:29 +0000] "GET /checkout HTTP/1.1" 200 1524
+156.173.227.5 - - [12/Aug/2024:02:10:03 +0000] "GET /products/spaghetti sauce.html HTTP/1.1" 200 577
+164.244.103.52 - - [23/Jul/2024:18:12:45 +0000] "GET /products?category=dairy HTTP/1.1" 200 718
+162.50.161.85 - - [13/Aug/2024:17:24:01 +0000] "GET /search?q=frozen fruit HTTP/1.1" 200 1423
+232.180.68.159 - - [07/Aug/2024:00:19:25 +0000] "POST /checkout HTTP/1.1" 200 1503
+81.238.26.113 - - [21/Jul/2024:19:03:58 +0000] "POST /products/flour.html HTTP/1.1" 200 819
+161.97.197.208 - - [15/Aug/2024:13:39:31 +0000] "GET /products?category=snack HTTP/1.1" 200 891
+148.212.156.15 - - [09/Aug/2024:15:13:37 +0000] "POST /checkout HTTP/1.1" 200 759
+229.201.161.239 - - [28/Jul/2024:16:24:26 +0000] "GET /search?q=spaghetti sauce HTTP/1.1" 200 1025
+159.168.37.113 - - [05/Aug/2024:15:20:15 +0000] "POST /products?category=beverage HTTP/1.1" 200 1364
+52.49.20.62 - - [01/Aug/2024:21:38:23 +0000] "GET /checkout HTTP/1.1" 200 1572
+36.151.101.159 - - [08/Aug/2024:04:04:38 +0000] "GET /products/cucumber.html HTTP/1.1" 200 332
+158.236.201.123 - - [01/Aug/2024:20:18:21 +0000] "GET /cart/add/cookies HTTP/1.1" 201 1634
+104.217.111.15 - - [22/Jul/2024:13:54:03 +0000] "GET /search?q=cream cheese HTTP/1.1" 200 1588
+192.12.0.6 - - [05/Aug/2024:15:52:29 +0000] "POST /search?q=cream cheese HTTP/1.1" 200 1859
+112.163.122.219 - - [11/Aug/2024:12:55:32 +0000] "POST /checkout HTTP/1.1" 200 1501
+148.62.218.243 - - [30/Jul/2024:04:59:36 +0000] "POST /checkout HTTP/1.1" 200 1633
+255.73.177.58 - - [06/Aug/2024:05:04:34 +0000] "GET /search?q=bagels HTTP/1.1" 200 1431
+20.113.227.147 - - [29/Jul/2024:04:14:44 +0000] "GET /search?q=mushrooms HTTP/1.1" 200 1759
+152.78.64.207 - - [21/Jul/2024:05:48:58 +0000] "POST /checkout HTTP/1.1" 200 414
+35.240.216.194 - - [03/Aug/2024:10:53:20 +0000] "GET /search?q=pasta HTTP/1.1" 200 1633
+215.223.180.199 - - [08/Aug/2024:14:02:36 +0000] "POST /products/onion.html HTTP/1.1" 200 595
+153.43.208.61 - - [15/Aug/2024:12:04:37 +0000] "POST /checkout HTTP/1.1" 200 537
+32.12.148.12 - - [30/Jul/2024:10:28:20 +0000] "GET /products?category=snack HTTP/1.1" 200 1238
+13.2.43.254 - - [07/Aug/2024:15:25:29 +0000] "POST /products/buttermilk.html HTTP/1.1" 200 221
+141.6.232.144 - - [17/Aug/2024:12:14:22 +0000] "GET /products?category=beverage HTTP/1.1" 200 290
+233.96.131.40 - - [07/Aug/2024:04:08:30 +0000] "POST /checkout HTTP/1.1" 200 658
+191.172.68.238 - - [14/Aug/2024:00:28:38 +0000] "GET /checkout HTTP/1.1" 200 1120
+51.142.181.78 - - [01/Aug/2024:02:49:07 +0000] "POST /search?q=lettuce HTTP/1.1" 200 605
+57.69.14.241 - - [18/Aug/2024:02:33:47 +0000] "POST /checkout HTTP/1.1" 200 1426
+47.131.147.105 - - [19/Aug/2024:19:59:41 +0000] "POST /products?category=fruit HTTP/1.1" 200 696
+223.56.193.201 - - [14/Aug/2024:01:40:26 +0000] "POST /checkout HTTP/1.1" 200 1608
+187.184.38.40 - - [08/Aug/2024:19:52:02 +0000] "POST /checkout HTTP/1.1" 200 1683
+214.249.147.113 - - [13/Aug/2024:20:40:31 +0000] "POST /products?category=beverage HTTP/1.1" 200 856
+7.155.197.229 - - [26/Jul/2024:16:47:22 +0000] "GET /cart/add/coffee HTTP/1.1" 201 1730
+197.78.183.23 - - [08/Aug/2024:23:46:16 +0000] "POST /checkout HTTP/1.1" 200 751
+241.89.105.113 - - [26/Jul/2024:03:05:43 +0000] "POST /search?q=lettuce HTTP/1.1" 200 1942
+54.131.82.17 - - [20/Jul/2024:02:24:26 +0000] "POST /products?category=snack HTTP/1.1" 200 1450
+130.87.191.196 - - [22/Jul/2024:20:17:23 +0000] "GET /search?q=orange HTTP/1.1" 200 1716
+140.152.240.47 - - [25/Jul/2024:14:04:16 +0000] "POST /products?category=bakery HTTP/1.1" 200 1357
+83.74.108.216 - - [19/Aug/2024:11:12:10 +0000] "POST /checkout HTTP/1.1" 200 1297
+93.192.241.139 - - [01/Aug/2024:14:47:44 +0000] "POST /cart/add/lentils HTTP/1.1" 201 914
+223.1.106.252 - - [12/Aug/2024:13:10:37 +0000] "POST /search?q=pita bread HTTP/1.1" 200 1868
+29.108.23.151 - - [25/Jul/2024:10:38:49 +0000] "GET /checkout HTTP/1.1" 200 1824
+24.205.206.43 - - [05/Aug/2024:02:37:34 +0000] "GET /products/milk.html HTTP/1.1" 200 249
+131.48.212.66 - - [12/Aug/2024:11:57:36 +0000] "POST /products/peppers.html HTTP/1.1" 200 1410
+0.74.36.246 - - [31/Jul/2024:01:35:19 +0000] "POST /cart/add/egg HTTP/1.1" 201 1809
+21.209.204.124 - - [15/Aug/2024:02:53:32 +0000] "GET /search?q=canned tuna HTTP/1.1" 200 1131
+219.242.41.245 - - [01/Aug/2024:07:53:03 +0000] "POST /cart/add/cheese HTTP/1.1" 201 1405
+38.50.111.59 - - [04/Aug/2024:23:59:33 +0000] "GET /cart/add/beans HTTP/1.1" 201 1874
+75.157.87.50 - - [31/Jul/2024:04:03:52 +0000] "POST /products/mayonnaise.html HTTP/1.1" 200 221
+6.155.116.221 - - [24/Jul/2024:20:01:56 +0000] "GET /cart/add/lettuce HTTP/1.1" 201 901
+212.86.239.254 - - [02/Aug/2024:16:34:49 +0000] "POST /search?q=spaghetti sauce HTTP/1.1" 200 1335
+156.80.177.16 - - [11/Aug/2024:02:47:21 +0000] "GET /search?q=salt HTTP/1.1" 200 1117
+84.74.230.9 - - [02/Aug/2024:13:22:11 +0000] "POST /products/chips.html HTTP/1.1" 200 1460
+154.193.138.59 - - [14/Aug/2024:03:38:41 +0000] "GET /products?category=fruit HTTP/1.1" 200 493
+225.58.140.215 - - [06/Aug/2024:00:35:07 +0000] "GET /products?category=bakery HTTP/1.1" 200 1816
+133.116.10.217 - - [02/Aug/2024:04:28:24 +0000] "POST /search?q=vinegar HTTP/1.1" 200 656
+210.255.85.155 - - [09/Aug/2024:05:52:56 +0000] "GET /search?q=yogurt HTTP/1.1" 200 816
+176.131.122.221 - - [27/Jul/2024:10:52:14 +0000] "GET /cart/add/yogurt HTTP/1.1" 201 209
+93.245.46.231 - - [24/Jul/2024:04:01:05 +0000] "POST /checkout HTTP/1.1" 200 1609
+140.165.197.13 - - [10/Aug/2024:16:57:23 +0000] "POST /search?q=peanut butter HTTP/1.1" 200 1450
+80.135.67.23 - - [01/Aug/2024:01:11:48 +0000] "GET /products/egg.html HTTP/1.1" 200 1348
+197.196.27.164 - - [06/Aug/2024:06:23:11 +0000] "GET /products/chicken.html HTTP/1.1" 200 331
+208.125.117.74 - - [25/Jul/2024:23:09:40 +0000] "POST /products?category=snack HTTP/1.1" 200 544
+5.19.216.190 - - [24/Jul/2024:05:56:37 +0000] "GET /checkout HTTP/1.1" 200 1516
+231.156.12.149 - - [04/Aug/2024:13:45:13 +0000] "GET /products/canned beans.html HTTP/1.1" 200 1484
+248.223.125.120 - - [07/Aug/2024:08:48:43 +0000] "GET /checkout HTTP/1.1" 200 376
+61.212.96.112 - - [23/Jul/2024:17:35:48 +0000] "POST /cart/add/peanut butter HTTP/1.1" 201 853
+54.53.239.49 - - [01/Aug/2024:19:28:16 +0000] "GET /products/sour cream.html HTTP/1.1" 200 1647
+209.142.39.111 - - [12/Aug/2024:11:23:06 +0000] "GET /checkout HTTP/1.1" 200 1613
+105.94.175.210 - - [05/Aug/2024:21:58:11 +0000] "POST /search?q=spinach HTTP/1.1" 200 945
+12.151.72.98 - - [24/Jul/2024:03:11:45 +0000] "POST /products/pita bread.html HTTP/1.1" 200 640
+110.173.220.48 - - [13/Aug/2024:02:01:11 +0000] "GET /products/tortillas.html HTTP/1.1" 200 643
+210.72.159.10 - - [26/Jul/2024:20:53:52 +0000] "POST /products?category=beverage HTTP/1.1" 200 1439
+217.51.197.39 - - [27/Jul/2024:21:28:25 +0000] "POST /search?q=soy sauce HTTP/1.1" 200 1926
+33.128.143.225 - - [11/Aug/2024:17:33:49 +0000] "POST /checkout HTTP/1.1" 200 869
+52.25.46.8 - - [13/Aug/2024:10:26:30 +0000] "POST /search?q=canned beans HTTP/1.1" 200 1607
+65.60.211.105 - - [29/Jul/2024:11:07:10 +0000] "GET /search?q=pizza HTTP/1.1" 200 1931
+193.36.192.236 - - [12/Aug/2024:15:21:22 +0000] "POST /products?category=bakery HTTP/1.1" 200 1346
+76.238.178.116 - - [27/Jul/2024:01:25:34 +0000] "POST /cart/add/pasta HTTP/1.1" 201 342
+135.175.204.46 - - [17/Aug/2024:14:59:29 +0000] "POST /checkout HTTP/1.1" 200 1128
+211.196.173.192 - - [07/Aug/2024:23:43:16 +0000] "POST /products?category=beverage HTTP/1.1" 200 1469
+163.184.91.139 - - [13/Aug/2024:14:49:58 +0000] "GET /checkout HTTP/1.1" 200 1360
+205.8.161.235 - - [07/Aug/2024:00:47:28 +0000] "GET /products?category=bakery HTTP/1.1" 200 1616
+33.124.228.59 - - [06/Aug/2024:18:59:17 +0000] "POST /products?category=dairy HTTP/1.1" 200 434
+97.39.87.209 - - [14/Aug/2024:03:24:44 +0000] "POST /cart/add/baking powder HTTP/1.1" 201 404
+194.103.213.163 - - [12/Aug/2024:00:55:07 +0000] "POST /products?category=snack HTTP/1.1" 200 1483
+106.108.59.73 - - [19/Aug/2024:03:23:24 +0000] "GET /cart/add/soy sauce HTTP/1.1" 201 1316
+109.253.76.218 - - [12/Aug/2024:21:39:33 +0000] "GET /search?q=cereal HTTP/1.1" 200 945
+253.106.244.240 - - [02/Aug/2024:14:10:16 +0000] "GET /cart/add/frozen vegetables HTTP/1.1" 201 1471
+90.41.58.245 - - [12/Aug/2024:16:47:45 +0000] "POST /checkout HTTP/1.1" 200 377
+41.240.100.232 - - [05/Aug/2024:12:08:50 +0000] "GET /products?category=snack HTTP/1.1" 200 517
+82.64.184.180 - - [18/Aug/2024:17:33:10 +0000] "GET /search?q=rice vinegar HTTP/1.1" 200 1289
+9.155.40.32 - - [11/Aug/2024:06:33:47 +0000] "POST /products?category=dairy HTTP/1.1" 200 255
+79.2.120.229 - - [05/Aug/2024:08:21:38 +0000] "POST /cart/add/tea HTTP/1.1" 201 1878
+229.186.151.130 - - [30/Jul/2024:02:21:38 +0000] "GET /products/tortillas.html HTTP/1.1" 200 269
+135.221.53.168 - - [20/Jul/2024:11:52:19 +0000] "GET /checkout HTTP/1.1" 200 852
+22.147.186.92 - - [13/Aug/2024:10:01:05 +0000] "POST /checkout HTTP/1.1" 200 1688
+197.206.182.148 - - [31/Jul/2024:04:12:12 +0000] "POST /products/lettuce.html HTTP/1.1" 200 601
+141.96.169.58 - - [04/Aug/2024:18:51:45 +0000] "POST /cart/add/potato HTTP/1.1" 201 1174
+229.112.69.248 - - [18/Aug/2024:03:10:48 +0000] "GET /products?category=fruit HTTP/1.1" 200 931
+64.171.87.246 - - [19/Aug/2024:18:45:41 +0000] "GET /cart/add/ice cream HTTP/1.1" 201 1220
+70.212.214.74 - - [17/Aug/2024:12:13:14 +0000] "POST /products/coffee.html HTTP/1.1" 200 994
+170.174.127.38 - - [09/Aug/2024:02:16:54 +0000] "GET /products?category=fruit HTTP/1.1" 200 1386
+93.188.134.232 - - [31/Jul/2024:14:29:11 +0000] "POST /checkout HTTP/1.1" 200 1878
+84.28.112.176 - - [24/Jul/2024:04:01:17 +0000] "POST /checkout HTTP/1.1" 200 1778
+177.46.147.153 - - [15/Aug/2024:18:07:30 +0000] "POST /products/butter.html HTTP/1.1" 200 300
+238.76.137.38 - - [20/Jul/2024:01:46:53 +0000] "GET /checkout HTTP/1.1" 200 1038
+79.142.226.138 - - [26/Jul/2024:01:44:29 +0000] "POST /checkout HTTP/1.1" 200 241
+199.123.216.100 - - [31/Jul/2024:00:11:41 +0000] "POST /products/ice cream.html HTTP/1.1" 200 1881
+216.165.239.192 - - [14/Aug/2024:13:24:27 +0000] "GET /cart/add/energy bars HTTP/1.1" 201 655
+221.239.92.13 - - [19/Aug/2024:00:50:36 +0000] "POST /products/cheese.html HTTP/1.1" 200 1986
+11.171.46.169 - - [07/Aug/2024:03:00:06 +0000] "POST /search?q=frozen meat HTTP/1.1" 200 1701
+114.245.6.16 - - [21/Jul/2024:13:30:37 +0000] "POST /search?q=canned soup HTTP/1.1" 200 423
+67.20.59.226 - - [06/Aug/2024:04:47:52 +0000] "GET /checkout HTTP/1.1" 200 315
+188.49.89.213 - - [29/Jul/2024:04:36:46 +0000] "POST /search?q=cookies HTTP/1.1" 200 1160
+183.97.86.112 - - [27/Jul/2024:15:17:41 +0000] "GET /cart/add/lentils HTTP/1.1" 201 1484
+35.209.69.230 - - [01/Aug/2024:21:40:05 +0000] "POST /checkout HTTP/1.1" 200 1975
+167.242.1.237 - - [28/Jul/2024:12:34:41 +0000] "POST /checkout HTTP/1.1" 200 1485
+96.236.149.196 - - [18/Aug/2024:03:40:07 +0000] "POST /products?category=bakery HTTP/1.1" 200 1831
+248.15.167.65 - - [31/Jul/2024:14:12:25 +0000] "GET /products?category=bakery HTTP/1.1" 200 953
+215.134.133.255 - - [18/Aug/2024:04:11:18 +0000] "POST /products?category=dairy HTTP/1.1" 200 520
+45.129.4.206 - - [14/Aug/2024:04:33:32 +0000] "POST /checkout HTTP/1.1" 200 1044
+40.8.140.230 - - [30/Jul/2024:19:53:14 +0000] "GET /products?category=dairy HTTP/1.1" 200 877
+14.94.29.132 - - [04/Aug/2024:00:04:41 +0000] "GET /products/pizza.html HTTP/1.1" 200 1362
+247.255.120.155 - - [12/Aug/2024:12:59:43 +0000] "POST /checkout HTTP/1.1" 200 1166
+217.245.24.221 - - [03/Aug/2024:14:31:12 +0000] "GET /checkout HTTP/1.1" 200 1910
+16.3.181.184 - - [12/Aug/2024:09:22:49 +0000] "GET /products?category=fruit HTTP/1.1" 200 1860
+19.117.54.138 - - [19/Aug/2024:09:03:59 +0000] "GET /products?category=snack HTTP/1.1" 200 1671
+0.218.186.231 - - [27/Jul/2024:12:47:49 +0000] "POST /cart/add/beans HTTP/1.1" 201 1164
+56.185.232.75 - - [30/Jul/2024:00:46:37 +0000] "GET /search?q=chicken HTTP/1.1" 200 1295
+52.230.248.149 - - [15/Aug/2024:13:52:41 +0000] "GET /cart/add/croissants HTTP/1.1" 201 695
+204.68.36.243 - - [07/Aug/2024:16:27:08 +0000] "POST /products/canned beans.html HTTP/1.1" 200 1782
+220.180.247.72 - - [21/Jul/2024:13:36:53 +0000] "POST /products?category=snack HTTP/1.1" 200 1583
+49.106.164.78 - - [08/Aug/2024:20:08:51 +0000] "POST /checkout HTTP/1.1" 200 1219
+214.21.227.189 - - [09/Aug/2024:09:26:30 +0000] "GET /search?q=pasta HTTP/1.1" 200 393
+187.182.100.76 - - [11/Aug/2024:22:03:55 +0000] "POST /cart/add/fish HTTP/1.1" 201 1892
+245.53.175.36 - - [12/Aug/2024:05:18:01 +0000] "GET /search?q=cream cheese HTTP/1.1" 200 417
+174.241.141.154 - - [15/Aug/2024:17:39:50 +0000] "POST /search?q=cookies HTTP/1.1" 200 1876
+85.241.159.131 - - [14/Aug/2024:00:36:53 +0000] "GET /products/granola.html HTTP/1.1" 200 1649
+195.58.60.224 - - [10/Aug/2024:12:45:09 +0000] "GET /products/pita bread.html HTTP/1.1" 200 449
+202.19.33.12 - - [09/Aug/2024:14:19:30 +0000] "GET /cart/add/tortillas HTTP/1.1" 201 1084
+156.12.4.16 - - [14/Aug/2024:03:29:07 +0000] "GET /products/baking powder.html HTTP/1.1" 200 618
+191.67.93.35 - - [07/Aug/2024:11:04:14 +0000] "GET /cart/add/onion HTTP/1.1" 201 1521
+149.20.43.30 - - [04/Aug/2024:04:21:17 +0000] "GET /products/flour.html HTTP/1.1" 200 372
+141.249.88.208 - - [02/Aug/2024:21:53:59 +0000] "GET /checkout HTTP/1.1" 200 904
+42.151.235.238 - - [02/Aug/2024:19:33:29 +0000] "GET /products?category=dairy HTTP/1.1" 200 422
+191.67.57.212 - - [23/Jul/2024:05:34:10 +0000] "GET /search?q=canned soup HTTP/1.1" 200 1475
+177.108.82.219 - - [23/Jul/2024:04:26:48 +0000] "POST /products/tea.html HTTP/1.1" 200 462
+20.3.74.218 - - [22/Jul/2024:20:41:42 +0000] "GET /products?category=beverage HTTP/1.1" 200 1272
+168.217.178.43 - - [04/Aug/2024:22:32:30 +0000] "POST /products?category=snack HTTP/1.1" 200 753
+216.195.50.43 - - [09/Aug/2024:19:24:41 +0000] "GET /products/croutons.html HTTP/1.1" 200 1164
+209.20.125.39 - - [18/Aug/2024:07:06:00 +0000] "POST /products/fish.html HTTP/1.1" 200 1507
+21.24.235.73 - - [19/Aug/2024:12:32:45 +0000] "POST /products/pita bread.html HTTP/1.1" 200 1589
+76.192.197.198 - - [23/Jul/2024:04:38:57 +0000] "GET /checkout HTTP/1.1" 200 1154
+179.149.179.62 - - [05/Aug/2024:18:54:28 +0000] "GET /search?q=peppers HTTP/1.1" 200 981
+49.5.211.95 - - [20/Jul/2024:01:43:31 +0000] "GET /checkout HTTP/1.1" 200 871
+118.229.245.196 - - [18/Aug/2024:23:07:49 +0000] "POST /products?category=bakery HTTP/1.1" 200 873
+29.33.6.54 - - [28/Jul/2024:04:34:15 +0000] "POST /cart/add/canned beans HTTP/1.1" 201 1020
+201.7.218.84 - - [27/Jul/2024:03:01:24 +0000] "POST /products/energy bars.html HTTP/1.1" 200 633
+212.33.222.226 - - [10/Aug/2024:21:02:22 +0000] "POST /checkout HTTP/1.1" 200 1337
+90.242.206.54 - - [09/Aug/2024:09:04:46 +0000] "GET /products?category=beverage HTTP/1.1" 200 1852
+198.173.133.136 - - [11/Aug/2024:02:19:50 +0000] "POST /search?q=sour cream HTTP/1.1" 200 212
+182.255.244.95 - - [16/Aug/2024:15:46:25 +0000] "GET /checkout HTTP/1.1" 200 1224
+110.156.42.22 - - [10/Aug/2024:21:17:53 +0000] "POST /checkout HTTP/1.1" 200 1778
+221.166.214.146 - - [30/Jul/2024:12:34:05 +0000] "GET /checkout HTTP/1.1" 200 1170
+100.29.169.140 - - [13/Aug/2024:03:38:46 +0000] "GET /cart/add/cereal HTTP/1.1" 201 1092
+49.45.151.65 - - [11/Aug/2024:08:09:07 +0000] "POST /checkout HTTP/1.1" 200 975
+239.85.27.210 - - [07/Aug/2024:02:17:15 +0000] "GET /cart/add/dried fruit HTTP/1.1" 201 1420
+187.182.81.10 - - [19/Aug/2024:09:12:51 +0000] "GET /checkout HTTP/1.1" 200 1939
+171.103.118.189 - - [26/Jul/2024:15:50:18 +0000] "GET /checkout HTTP/1.1" 200 1383
+162.17.20.128 - - [20/Jul/2024:22:20:58 +0000] "GET /products?category=bakery HTTP/1.1" 200 370
+48.166.128.201 - - [05/Aug/2024:11:45:49 +0000] "POST /checkout HTTP/1.1" 200 1776
+67.25.112.255 - - [21/Jul/2024:22:45:52 +0000] "GET /checkout HTTP/1.1" 200 1780
+155.162.60.116 - - [07/Aug/2024:19:26:03 +0000] "POST /cart/add/canned soup HTTP/1.1" 201 1621
+234.9.150.162 - - [02/Aug/2024:15:08:50 +0000] "POST /cart/add/fish HTTP/1.1" 201 1878
+83.180.119.138 - - [06/Aug/2024:18:54:28 +0000] "POST /products/lettuce.html HTTP/1.1" 200 436
+146.196.41.236 - - [13/Aug/2024:14:34:54 +0000] "POST /cart/add/chips HTTP/1.1" 201 897
+215.135.244.54 - - [25/Jul/2024:15:20:47 +0000] "GET /products/flour.html HTTP/1.1" 200 614
+44.56.150.43 - - [13/Aug/2024:17:00:23 +0000] "GET /products/lettuce.html HTTP/1.1" 200 1194
+9.147.66.45 - - [12/Aug/2024:01:38:13 +0000] "POST /search?q=sesame oil HTTP/1.1" 200 1521
+83.112.51.50 - - [24/Jul/2024:23:06:35 +0000] "POST /checkout HTTP/1.1" 200 1665
+248.40.13.31 - - [08/Aug/2024:13:14:14 +0000] "POST /cart/add/tea HTTP/1.1" 201 572
+233.44.70.82 - - [29/Jul/2024:01:43:58 +0000] "POST /cart/add/chips HTTP/1.1" 201 250
+41.177.51.197 - - [14/Aug/2024:14:01:18 +0000] "GET /checkout HTTP/1.1" 200 439
+122.27.222.214 - - [17/Aug/2024:12:05:03 +0000] "POST /products/spaghetti sauce.html HTTP/1.1" 200 898
+32.40.106.58 - - [08/Aug/2024:18:42:29 +0000] "POST /search?q=trail mix HTTP/1.1" 200 1995
+41.84.75.59 - - [17/Aug/2024:22:52:24 +0000] "POST /cart/add/baking soda HTTP/1.1" 201 740
+40.149.156.72 - - [06/Aug/2024:00:44:35 +0000] "GET /products/lentils.html HTTP/1.1" 200 1276
+122.44.17.36 - - [09/Aug/2024:23:26:09 +0000] "GET /products/onion.html HTTP/1.1" 200 1135
+204.175.85.120 - - [27/Jul/2024:07:30:13 +0000] "POST /checkout HTTP/1.1" 200 955
+171.178.74.197 - - [18/Aug/2024:18:24:54 +0000] "GET /cart/add/croissants HTTP/1.1" 201 606
+1.200.167.1 - - [26/Jul/2024:08:16:18 +0000] "GET /checkout HTTP/1.1" 200 1217
+216.246.7.222 - - [11/Aug/2024:04:42:39 +0000] "POST /checkout HTTP/1.1" 200 1469
+27.96.184.92 - - [22/Jul/2024:20:01:04 +0000] "GET /search?q=granola HTTP/1.1" 200 313
+146.158.200.98 - - [23/Jul/2024:03:32:56 +0000] "GET /cart/add/tomato HTTP/1.1" 201 610
+80.233.217.207 - - [05/Aug/2024:13:58:55 +0000] "GET /checkout HTTP/1.1" 200 1571
+51.239.67.192 - - [31/Jul/2024:21:25:24 +0000] "POST /cart/add/mustard HTTP/1.1" 201 1539
+5.29.200.187 - - [02/Aug/2024:22:38:42 +0000] "GET /cart/add/mayonnaise HTTP/1.1" 201 891
+13.125.248.172 - - [27/Jul/2024:08:49:58 +0000] "GET /search?q=beans HTTP/1.1" 200 1514
+134.183.252.183 - - [29/Jul/2024:12:01:16 +0000] "GET /products/apple.html HTTP/1.1" 200 1366
+178.196.203.135 - - [02/Aug/2024:06:12:35 +0000] "POST /checkout HTTP/1.1" 200 1181
+79.14.98.98 - - [27/Jul/2024:01:47:06 +0000] "POST /cart/add/sour cream HTTP/1.1" 201 1425
+31.151.32.198 - - [03/Aug/2024:05:39:53 +0000] "GET /checkout HTTP/1.1" 200 527
+26.6.224.48 - - [25/Jul/2024:03:40:18 +0000] "POST /products/chicken.html HTTP/1.1" 200 1660
+148.246.229.161 - - [09/Aug/2024:10:31:20 +0000] "POST /products/bread.html HTTP/1.1" 200 1227
+98.206.14.25 - - [16/Aug/2024:12:19:21 +0000] "GET /cart/add/beef HTTP/1.1" 201 1032
+47.214.244.75 - - [11/Aug/2024:13:22:19 +0000] "GET /products/cream cheese.html HTTP/1.1" 200 823
+166.197.93.37 - - [05/Aug/2024:08:01:04 +0000] "POST /cart/add/spinach HTTP/1.1" 201 1874
+54.230.4.167 - - [20/Jul/2024:23:08:54 +0000] "POST /cart/add/vinegar HTTP/1.1" 201 746
+203.175.187.49 - - [03/Aug/2024:20:57:28 +0000] "POST /products?category=fruit HTTP/1.1" 200 253
+138.144.7.146 - - [04/Aug/2024:02:10:50 +0000] "GET /products/croutons.html HTTP/1.1" 200 1635
+250.190.70.227 - - [29/Jul/2024:16:02:51 +0000] "GET /products?category=fruit HTTP/1.1" 200 714
+46.89.134.204 - - [16/Aug/2024:12:08:53 +0000] "POST /cart/add/pita bread HTTP/1.1" 201 1807
+42.238.32.143 - - [01/Aug/2024:01:11:32 +0000] "POST /search?q=crackers HTTP/1.1" 200 418
+89.2.254.17 - - [24/Jul/2024:12:33:05 +0000] "POST /search?q=cream cheese HTTP/1.1" 200 758
+177.9.235.218 - - [29/Jul/2024:10:37:12 +0000] "POST /products?category=dairy HTTP/1.1" 200 965
+98.156.195.178 - - [25/Jul/2024:20:26:32 +0000] "POST /products/trail mix.html HTTP/1.1" 200 1238
+44.110.222.210 - - [13/Aug/2024:20:27:51 +0000] "POST /cart/add/peppers HTTP/1.1" 201 1684
+15.93.63.208 - - [10/Aug/2024:23:53:47 +0000] "POST /products/balsamic vinegar.html HTTP/1.1" 200 1102
+156.223.134.145 - - [10/Aug/2024:23:48:41 +0000] "POST /checkout HTTP/1.1" 200 966
+139.148.48.146 - - [08/Aug/2024:00:33:20 +0000] "GET /products/sugar.html HTTP/1.1" 200 942
+181.12.190.147 - - [04/Aug/2024:20:32:55 +0000] "POST /products/bread.html HTTP/1.1" 200 1342
+247.240.140.130 - - [12/Aug/2024:05:24:34 +0000] "GET /products?category=beverage HTTP/1.1" 200 1752
+25.144.107.201 - - [18/Aug/2024:13:21:48 +0000] "GET /search?q=tomato HTTP/1.1" 200 215
+63.126.39.30 - - [09/Aug/2024:15:37:03 +0000] "POST /search?q=frozen meat HTTP/1.1" 200 1781
+223.179.189.30 - - [11/Aug/2024:21:15:13 +0000] "GET /products/milk.html HTTP/1.1" 200 412
+15.56.98.177 - - [11/Aug/2024:18:41:21 +0000] "GET /search?q=egg HTTP/1.1" 200 220
+114.155.166.141 - - [14/Aug/2024:12:32:24 +0000] "POST /products?category=dairy HTTP/1.1" 200 370
+109.138.196.0 - - [13/Aug/2024:13:55:18 +0000] "POST /products/oatmeal.html HTTP/1.1" 200 1595
+33.174.241.46 - - [15/Aug/2024:21:19:44 +0000] "GET /cart/add/soup HTTP/1.1" 201 411
+248.255.6.66 - - [27/Jul/2024:17:19:46 +0000] "POST /search?q=baking soda HTTP/1.1" 200 407
+171.28.102.153 - - [21/Jul/2024:00:09:45 +0000] "GET /products/peppers.html HTTP/1.1" 200 1638
+171.207.105.107 - - [13/Aug/2024:23:17:39 +0000] "GET /products/honey.html HTTP/1.1" 200 1559
+32.41.214.136 - - [15/Aug/2024:12:14:14 +0000] "POST /products?category=fruit HTTP/1.1" 200 404
+118.24.233.173 - - [09/Aug/2024:13:28:04 +0000] "GET /products/cookies.html HTTP/1.1" 200 1293
+3.227.120.185 - - [07/Aug/2024:16:39:52 +0000] "GET /checkout HTTP/1.1" 200 576
+107.251.152.32 - - [19/Aug/2024:14:16:03 +0000] "POST /products/honey.html HTTP/1.1" 200 1826
+242.29.195.168 - - [21/Jul/2024:23:53:52 +0000] "POST /checkout HTTP/1.1" 200 474
+156.85.79.173 - - [27/Jul/2024:19:42:17 +0000] "POST /checkout HTTP/1.1" 200 1664
+149.182.241.210 - - [15/Aug/2024:05:03:49 +0000] "POST /search?q=olive oil HTTP/1.1" 200 931
+45.178.96.118 - - [30/Jul/2024:08:35:05 +0000] "POST /search?q=ice cream HTTP/1.1" 200 1941
+234.227.16.26 - - [29/Jul/2024:07:47:03 +0000] "POST /checkout HTTP/1.1" 200 1335
+165.6.216.67 - - [20/Jul/2024:06:59:00 +0000] "POST /checkout HTTP/1.1" 200 1983
+232.40.202.165 - - [06/Aug/2024:09:48:33 +0000] "GET /products/frozen meat.html HTTP/1.1" 200 967
+238.126.85.243 - - [26/Jul/2024:12:20:12 +0000] "GET /products/cake.html HTTP/1.1" 200 1979
+173.177.98.38 - - [21/Jul/2024:09:40:24 +0000] "POST /cart/add/orange HTTP/1.1" 201 231
+16.137.197.218 - - [11/Aug/2024:23:30:58 +0000] "POST /products?category=beverage HTTP/1.1" 200 938
+64.196.86.75 - - [25/Jul/2024:04:06:11 +0000] "GET /search?q=granola HTTP/1.1" 200 284
+205.21.38.68 - - [28/Jul/2024:07:39:36 +0000] "GET /products?category=snack HTTP/1.1" 200 807
+5.29.174.12 - - [22/Jul/2024:23:26:28 +0000] "POST /checkout HTTP/1.1" 200 1283
+84.209.167.78 - - [04/Aug/2024:04:43:05 +0000] "GET /checkout HTTP/1.1" 200 731
+161.1.189.150 - - [04/Aug/2024:20:43:23 +0000] "POST /products/frozen meat.html HTTP/1.1" 200 902
+96.152.114.4 - - [22/Jul/2024:07:29:38 +0000] "GET /search?q=canned beans HTTP/1.1" 200 1818
+30.130.42.119 - - [23/Jul/2024:15:57:42 +0000] "POST /cart/add/cereal HTTP/1.1" 201 1488
+130.31.245.245 - - [09/Aug/2024:20:29:33 +0000] "POST /cart/add/onion HTTP/1.1" 201 1791
+191.244.133.24 - - [30/Jul/2024:03:51:28 +0000] "GET /products/tomato.html HTTP/1.1" 200 981
+147.226.50.20 - - [15/Aug/2024:00:24:31 +0000] "GET /search?q=baking powder HTTP/1.1" 200 731
+160.146.236.158 - - [02/Aug/2024:20:23:32 +0000] "GET /products/mushrooms.html HTTP/1.1" 200 323
+220.140.41.238 - - [23/Jul/2024:01:59:04 +0000] "POST /search?q=frozen fruit HTTP/1.1" 200 1227
+120.135.227.233 - - [19/Aug/2024:05:09:17 +0000] "GET /checkout HTTP/1.1" 200 352
+249.194.21.216 - - [14/Aug/2024:16:35:50 +0000] "GET /products?category=snack HTTP/1.1" 200 518
+224.173.232.139 - - [07/Aug/2024:18:57:52 +0000] "GET /products/canned tomatoes.html HTTP/1.1" 200 1800
+9.128.153.160 - - [08/Aug/2024:18:55:46 +0000] "GET /products/chips.html HTTP/1.1" 200 753
+85.118.111.104 - - [24/Jul/2024:09:13:47 +0000] "POST /products?category=fruit HTTP/1.1" 200 1129
+235.190.133.183 - - [25/Jul/2024:18:54:25 +0000] "POST /products/ketchup.html HTTP/1.1" 200 1052
+56.116.171.12 - - [10/Aug/2024:11:11:54 +0000] "GET /search?q=mushrooms HTTP/1.1" 200 271
+83.148.22.152 - - [22/Jul/2024:20:12:04 +0000] "GET /search?q=chocolate HTTP/1.1" 200 588
+134.108.166.175 - - [08/Aug/2024:00:30:46 +0000] "GET /checkout HTTP/1.1" 200 1891
+152.244.133.1 - - [11/Aug/2024:03:37:44 +0000] "GET /search?q=onion HTTP/1.1" 200 1053
+72.251.14.1 - - [29/Jul/2024:17:53:53 +0000] "GET /search?q=cheese HTTP/1.1" 200 975
+252.55.101.72 - - [22/Jul/2024:19:34:54 +0000] "GET /search?q=cucumber HTTP/1.1" 200 666
+243.75.57.32 - - [26/Jul/2024:20:50:33 +0000] "POST /cart/add/butter HTTP/1.1" 201 1148
+47.99.20.123 - - [05/Aug/2024:07:02:51 +0000] "POST /checkout HTTP/1.1" 200 1507
+212.37.135.63 - - [03/Aug/2024:18:44:30 +0000] "GET /products?category=fruit HTTP/1.1" 200 1225
+42.25.185.152 - - [04/Aug/2024:16:20:14 +0000] "GET /search?q=mustard HTTP/1.1" 200 1943
+79.93.144.22 - - [14/Aug/2024:18:16:42 +0000] "GET /products?category=fruit HTTP/1.1" 200 1081
+91.6.5.241 - - [19/Aug/2024:04:43:51 +0000] "POST /search?q=honey HTTP/1.1" 200 1066
+19.119.131.64 - - [30/Jul/2024:19:21:46 +0000] "GET /search?q=butter HTTP/1.1" 200 546
+93.187.16.180 - - [06/Aug/2024:18:01:44 +0000] "GET /products/rice vinegar.html HTTP/1.1" 200 849
+201.15.149.34 - - [31/Jul/2024:05:28:37 +0000] "GET /cart/add/energy bars HTTP/1.1" 201 845
+85.122.138.11 - - [09/Aug/2024:18:03:24 +0000] "POST /products/pepper.html HTTP/1.1" 200 490
+27.160.54.123 - - [26/Jul/2024:01:06:18 +0000] "GET /checkout HTTP/1.1" 200 476
+77.141.141.18 - - [18/Aug/2024:17:35:22 +0000] "POST /search?q=soy sauce HTTP/1.1" 200 739
+236.1.203.83 - - [02/Aug/2024:21:26:30 +0000] "GET /cart/add/croutons HTTP/1.1" 201 1745
+255.157.190.232 - - [17/Aug/2024:01:31:07 +0000] "GET /products/buttermilk.html HTTP/1.1" 200 572
+175.166.10.230 - - [31/Jul/2024:14:02:25 +0000] "GET /search?q=mayonnaise HTTP/1.1" 200 1476
+140.97.208.240 - - [25/Jul/2024:19:18:30 +0000] "GET /search?q=sugar HTTP/1.1" 200 991
+248.173.208.46 - - [09/Aug/2024:08:59:28 +0000] "GET /search?q=cucumber HTTP/1.1" 200 234
+177.25.64.99 - - [24/Jul/2024:16:21:19 +0000] "GET /products?category=fruit HTTP/1.1" 200 1597
+234.55.184.106 - - [19/Aug/2024:10:06:00 +0000] "GET /cart/add/butter HTTP/1.1" 201 906
+135.168.95.212 - - [12/Aug/2024:23:32:23 +0000] "POST /products?category=snack HTTP/1.1" 200 1566
+250.2.78.125 - - [04/Aug/2024:17:41:39 +0000] "POST /search?q=canned tomatoes HTTP/1.1" 200 1908
+49.101.62.25 - - [12/Aug/2024:16:09:50 +0000] "GET /products/spinach.html HTTP/1.1" 200 897
+94.52.115.164 - - [08/Aug/2024:05:15:18 +0000] "POST /search?q=yogurt HTTP/1.1" 200 1596
+143.221.192.161 - - [17/Aug/2024:11:03:51 +0000] "POST /products?category=bakery HTTP/1.1" 200 1350
+98.59.221.147 - - [03/Aug/2024:05:25:20 +0000] "POST /products?category=bakery HTTP/1.1" 200 1697
+194.93.182.4 - - [05/Aug/2024:12:23:31 +0000] "GET /products/apple.html HTTP/1.1" 200 409
+179.163.56.51 - - [29/Jul/2024:23:27:03 +0000] "GET /products?category=fruit HTTP/1.1" 200 1874
+41.62.213.164 - - [30/Jul/2024:14:44:43 +0000] "POST /products?category=dairy HTTP/1.1" 200 1201
+249.226.69.10 - - [29/Jul/2024:19:45:18 +0000] "POST /cart/add/croissants HTTP/1.1" 201 253
+243.133.2.254 - - [02/Aug/2024:12:47:16 +0000] "POST /products?category=beverage HTTP/1.1" 200 1033
+75.89.101.213 - - [26/Jul/2024:07:43:37 +0000] "POST /products/peanut butter.html HTTP/1.1" 200 584
+176.82.145.217 - - [16/Aug/2024:20:03:37 +0000] "GET /products?category=bakery HTTP/1.1" 200 1336
+94.233.103.45 - - [25/Jul/2024:07:49:30 +0000] "POST /cart/add/peppers HTTP/1.1" 201 1288
+222.91.16.27 - - [31/Jul/2024:10:43:51 +0000] "POST /products?category=fruit HTTP/1.1" 200 435
+12.127.203.188 - - [21/Jul/2024:06:51:07 +0000] "POST /checkout HTTP/1.1" 200 1681
+20.129.134.156 - - [31/Jul/2024:12:13:10 +0000] "GET /products?category=snack HTTP/1.1" 200 1592
+18.87.184.213 - - [08/Aug/2024:19:36:29 +0000] "POST /search?q=bread HTTP/1.1" 200 787
+117.165.40.173 - - [15/Aug/2024:18:02:20 +0000] "POST /products/tea.html HTTP/1.1" 200 798
+192.181.22.196 - - [02/Aug/2024:09:36:11 +0000] "POST /cart/add/vinegar HTTP/1.1" 201 1372
+79.38.113.30 - - [13/Aug/2024:15:23:55 +0000] "POST /checkout HTTP/1.1" 200 629
+33.94.147.251 - - [16/Aug/2024:07:27:10 +0000] "POST /cart/add/balsamic vinegar HTTP/1.1" 201 533
+200.171.27.58 - - [10/Aug/2024:07:45:46 +0000] "GET /checkout HTTP/1.1" 200 1411
+41.31.241.216 - - [31/Jul/2024:00:14:44 +0000] "GET /cart/add/energy bars HTTP/1.1" 201 1491
+71.45.233.120 - - [10/Aug/2024:22:34:22 +0000] "POST /products?category=beverage HTTP/1.1" 200 1021
+246.46.126.89 - - [11/Aug/2024:22:58:22 +0000] "GET /products/frozen vegetables.html HTTP/1.1" 200 1881
+86.79.6.103 - - [26/Jul/2024:17:21:17 +0000] "GET /checkout HTTP/1.1" 200 902
+61.48.0.190 - - [20/Jul/2024:13:40:24 +0000] "POST /products?category=beverage HTTP/1.1" 200 1665
+66.70.235.242 - - [15/Aug/2024:08:14:15 +0000] "GET /cart/add/trail mix HTTP/1.1" 201 1353
+9.208.13.4 - - [23/Jul/2024:13:49:44 +0000] "GET /checkout HTTP/1.1" 200 1478
+69.116.177.2 - - [30/Jul/2024:14:34:49 +0000] "POST /checkout HTTP/1.1" 200 1161
+127.121.111.1 - - [21/Jul/2024:07:38:41 +0000] "GET /checkout HTTP/1.1" 200 1872
+20.217.204.199 - - [29/Jul/2024:09:50:49 +0000] "GET /products?category=fruit HTTP/1.1" 200 819
+176.155.11.26 - - [27/Jul/2024:11:17:35 +0000] "POST /checkout HTTP/1.1" 200 1754
+208.65.72.231 - - [10/Aug/2024:07:51:50 +0000] "POST /products/canned soup.html HTTP/1.1" 200 1780
+149.84.99.34 - - [23/Jul/2024:06:28:45 +0000] "GET /cart/add/cake HTTP/1.1" 201 725
+175.233.198.115 - - [06/Aug/2024:14:26:01 +0000] "GET /search?q=peanut butter HTTP/1.1" 200 1482
+116.242.29.88 - - [03/Aug/2024:22:37:56 +0000] "POST /products?category=bakery HTTP/1.1" 200 474
+119.223.57.3 - - [21/Jul/2024:12:04:15 +0000] "GET /products/canned beans.html HTTP/1.1" 200 968
+82.113.122.128 - - [28/Jul/2024:05:50:59 +0000] "POST /products/vinegar.html HTTP/1.1" 200 491
+235.189.97.222 - - [24/Jul/2024:02:10:26 +0000] "POST /products/salt.html HTTP/1.1" 200 620
+210.154.43.251 - - [30/Jul/2024:22:48:44 +0000] "POST /products/cream cheese.html HTTP/1.1" 200 1746
+113.127.98.47 - - [14/Aug/2024:01:58:50 +0000] "POST /products?category=snack HTTP/1.1" 200 679
+236.232.51.12 - - [02/Aug/2024:06:26:00 +0000] "POST /products/canned beans.html HTTP/1.1" 200 1921
+63.133.11.222 - - [09/Aug/2024:14:56:12 +0000] "POST /products?category=bakery HTTP/1.1" 200 432
+196.18.26.250 - - [18/Aug/2024:00:52:42 +0000] "POST /checkout HTTP/1.1" 200 1334
+83.26.199.63 - - [18/Aug/2024:09:28:16 +0000] "GET /products/fish.html HTTP/1.1" 200 1879
+186.30.37.194 - - [14/Aug/2024:04:30:45 +0000] "POST /checkout HTTP/1.1" 200 1553
+84.157.135.66 - - [31/Jul/2024:18:01:49 +0000] "GET /search?q=baking soda HTTP/1.1" 200 1343
+255.26.145.159 - - [27/Jul/2024:01:19:29 +0000] "GET /products/peppers.html HTTP/1.1" 200 1716
+151.239.176.193 - - [26/Jul/2024:19:14:29 +0000] "POST /search?q=spinach HTTP/1.1" 200 444
+88.255.115.173 - - [03/Aug/2024:16:49:17 +0000] "GET /products/milk.html HTTP/1.1" 200 1239
+96.143.235.155 - - [03/Aug/2024:17:07:26 +0000] "GET /search?q=frozen meat HTTP/1.1" 200 1336
+118.154.50.182 - - [06/Aug/2024:19:48:18 +0000] "GET /products/peanut butter.html HTTP/1.1" 200 940
+81.115.118.41 - - [07/Aug/2024:12:12:54 +0000] "GET /search?q=baking soda HTTP/1.1" 200 1613
+195.8.113.8 - - [06/Aug/2024:12:25:20 +0000] "POST /cart/add/cookies HTTP/1.1" 201 1214
+1.153.178.60 - - [15/Aug/2024:14:46:45 +0000] "GET /cart/add/pasta HTTP/1.1" 201 1949
+113.117.81.98 - - [05/Aug/2024:18:36:48 +0000] "POST /products/pita bread.html HTTP/1.1" 200 1530
+178.35.150.252 - - [30/Jul/2024:06:44:48 +0000] "GET /checkout HTTP/1.1" 200 1932
+228.126.43.13 - - [09/Aug/2024:20:32:37 +0000] "GET /products?category=snack HTTP/1.1" 200 1468
+154.244.23.187 - - [06/Aug/2024:02:07:23 +0000] "POST /search?q=canned soup HTTP/1.1" 200 1734
+21.155.110.195 - - [25/Jul/2024:14:33:37 +0000] "POST /cart/add/nuts HTTP/1.1" 201 1788
+134.77.121.125 - - [28/Jul/2024:12:32:03 +0000] "GET /checkout HTTP/1.1" 200 1908
+191.99.123.120 - - [11/Aug/2024:03:33:56 +0000] "POST /products/spaghetti sauce.html HTTP/1.1" 200 363
+138.130.131.12 - - [25/Jul/2024:18:33:28 +0000] "GET /products/sour cream.html HTTP/1.1" 200 489
+198.44.217.209 - - [08/Aug/2024:00:38:52 +0000] "GET /search?q=canned soup HTTP/1.1" 200 936
+135.170.178.149 - - [17/Aug/2024:01:09:04 +0000] "GET /products?category=fruit HTTP/1.1" 200 435
+137.128.74.65 - - [16/Aug/2024:02:03:04 +0000] "GET /products/canned soup.html HTTP/1.1" 200 748
+97.148.91.224 - - [21/Jul/2024:21:29:06 +0000] "GET /cart/add/energy bars HTTP/1.1" 201 1370
+227.254.147.128 - - [04/Aug/2024:20:51:02 +0000] "POST /cart/add/cookies HTTP/1.1" 201 445
+19.40.72.200 - - [27/Jul/2024:01:01:17 +0000] "GET /products?category=beverage HTTP/1.1" 200 674
+26.80.153.114 - - [12/Aug/2024:00:35:27 +0000] "POST /products/trail mix.html HTTP/1.1" 200 819
+152.158.126.15 - - [02/Aug/2024:04:54:09 +0000] "POST /search?q=vinegar HTTP/1.1" 200 1713
+216.138.213.229 - - [12/Aug/2024:09:35:02 +0000] "GET /search?q=olive oil HTTP/1.1" 200 501
+0.131.198.158 - - [11/Aug/2024:08:11:09 +0000] "POST /checkout HTTP/1.1" 200 1011
+32.25.239.177 - - [15/Aug/2024:11:57:14 +0000] "POST /products?category=dairy HTTP/1.1" 200 1894
+202.192.199.19 - - [31/Jul/2024:02:15:39 +0000] "POST /products?category=dairy HTTP/1.1" 200 890
+153.178.108.61 - - [01/Aug/2024:06:49:06 +0000] "GET /products?category=dairy HTTP/1.1" 200 355
+179.152.214.86 - - [07/Aug/2024:05:16:48 +0000] "GET /cart/add/bagels HTTP/1.1" 201 859
+203.248.150.144 - - [06/Aug/2024:04:13:20 +0000] "GET /products/tomato.html HTTP/1.1" 200 453
+43.189.161.52 - - [06/Aug/2024:16:11:33 +0000] "POST /products?category=bakery HTTP/1.1" 200 1659
+104.0.220.34 - - [10/Aug/2024:02:52:14 +0000] "GET /products?category=fruit HTTP/1.1" 200 1278
+23.152.192.86 - - [11/Aug/2024:06:21:30 +0000] "GET /checkout HTTP/1.1" 200 1515
+213.187.150.255 - - [21/Jul/2024:18:53:19 +0000] "POST /products/milk.html HTTP/1.1" 200 1894
+66.216.215.1 - - [27/Jul/2024:03:18:40 +0000] "GET /cart/add/pita bread HTTP/1.1" 201 1029
+71.18.152.165 - - [26/Jul/2024:00:19:28 +0000] "GET /cart/add/chocolate HTTP/1.1" 201 1343
+116.19.120.226 - - [17/Aug/2024:11:03:59 +0000] "POST /search?q=ice cream HTTP/1.1" 200 397
+18.232.180.204 - - [29/Jul/2024:17:55:16 +0000] "POST /products/frozen meat.html HTTP/1.1" 200 792
+85.136.54.149 - - [31/Jul/2024:21:09:57 +0000] "GET /cart/add/muffins HTTP/1.1" 201 1705
+66.101.206.83 - - [11/Aug/2024:11:28:37 +0000] "GET /products/chocolate.html HTTP/1.1" 200 1288
+186.154.239.36 - - [23/Jul/2024:17:49:46 +0000] "POST /products/tea.html HTTP/1.1" 200 1204
+159.150.18.83 - - [21/Jul/2024:21:47:58 +0000] "GET /products?category=snack HTTP/1.1" 200 1105
+96.249.108.111 - - [08/Aug/2024:22:14:47 +0000] "GET /cart/add/baking soda HTTP/1.1" 201 1809
+13.93.234.126 - - [31/Jul/2024:15:13:30 +0000] "GET /checkout HTTP/1.1" 200 663
+222.78.186.55 - - [05/Aug/2024:14:58:07 +0000] "GET /cart/add/cereal HTTP/1.1" 201 892
+196.114.43.176 - - [15/Aug/2024:12:36:33 +0000] "GET /cart/add/canned soup HTTP/1.1" 201 890
+62.88.9.91 - - [08/Aug/2024:00:00:39 +0000] "GET /search?q=coffee HTTP/1.1" 200 1030
+172.166.68.80 - - [01/Aug/2024:00:06:50 +0000] "POST /search?q=canned soup HTTP/1.1" 200 1400
+157.108.187.79 - - [18/Aug/2024:16:42:52 +0000] "POST /search?q=fish HTTP/1.1" 200 1692
+26.26.213.252 - - [15/Aug/2024:07:07:32 +0000] "GET /products/soy sauce.html HTTP/1.1" 200 878
+199.200.61.131 - - [09/Aug/2024:22:59:48 +0000] "GET /products/tomato.html HTTP/1.1" 200 1535
+188.31.160.43 - - [18/Aug/2024:07:59:10 +0000] "POST /search?q=baking soda HTTP/1.1" 200 1504
+177.154.52.185 - - [04/Aug/2024:09:40:41 +0000] "GET /products?category=beverage HTTP/1.1" 200 1728
+223.183.39.57 - - [18/Aug/2024:12:57:11 +0000] "POST /products?category=snack HTTP/1.1" 200 493
+61.245.210.28 - - [12/Aug/2024:09:02:15 +0000] "POST /search?q=apple HTTP/1.1" 200 1482
+4.162.204.242 - - [15/Aug/2024:02:06:33 +0000] "POST /cart/add/cookies HTTP/1.1" 201 1536
+102.236.68.90 - - [12/Aug/2024:02:28:23 +0000] "GET /checkout HTTP/1.1" 200 499
+221.12.72.48 - - [13/Aug/2024:12:49:17 +0000] "GET /products?category=beverage HTTP/1.1" 200 1395
+73.66.17.34 - - [25/Jul/2024:21:36:02 +0000] "POST /products/frozen vegetables.html HTTP/1.1" 200 1397
+195.104.113.59 - - [09/Aug/2024:14:33:37 +0000] "GET /products/lentils.html HTTP/1.1" 200 1498
+29.51.86.53 - - [30/Jul/2024:18:52:15 +0000] "GET /checkout HTTP/1.1" 200 1998
+167.209.70.107 - - [21/Jul/2024:23:05:38 +0000] "POST /search?q=croissants HTTP/1.1" 200 1070
+84.142.232.232 - - [03/Aug/2024:21:42:11 +0000] "POST /search?q=jam HTTP/1.1" 200 1642
+149.105.21.8 - - [27/Jul/2024:00:52:09 +0000] "GET /search?q=balsamic vinegar HTTP/1.1" 200 636
+81.45.104.1 - - [23/Jul/2024:21:59:24 +0000] "POST /search?q=canned soup HTTP/1.1" 200 1812
+244.114.225.233 - - [25/Jul/2024:22:53:17 +0000] "POST /products/beef.html HTTP/1.1" 200 826
+77.118.6.207 - - [23/Jul/2024:04:28:24 +0000] "POST /cart/add/mayonnaise HTTP/1.1" 201 343
+10.99.234.3 - - [28/Jul/2024:23:45:20 +0000] "POST /cart/add/tortillas HTTP/1.1" 201 1005
+158.205.208.133 - - [23/Jul/2024:23:57:45 +0000] "GET /products?category=beverage HTTP/1.1" 200 1282
+240.204.143.38 - - [18/Aug/2024:16:34:44 +0000] "POST /products/nuts.html HTTP/1.1" 200 1228
+224.146.227.61 - - [04/Aug/2024:06:01:13 +0000] "POST /products/sour cream.html HTTP/1.1" 200 331
+33.178.244.53 - - [22/Jul/2024:12:19:57 +0000] "POST /cart/add/chicken HTTP/1.1" 201 1556
+226.191.106.40 - - [09/Aug/2024:14:38:53 +0000] "GET /checkout HTTP/1.1" 200 1368
+55.90.244.232 - - [01/Aug/2024:23:20:13 +0000] "GET /checkout HTTP/1.1" 200 933
+8.115.65.235 - - [04/Aug/2024:08:37:10 +0000] "POST /search?q=fish HTTP/1.1" 200 264
+164.191.4.164 - - [10/Aug/2024:03:50:42 +0000] "GET /cart/add/tortillas HTTP/1.1" 201 991
+195.33.209.58 - - [02/Aug/2024:13:05:36 +0000] "POST /cart/add/frozen meat HTTP/1.1" 201 1970
+29.26.100.86 - - [16/Aug/2024:09:45:33 +0000] "GET /products?category=bakery HTTP/1.1" 200 869
+175.26.245.143 - - [13/Aug/2024:20:53:03 +0000] "POST /search?q=olive oil HTTP/1.1" 200 1379
+121.200.66.87 - - [07/Aug/2024:02:15:50 +0000] "POST /search?q=cake HTTP/1.1" 200 325
+113.121.211.239 - - [26/Jul/2024:05:37:00 +0000] "GET /cart/add/croissants HTTP/1.1" 201 1617
+244.150.201.236 - - [08/Aug/2024:23:36:48 +0000] "GET /checkout HTTP/1.1" 200 324
+160.173.65.166 - - [21/Jul/2024:13:36:16 +0000] "GET /cart/add/egg HTTP/1.1" 201 1703
+128.152.238.16 - - [27/Jul/2024:19:30:44 +0000] "POST /checkout HTTP/1.1" 200 1730
+23.79.224.109 - - [02/Aug/2024:20:37:49 +0000] "POST /search?q=bread HTTP/1.1" 200 1285
+168.124.158.27 - - [19/Aug/2024:03:29:29 +0000] "GET /products?category=beverage HTTP/1.1" 200 722
+183.120.144.30 - - [18/Aug/2024:16:51:56 +0000] "POST /checkout HTTP/1.1" 200 1931
+150.182.179.180 - - [31/Jul/2024:18:59:47 +0000] "POST /products/tea.html HTTP/1.1" 200 1335
+139.31.94.90 - - [15/Aug/2024:02:51:58 +0000] "POST /cart/add/beef HTTP/1.1" 201 1545
+191.33.220.162 - - [17/Aug/2024:11:05:59 +0000] "GET /products?category=bakery HTTP/1.1" 200 1543
+221.41.98.64 - - [03/Aug/2024:12:59:23 +0000] "POST /cart/add/mushrooms HTTP/1.1" 201 1267
+116.88.211.252 - - [27/Jul/2024:13:09:52 +0000] "GET /products/rice vinegar.html HTTP/1.1" 200 396
+164.39.135.76 - - [02/Aug/2024:00:32:11 +0000] "GET /products/canned beans.html HTTP/1.1" 200 595
+35.233.224.210 - - [22/Jul/2024:22:01:04 +0000] "GET /products/sour cream.html HTTP/1.1" 200 380
+10.35.96.136 - - [18/Aug/2024:16:11:02 +0000] "GET /search?q=egg HTTP/1.1" 200 1847
+235.95.124.90 - - [24/Jul/2024:15:38:05 +0000] "GET /checkout HTTP/1.1" 200 1204
+170.206.43.125 - - [23/Jul/2024:22:11:13 +0000] "POST /search?q=potato HTTP/1.1" 200 1537
+205.83.76.39 - - [11/Aug/2024:05:23:01 +0000] "POST /products/rice vinegar.html HTTP/1.1" 200 1829
+251.138.250.230 - - [13/Aug/2024:09:27:03 +0000] "GET /products?category=dairy HTTP/1.1" 200 984
+123.94.143.175 - - [28/Jul/2024:18:30:05 +0000] "GET /products?category=bakery HTTP/1.1" 200 1727
+123.113.96.190 - - [05/Aug/2024:09:39:00 +0000] "POST /cart/add/peppers HTTP/1.1" 201 919
+242.213.110.17 - - [06/Aug/2024:00:01:29 +0000] "POST /checkout HTTP/1.1" 200 347
+255.154.233.42 - - [06/Aug/2024:17:14:28 +0000] "GET /search?q=dried fruit HTTP/1.1" 200 306
+59.128.142.181 - - [07/Aug/2024:02:51:29 +0000] "POST /products?category=bakery HTTP/1.1" 200 1805
+188.20.95.43 - - [30/Jul/2024:02:01:50 +0000] "GET /products/oatmeal.html HTTP/1.1" 200 1350
+148.154.19.33 - - [06/Aug/2024:11:35:12 +0000] "POST /products/baking powder.html HTTP/1.1" 200 1952
+171.162.76.88 - - [03/Aug/2024:22:23:35 +0000] "GET /search?q=baking powder HTTP/1.1" 200 1891
+114.198.27.201 - - [25/Jul/2024:17:30:00 +0000] "POST /checkout HTTP/1.1" 200 377
+58.85.226.151 - - [19/Aug/2024:20:30:28 +0000] "POST /search?q=buttermilk HTTP/1.1" 200 1367
+51.232.47.144 - - [20/Jul/2024:09:07:07 +0000] "GET /products?category=dairy HTTP/1.1" 200 1897
+40.212.86.249 - - [30/Jul/2024:13:00:49 +0000] "POST /products/cheese.html HTTP/1.1" 200 1269
+21.73.150.51 - - [08/Aug/2024:12:24:11 +0000] "GET /products?category=fruit HTTP/1.1" 200 402
+111.152.227.209 - - [22/Jul/2024:02:26:52 +0000] "POST /cart/add/cream cheese HTTP/1.1" 201 812
+227.55.217.6 - - [17/Aug/2024:12:41:01 +0000] "GET /cart/add/soy sauce HTTP/1.1" 201 252
+3.12.199.6 - - [29/Jul/2024:21:57:28 +0000] "POST /search?q=pasta HTTP/1.1" 200 1600
+246.129.37.248 - - [05/Aug/2024:23:01:35 +0000] "POST /cart/add/beans HTTP/1.1" 201 1669
+30.134.153.126 - - [28/Jul/2024:10:18:01 +0000] "GET /cart/add/peanut butter HTTP/1.1" 201 1620
+210.124.144.59 - - [09/Aug/2024:02:56:52 +0000] "POST /products?category=fruit HTTP/1.1" 200 966
+24.9.246.156 - - [14/Aug/2024:17:58:59 +0000] "POST /cart/add/lettuce HTTP/1.1" 201 1397
+165.144.93.230 - - [04/Aug/2024:08:45:39 +0000] "GET /search?q=orange HTTP/1.1" 200 791
+13.172.204.164 - - [01/Aug/2024:00:05:02 +0000] "POST /products/chips.html HTTP/1.1" 200 1082
+23.175.237.146 - - [22/Jul/2024:01:11:56 +0000] "POST /products/sesame oil.html HTTP/1.1" 200 825
+161.157.134.130 - - [02/Aug/2024:02:30:42 +0000] "POST /search?q=spinach HTTP/1.1" 200 1703
+230.104.236.8 - - [12/Aug/2024:02:45:57 +0000] "GET /cart/add/cereal HTTP/1.1" 201 723
+168.16.9.83 - - [27/Jul/2024:04:11:44 +0000] "GET /search?q=spaghetti sauce HTTP/1.1" 200 1074
+161.142.197.73 - - [24/Jul/2024:14:04:14 +0000] "POST /cart/add/ice cream HTTP/1.1" 201 373
+156.18.110.145 - - [18/Aug/2024:11:58:57 +0000] "GET /cart/add/chips HTTP/1.1" 201 341
+24.39.54.197 - - [28/Jul/2024:02:15:31 +0000] "GET /checkout HTTP/1.1" 200 255
+166.245.192.143 - - [18/Aug/2024:10:15:31 +0000] "GET /checkout HTTP/1.1" 200 717
+59.197.224.4 - - [22/Jul/2024:19:21:26 +0000] "GET /search?q=soy sauce HTTP/1.1" 200 1716
+237.64.157.0 - - [31/Jul/2024:04:18:22 +0000] "POST /cart/add/pepper HTTP/1.1" 201 781
+100.200.247.188 - - [06/Aug/2024:20:08:46 +0000] "POST /checkout HTTP/1.1" 200 786
+2.186.5.21 - - [01/Aug/2024:06:18:48 +0000] "GET /cart/add/lettuce HTTP/1.1" 201 1952
+161.89.207.38 - - [24/Jul/2024:14:03:52 +0000] "POST /checkout HTTP/1.1" 200 1047
+16.186.71.77 - - [10/Aug/2024:09:23:19 +0000] "POST /products/potato.html HTTP/1.1" 200 1277
+168.49.62.12 - - [25/Jul/2024:17:00:49 +0000] "POST /products/peppers.html HTTP/1.1" 200 1229
+17.6.214.118 - - [31/Jul/2024:04:55:42 +0000] "POST /checkout HTTP/1.1" 200 601
+223.33.197.167 - - [22/Jul/2024:01:44:01 +0000] "POST /cart/add/chips HTTP/1.1" 201 361
+22.13.163.206 - - [30/Jul/2024:09:24:30 +0000] "GET /products/pepper.html HTTP/1.1" 200 416
+9.234.115.242 - - [20/Jul/2024:22:39:03 +0000] "POST /search?q=flour HTTP/1.1" 200 938
+170.66.136.122 - - [04/Aug/2024:13:38:10 +0000] "GET /search?q=rice vinegar HTTP/1.1" 200 1983
+176.49.138.174 - - [25/Jul/2024:19:24:51 +0000] "POST /products?category=dairy HTTP/1.1" 200 422
+62.171.225.55 - - [15/Aug/2024:01:18:54 +0000] "GET /checkout HTTP/1.1" 200 1967
+118.169.172.7 - - [08/Aug/2024:17:07:48 +0000] "GET /products/canned soup.html HTTP/1.1" 200 1860
+35.207.28.175 - - [13/Aug/2024:20:13:31 +0000] "POST /search?q=oil HTTP/1.1" 200 819
+229.88.130.52 - - [18/Aug/2024:22:01:11 +0000] "GET /products/lentils.html HTTP/1.1" 200 1262
+19.42.64.95 - - [18/Aug/2024:19:22:57 +0000] "GET /checkout HTTP/1.1" 200 489
+184.33.232.10 - - [21/Jul/2024:11:00:28 +0000] "POST /cart/add/mushrooms HTTP/1.1" 201 865
+91.229.170.214 - - [08/Aug/2024:19:23:47 +0000] "POST /products/onion.html HTTP/1.1" 200 993
+114.227.132.64 - - [04/Aug/2024:10:37:36 +0000] "GET /search?q=milk HTTP/1.1" 200 1244
+180.87.223.13 - - [06/Aug/2024:04:30:01 +0000] "POST /search?q=frozen vegetables HTTP/1.1" 200 1214
+71.199.249.140 - - [28/Jul/2024:19:50:30 +0000] "POST /products/canned soup.html HTTP/1.1" 200 503
+63.240.208.20 - - [20/Jul/2024:23:35:26 +0000] "GET /products?category=bakery HTTP/1.1" 200 1906
+29.150.128.108 - - [06/Aug/2024:00:11:26 +0000] "GET /checkout HTTP/1.1" 200 1829
+63.34.198.168 - - [08/Aug/2024:05:33:01 +0000] "POST /checkout HTTP/1.1" 200 1843
+111.4.161.76 - - [30/Jul/2024:18:43:40 +0000] "POST /search?q=frozen meat HTTP/1.1" 200 1933
+201.13.23.97 - - [29/Jul/2024:07:36:05 +0000] "GET /search?q=tomato HTTP/1.1" 200 1941
+79.88.229.19 - - [19/Aug/2024:09:47:10 +0000] "GET /cart/add/canned soup HTTP/1.1" 201 1770
+178.103.137.75 - - [09/Aug/2024:18:42:07 +0000] "GET /cart/add/salt HTTP/1.1" 201 333
+76.109.1.181 - - [29/Jul/2024:10:28:45 +0000] "POST /products/cookies.html HTTP/1.1" 200 315
+229.28.158.152 - - [28/Jul/2024:08:21:01 +0000] "POST /products?category=beverage HTTP/1.1" 200 531
+54.217.54.166 - - [05/Aug/2024:02:41:19 +0000] "GET /products/banana.html HTTP/1.1" 200 761
+246.159.153.211 - - [16/Aug/2024:13:24:19 +0000] "POST /checkout HTTP/1.1" 200 1648
+232.114.24.208 - - [14/Aug/2024:11:58:43 +0000] "GET /products?category=beverage HTTP/1.1" 200 783
+26.15.188.122 - - [13/Aug/2024:11:33:43 +0000] "GET /checkout HTTP/1.1" 200 1569
+123.237.21.129 - - [03/Aug/2024:12:01:42 +0000] "GET /cart/add/buttermilk HTTP/1.1" 201 854
+85.6.232.100 - - [03/Aug/2024:16:09:40 +0000] "GET /cart/add/rice vinegar HTTP/1.1" 201 1934
+30.129.75.161 - - [07/Aug/2024:11:08:34 +0000] "GET /checkout HTTP/1.1" 200 1356
+145.92.206.164 - - [13/Aug/2024:16:11:06 +0000] "POST /cart/add/coffee HTTP/1.1" 201 376
+84.232.230.184 - - [31/Jul/2024:09:51:58 +0000] "GET /search?q=beef HTTP/1.1" 200 1968
+248.150.227.66 - - [16/Aug/2024:13:03:16 +0000] "GET /products?category=fruit HTTP/1.1" 200 463
+44.89.51.112 - - [17/Aug/2024:09:06:20 +0000] "POST /search?q=salt HTTP/1.1" 200 783
+118.85.77.85 - - [14/Aug/2024:11:39:19 +0000] "GET /search?q=olive oil HTTP/1.1" 200 431
+213.48.16.141 - - [17/Aug/2024:07:13:27 +0000] "POST /checkout HTTP/1.1" 200 623
+243.100.194.47 - - [31/Jul/2024:01:25:58 +0000] "POST /cart/add/balsamic vinegar HTTP/1.1" 201 321
+216.210.71.200 - - [10/Aug/2024:01:00:09 +0000] "POST /checkout HTTP/1.1" 200 280
+43.12.235.15 - - [15/Aug/2024:22:28:39 +0000] "GET /products?category=snack HTTP/1.1" 200 1071
+210.31.230.217 - - [11/Aug/2024:22:04:26 +0000] "POST /products/salt.html HTTP/1.1" 200 1114
+84.141.13.173 - - [17/Aug/2024:16:11:33 +0000] "POST /cart/add/beef HTTP/1.1" 201 1648
+238.34.106.40 - - [09/Aug/2024:09:39:29 +0000] "POST /search?q=frozen meat HTTP/1.1" 200 1327
+162.225.207.141 - - [07/Aug/2024:14:59:02 +0000] "GET /products/mayonnaise.html HTTP/1.1" 200 803
+105.127.8.75 - - [18/Aug/2024:21:53:51 +0000] "POST /search?q=egg HTTP/1.1" 200 419
+64.41.175.50 - - [25/Jul/2024:18:32:05 +0000] "GET /products?category=snack HTTP/1.1" 200 1566
+242.39.17.194 - - [04/Aug/2024:19:47:12 +0000] "GET /products?category=beverage HTTP/1.1" 200 1621
+243.37.131.241 - - [30/Jul/2024:01:47:41 +0000] "GET /checkout HTTP/1.1" 200 1167
+198.139.188.194 - - [06/Aug/2024:03:55:33 +0000] "POST /products/soy sauce.html HTTP/1.1" 200 1903
+196.95.218.170 - - [29/Jul/2024:20:43:55 +0000] "GET /search?q=lentils HTTP/1.1" 200 1273
+148.216.94.152 - - [07/Aug/2024:16:49:03 +0000] "POST /products/tea.html HTTP/1.1" 200 1110
+101.249.28.30 - - [25/Jul/2024:22:32:21 +0000] "GET /search?q=frozen fruit HTTP/1.1" 200 487
+15.119.253.88 - - [18/Aug/2024:13:44:33 +0000] "GET /products?category=dairy HTTP/1.1" 200 247
+183.224.241.151 - - [30/Jul/2024:13:43:07 +0000] "GET /products/soup.html HTTP/1.1" 200 1019
+191.137.250.176 - - [19/Aug/2024:00:56:32 +0000] "POST /checkout HTTP/1.1" 200 326
+105.212.172.242 - - [13/Aug/2024:15:54:41 +0000] "GET /products?category=dairy HTTP/1.1" 200 539
+211.99.175.229 - - [18/Aug/2024:23:52:08 +0000] "GET /products/ketchup.html HTTP/1.1" 200 361
+170.79.192.100 - - [23/Jul/2024:07:27:34 +0000] "GET /checkout HTTP/1.1" 200 1366
+108.108.82.163 - - [08/Aug/2024:11:35:58 +0000] "GET /search?q=flour HTTP/1.1" 200 842
+119.125.122.22 - - [02/Aug/2024:16:01:37 +0000] "GET /products?category=dairy HTTP/1.1" 200 1948
+246.12.246.77 - - [07/Aug/2024:20:45:48 +0000] "POST /products?category=snack HTTP/1.1" 200 478
+247.105.65.119 - - [29/Jul/2024:10:58:30 +0000] "POST /checkout HTTP/1.1" 200 334
+205.198.1.25 - - [02/Aug/2024:02:56:43 +0000] "POST /search?q=oil HTTP/1.1" 200 1272
+231.195.59.35 - - [15/Aug/2024:15:39:33 +0000] "GET /checkout HTTP/1.1" 200 788
+199.229.23.40 - - [01/Aug/2024:00:00:02 +0000] "GET /cart/add/vinegar HTTP/1.1" 201 1716
+63.227.50.81 - - [29/Jul/2024:12:44:45 +0000] "POST /checkout HTTP/1.1" 200 1793
+237.84.141.247 - - [13/Aug/2024:09:10:24 +0000] "GET /products/spinach.html HTTP/1.1" 200 1287
+14.79.135.57 - - [19/Aug/2024:19:49:29 +0000] "GET /search?q=chocolate HTTP/1.1" 200 1121
+105.143.208.233 - - [23/Jul/2024:13:03:00 +0000] "GET /search?q=soy sauce HTTP/1.1" 200 1376
+16.229.80.40 - - [19/Aug/2024:04:19:47 +0000] "POST /products?category=fruit HTTP/1.1" 200 1150
+209.223.28.30 - - [13/Aug/2024:06:21:41 +0000] "POST /search?q=trail mix HTTP/1.1" 200 214
+77.165.25.211 - - [08/Aug/2024:09:23:02 +0000] "POST /checkout HTTP/1.1" 200 1163
+216.84.159.9 - - [16/Aug/2024:20:07:45 +0000] "GET /cart/add/trail mix HTTP/1.1" 201 351
+100.175.11.251 - - [07/Aug/2024:14:32:52 +0000] "POST /products?category=dairy HTTP/1.1" 200 665
+240.127.58.25 - - [03/Aug/2024:13:25:43 +0000] "POST /products/chicken.html HTTP/1.1" 200 843
+221.230.218.227 - - [17/Aug/2024:12:45:33 +0000] "POST /search?q=rice HTTP/1.1" 200 1936
+4.235.20.130 - - [08/Aug/2024:07:16:46 +0000] "POST /search?q=spinach HTTP/1.1" 200 1663
+61.63.228.128 - - [03/Aug/2024:22:14:26 +0000] "GET /products?category=beverage HTTP/1.1" 200 1015
+1.201.108.212 - - [03/Aug/2024:01:10:10 +0000] "POST /checkout HTTP/1.1" 200 1088
+182.151.0.84 - - [24/Jul/2024:23:40:59 +0000] "GET /cart/add/vinegar HTTP/1.1" 201 583
+26.91.181.139 - - [09/Aug/2024:22:35:40 +0000] "POST /products/apple.html HTTP/1.1" 200 1147
+194.12.251.168 - - [08/Aug/2024:02:21:44 +0000] "GET /products?category=fruit HTTP/1.1" 200 1087
+111.5.131.155 - - [06/Aug/2024:06:14:40 +0000] "GET /checkout HTTP/1.1" 200 352
+226.216.230.105 - - [20/Jul/2024:00:27:02 +0000] "POST /products/croissants.html HTTP/1.1" 200 727
+70.212.87.22 - - [02/Aug/2024:19:35:37 +0000] "GET /products/muffins.html HTTP/1.1" 200 605
+251.242.175.26 - - [06/Aug/2024:08:09:04 +0000] "GET /products?category=beverage HTTP/1.1" 200 714

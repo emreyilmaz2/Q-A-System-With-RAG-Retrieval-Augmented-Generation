@@ -1,0 +1,69 @@
+IP Address: 5.239.32.222
+Date Timestamp: 17/Aug/2024:08:20:59 +0000
+HTTP Method: GET
+Request Path: /checkout
+Status Code: 200
+Size: 1409
+
+IP Address: 124.134.8.40
+Date Timestamp: 17/Aug/2024:05:00:40 +0000
+HTTP Method: GET
+Request Path: /checkout
+Status Code: 200
+Size: 566
+
+IP Address: 75.195.12.216
+Date Timestamp: 17/Aug/2024:09:54:44 +0000
+HTTP Method: GET
+Request Path: /cart/add/sugar
+Status Code: 201
+Size: 732
+
+IP Address: 168.253.44.113
+Date Timestamp: 17/Aug/2024:10:38:43 +0000
+HTTP Method: POS
+Request Path: /checkout
+Status Code: 200
+Size: 1084
+
+IP Address: 18.178.65.109
+Date Timestamp: 17/Aug/2024:13:42:45 +0000
+HTTP Method: GET
+Request Path: /products?category=fruit
+Status Code: 200
+Size: 507
+
+IP Address: 196.81.15.134
+Date Timestamp: 17/Aug/2024:19:05:48 +0000
+HTTP Method: GET
+Request Path: /checkout
+Status Code: 200
+Size: 353
+
+IP Address: 109.199.162.120
+Date Timestamp: 17/Aug/2024:12:05:22 +0000
+HTTP Method: GET
+Request Path: /products/pepper.html
+Status Code: 200
+Size: 1631
+
+IP Address: 5.22.20.13
+Date Timestamp: 17/Aug/2024:03:48:37 +0000
+HTTP Method: POST
+Request Path: /search?q=peppers
+Status Code: 200
+Size: 859
+
+IP Address: 246.249.106.195
+Date Timestamp: 17/Aug/2024:02:59:30 +0000
+HTTP Method: GET
+Request Path: tomatoes.html
+Status Code: 200
+Size: 650
+
+IP Address: 103.247.116.195
+Date Timestamp: 17/Aug/2024:17:04:00 +0000
+HTTP Method: POST
+Request Path: meat
+Status Code: 201
+Size: 1521

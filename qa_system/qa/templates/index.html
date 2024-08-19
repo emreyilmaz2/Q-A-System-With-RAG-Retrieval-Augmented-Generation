@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Q&A</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+            overflow-y: auto; /* Vertical scrollbar for body */
+        }
+
+        .container {
+            width: 90%;
+
+            max-width: 800px; /* Genişliği artırmak için bu değeri yükseltebilirsiniz */
+            max-height: 80%; /* Max height of the container */
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px; /* Adds margin to ensure container isn't stuck to top */
+            overflow-y: auto; /* Enables scrolling if content overflows */
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        input {
+            padding: 10px;
+            width: calc(100% - 22px); /* Full width minus padding and border */
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #answer {
+            margin-top: 20px;
+            font-size: 18px;
+            word-wrap: break-word; /* Ensure long words or URLs break properly */
+        }
+
+        #message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #28a745; /* Yeşil onay rengi */
+        }
+
+        #retry-container {
+            display: none;
+            margin-top: 20px;
+        }
+
+        #retry-container button {
+            background-color: #dc3545; /* Kırmızı buton rengi */
+        }
+
+        #retry-container button:hover {
+            background-color: #c82333;
+        }
+    </style>
+    <script>
+        async function askQuestion() {
+            const question = document.getElementById('question').value;
+            const response = await fetch('/ask-question/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'X-Requested-With': 'XMLHttpRequest'
+                },
+                body: new URLSearchParams({ 'question': question })
+            });
+            const result = await response.json();
+
+            if (response.ok) {
+                document.getElementById('answer').innerText = result.answer || result.error;
+                document.getElementById('message').innerText = 'Your question has been submitted!';
+                document.getElementById('retry-container').style.display = 'block'; // Show retry container
+                document.getElementById('question').value = ''; // Clear input
+            } else {
+                document.getElementById('answer').innerText = '';
+                document.getElementById('message').innerText = 'An error occurred. Please try again.';
+            }
+        }
+
+        function reloadPage() {
+            location.reload(); // Refresh the page
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Ask a Question</h1>
+        <input type="text" id="question" placeholder="Enter your question" />
+        <button onclick="askQuestion()">Ask</button>
+        <p id="answer"></p>
+        <p id="message"></p>
+        <div id="retry-container">
+            <button onclick="reloadPage()">Try Again</button>
+        </div>
+    </div>
+</body>
+</html>
